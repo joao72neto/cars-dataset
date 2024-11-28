@@ -1,0 +1,3989 @@
+mar_id,mod_mrc_id,model,trim,body,mod_trm_id
+4990,1,200SX,SE,coupe,1
+4991,1,300ZX,Base,Hatchback,2
+4992,1,350Z,Base,coupe,2
+4993,1,350Z,Enthusiast,convertible,1
+4994,1,350Z,Enthusiast,convertible,2
+4995,1,350Z,Enthusiast,coupe,2
+4996,1,350Z,NISMO,coupe,1
+4997,1,350Z,Touring,convertible,1
+4998,1,350Z,Touring,convertible,2
+4999,1,370Z,Base,convertible,1
+5000,1,370Z,Base,coupe,1
+5001,1,370Z,Base,coupe,2
+5002,1,370Z,NISMO,coupe,2
+5003,1,370Z,Touring,convertible,1
+5004,1,370Z,Touring,convertible,2
+5005,1,370Z,Touring,coupe,1
+5006,1,370Z,Touring,coupe,2
+5007,1,Altima,2.5,sedan,2
+5008,1,Altima,2.5 S,coupe,1
+5009,1,Altima,2.5 S,coupe,2
+5010,1,Altima,2.5 S,sedan,2
+5011,1,Altima,2.5 SL,sedan,1
+5012,1,Altima,2.5 SL,sedan,2
+5013,1,Altima,2.5 SV,Sedan,1
+5014,1,Altima,2.5 SV,sedan,1
+5015,1,Altima,3.5 S,sedan,1
+5016,1,Altima,3.5 SE,coupe,1
+5017,1,Altima,3.5 SE,coupe,2
+5018,1,Altima,3.5 SE,sedan,1
+5019,1,Altima,3.5 SE-R,sedan,1
+5020,1,Altima,3.5 SE-R,sedan,2
+5021,1,Altima,3.5 SL,sedan,1
+5022,1,Altima,3.5 SR,coupe,1
+5023,1,Altima,3.5 SR,coupe,2
+5024,1,Altima,3.5 SR,sedan,1
+5025,1,Altima,GLE,sedan,1
+5026,1,Altima,GXE,sedan,1
+5027,1,Altima,SE,sedan,1
+5028,1,Altima,XE (1997.5),sedan,1
+5029,1,Altima Hybrid,Base,sedan,1
+5030,1,Armada,LE,suv,1
+5031,1,Armada,Platinum,suv,1
+5032,1,Armada,SE,suv,1
+5033,1,Armada,SE Off-Road,suv,1
+5034,1,Armada,SL,suv,1
+5035,1,Armada,SV,suv,1
+5036,1,Armada,Titanium,suv,1
+5037,1,Cube,1.8 Base,wagon,1
+5038,1,Cube,1.8 Base,wagon,2
+5039,1,Cube,1.8 S,wagon,1
+5040,1,Cube,1.8 S,wagon,2
+5041,1,Cube,1.8 S Krom Edition,wagon,1
+5042,1,Cube,1.8 SL,wagon,1
+5043,1,Cube,1.8 SL,wagon,2
+5044,1,Frontier,LE,crew cab,1
+5045,1,Frontier,LE,king cab,1
+5046,1,Frontier,Nismo,Crew Cab,2
+5047,1,Frontier,Nismo,crew cab,1
+5048,1,Frontier,Nismo,crew cab,2
+5049,1,Frontier,Nismo,king cab,1
+5050,1,Frontier,PRO-4X,crew cab,1
+5051,1,Frontier,S,crew cab,1
+5052,1,Frontier,S,king cab,1
+5053,1,Frontier,S,king cab,2
+5054,1,Frontier,SE,crew cab,1
+5055,1,Frontier,SE,crew cab,2
+5056,1,Frontier,SE,king cab,1
+5057,1,Frontier,SE,king cab,2
+5058,1,Frontier,SE-V6,crew cab,1
+5059,1,Frontier,SE-V6,crew cab,2
+5060,1,Frontier,SE-V6,king cab,1
+5061,1,Frontier,SE-V6,king cab,2
+5062,1,Frontier,SL,crew cab,1
+5063,1,Frontier,SV,crew cab,1
+5064,1,Frontier,SV,crew cab,2
+5065,1,Frontier,SV,king cab,1
+5066,1,Frontier,SV,king cab,2
+5067,1,Frontier,SVE-V6,crew cab,1
+5068,1,Frontier,Standard,king cab,1
+5069,1,Frontier,XE,king cab,1
+5070,1,Frontier,XE,king cab,2
+5071,1,Frontier,XE-V6,crew cab,1
+5072,1,Frontier,XE-V6,crew cab,2
+5073,1,Frontier,XE-V6,king cab,1
+5074,1,Frontier,XE-V6 Dessert Runner,king cab,2
+5075,1,GT-R,Base,coupe,1
+5076,1,GT-R,Black Edition,coupe,1
+5077,1,GT-R,Premium,coupe,1
+5078,1,GT-R,Track Edition,coupe,1
+5079,1,Juke,NISMO,hatchback,1
+5080,1,Juke,NISMO,hatchback,2
+5081,1,Juke,S,hatchback,1
+5082,1,Juke,S,hatchback,2
+5083,1,Juke,SL,hatchback,1
+5084,1,Juke,SV,hatchback,1
+5085,1,Juke,SV,hatchback,2
+5086,1,Leaf,S,hatchback,1
+5087,1,Leaf,SL,hatchback,1
+5088,1,Leaf,SV,hatchback,1
+5089,1,Maxima,3.5 S,sedan,1
+5090,1,Maxima,3.5 SE,Sedan,2
+5091,1,Maxima,3.5 SE,sedan,1
+5092,1,Maxima,3.5 SL,sedan,1
+5093,1,Maxima,3.5 SL,sedan,2
+5094,1,Maxima,3.5 SV,sedan,1
+5095,1,Maxima,GLE,Sedan,2
+5096,1,Maxima,GLE,sedan,1
+5097,1,Maxima,GLE,sedan,2
+5098,1,Maxima,GXE,sedan,1
+5099,1,Maxima,SE,sedan,1
+5100,1,Maxima,SE,sedan,2
+5101,1,Murano,LE,suv,1
+5102,1,Murano,S,suv,1
+5103,1,Murano,SE,suv,1
+5104,1,Murano,SL,suv,1
+5105,1,Murano,SV,suv,1
+5106,1,Murano CrossCabriolet,Base,suv,1
+5107,1,NV,1500 S,van,1
+5108,1,NV,1500 SV,van,1
+5109,1,NV,2500 SV,van,1
+5110,1,NV Cargo,1500 S,van,1
+5111,1,NV Cargo,3500 S,van,1
+5112,1,NV Passenger,3500 SV,van,1
+5113,1,Pathfinder,(1999.5) XE,suv,1
+5114,1,Pathfinder,LE,suv,1
+5115,1,Pathfinder,LE,suv,2
+5116,1,Pathfinder,Platinum,suv,1
+5117,1,Pathfinder,S,suv,1
+5118,1,Pathfinder,SE,suv,1
+5119,1,Pathfinder,SL,suv,1
+5120,1,Pathfinder,SV,suv,1
+5121,1,Pathfinder,XE,suv,1
+5122,1,Quest,3.5 S,minivan,1
+5123,1,Quest,3.5 SE,minivan,1
+5124,1,Quest,3.5 SL,minivan,1
+5125,1,Quest,GXE,minivan,1
+5126,1,Quest,LE,minivan,1
+5127,1,Quest,S,minivan,1
+5128,1,Quest,SE,Minivan,1
+5129,1,Quest,SE,minivan,1
+5130,1,Quest,SL,minivan,1
+5131,1,Quest,SV,minivan,1
+5132,1,Rogue,S,suv,1
+5133,1,Rogue,S Krom Edition,suv,1
+5134,1,Rogue,S SULEV,suv,1
+5135,1,Rogue,SL,suv,1
+5136,1,Rogue,SV,suv,1
+5137,1,Rogue Select,S,suv,1
+5138,1,Sentra,1.8,sedan,1
+5139,1,Sentra,1.8,sedan,2
+5140,1,Sentra,1.8 S,sedan,1
+5141,1,Sentra,1.8 S,sedan,2
+5142,1,Sentra,2,sedan,1
+5143,1,Sentra,2,sedan,2
+5144,1,Sentra,2.0 S,sedan,1
+5145,1,Sentra,2.0 S,sedan,2
+5146,1,Sentra,2.0 SL,sedan,1
+5147,1,Sentra,2.0 SL,sedan,2
+5148,1,Sentra,2.0 SR,sedan,1
+5149,1,Sentra,Base,sedan,1
+5150,1,Sentra,FE+ S,sedan,1
+5151,1,Sentra,FE+ SV,sedan,1
+5152,1,Sentra,GXE,sedan,1
+5153,1,Sentra,S,sedan,1
+5154,1,Sentra,S,sedan,2
+5155,1,Sentra,SE,sedan,1
+5156,1,Sentra,SE-R,sedan,1
+5157,1,Sentra,SE-R,sedan,2
+5158,1,Sentra,SE-R Spec V,sedan,2
+5159,1,Sentra,SL,sedan,1
+5160,1,Sentra,SR,sedan,1
+5161,1,Sentra,SV,sedan,1
+5162,1,Titan,LE,crew cab,1
+5163,1,Titan,LE,king cab,1
+5164,1,Titan,PRO-4X,crew cab,1
+5165,1,Titan,S,crew cab,1
+5166,1,Titan,S,king cab,1
+5167,1,Titan,SE,crew cab,1
+5168,1,Titan,SE,king cab,1
+5169,1,Titan,SL,crew cab,1
+5170,1,Titan,SV,crew cab,1
+5171,1,Titan,SV,king cab,1
+5172,1,Titan,XE,crew cab,1
+5173,1,Titan,XE,king cab,1
+5174,1,Truck,XE,extended cab,1
+5175,1,Versa,1.6,sedan,1
+5176,1,Versa,1.6 Base,sedan,2
+5177,1,Versa,1.6 S,sedan,1
+5178,1,Versa,1.6 S,sedan,2
+5179,1,Versa,1.6 S Plus,sedan,1
+5180,1,Versa,1.6 S Plus,sedan,2
+5181,1,Versa,1.6 SL,sedan,1
+5182,1,Versa,1.6 SL,sedan,2
+5183,1,Versa,1.6 SV,sedan,1
+5184,1,Versa,1.6 SV,sedan,2
+5185,1,Versa,1.8 S,hatchback,1
+5186,1,Versa,1.8 S,hatchback,2
+5187,1,Versa,1.8 S,sedan,1
+5188,1,Versa,1.8 S,sedan,2
+5189,1,Versa,1.8 SL,hatchback,1
+5190,1,Versa,1.8 SL,hatchback,2
+5191,1,Versa,1.8 SL,sedan,1
+5192,1,Versa Note,1.6 SV,hatchback,1
+5193,1,Versa Note,1.6 SV,hatchback,2
+5194,1,Xterra,Off-Road,suv,1
+5195,1,Xterra,Pro-4X,suv,1
+5196,1,Xterra,Pro-4X,suv,2
+5197,1,Xterra,S,suv,1
+5198,1,Xterra,S,suv,2
+5199,1,Xterra,SE,suv,1
+5200,1,Xterra,SE,suv,2
+5201,1,Xterra,SE S/C,suv,1
+5202,1,Xterra,X,suv,1
+5203,1,Xterra,X,suv,2
+5204,1,Xterra,XE,suv,1
+5205,1,Xterra,XE,suv,2
+5206,1,Xterra,XE V6,suv,1
+5207,2,Avenger,Express,sedan,1
+5208,2,Avenger,Lux,sedan,1
+5209,2,Avenger,Mainstreet,sedan,1
+5210,2,Avenger,R/T,sedan,1
+5211,2,Avenger,SE,sedan,1
+5212,2,Avenger,SE,sedan,2
+5213,2,Avenger,SXT,Sedan,2
+5214,2,Avenger,SXT,sedan,1
+5215,2,Avenger,SXT Plus,sedan,1
+5216,2,Caliber,Base,wagon,1
+5217,2,Caliber,Express,Wagon,1
+5218,2,Caliber,Heat,wagon,1
+5219,2,Caliber,Mainstreet,wagon,1
+5220,2,Caliber,R/T,wagon,1
+5221,2,Caliber,SE,wagon,1
+5222,2,Caliber,SE,wagon,2
+5223,2,Caliber,SRT4,wagon,2
+5224,2,Caliber,SXT,wagon,1
+5225,2,Caliber,SXT,wagon,2
+5226,2,Caliber,SXT Fleet,wagon,1
+5227,2,Caliber,Uptown,wagon,1
+5228,2,Caravan,C/V,minivan,1
+5229,2,Caravan,SE,minivan,1
+5230,2,Caravan,SXT,minivan,1
+5231,2,Challenger,Base,coupe,1
+5232,2,Challenger,R/T,coupe,1
+5233,2,Challenger,R/T,coupe,2
+5234,2,Challenger,R/T Plus,Coupe,1
+5235,2,Challenger,R/T Plus,coupe,2
+5236,2,Challenger,R/T Scat Pack,coupe,1
+5237,2,Challenger,R/T Scat Pack,coupe,2
+5238,2,Challenger,SE,coupe,1
+5239,2,Challenger,SRT8,coupe,1
+5240,2,Challenger,SRT8,coupe,2
+5241,2,Challenger,SRT8 392,coupe,1
+5242,2,Challenger,SRT8 392,coupe,2
+5243,2,Challenger,SRT8 Core,coupe,2
+5244,2,Challenger,SXT,coupe,1
+5245,2,Challenger,SXT Plus,Coupe,1
+5246,2,Challenger,SXT Plus,coupe,1
+5247,2,Charger,3.5L,sedan,1
+5248,2,Charger,Base,sedan,1
+5249,2,Charger,Fleet,Sedan,1
+5250,2,Charger,R/T,sedan,1
+5251,2,Charger,RT,sedan,1
+5252,2,Charger,RT Fleet,sedan,1
+5253,2,Charger,Rallye,sedan,1
+5254,2,Charger,SE,sedan,1
+5255,2,Charger,SRT-8,sedan,1
+5256,2,Charger,SRT8,sedan,1
+5257,2,Charger,SRT8 Superbee,sedan,1
+5258,2,Charger,SXT,sedan,1
+5259,2,Charger,SXT Fleet,sedan,1
+5260,2,Dakota,Base,club cab,1
+5261,2,Dakota,Base,extended cab,1
+5262,2,Dakota,BigHorn,crew cab,1
+5263,2,Dakota,BigHorn,extended cab,1
+5264,2,Dakota,Laramie,crew cab,1
+5265,2,Dakota,SLT,club cab,1
+5266,2,Dakota,SLT,extended cab,1
+5267,2,Dakota,SLT,quad cab,1
+5268,2,Dakota,ST,club cab,1
+5269,2,Dakota,ST,quad cab,1
+5270,2,Dakota,ST,quad cab,2
+5271,2,Dakota,SXT,extended cab,1
+5272,2,Dakota,Sport,club cab,1
+5273,2,Dakota,Sport,club cab,2
+5274,2,Dakota,Sport,quad cab,1
+5275,2,Dart,GT,sedan,1
+5276,2,Dart,GT,sedan,2
+5277,2,Dart,Limited,sedan,1
+5278,2,Dart,Limited,sedan,2
+5279,2,Dart,SE,sedan,1
+5280,2,Dart,SE,sedan,2
+5281,2,Dart,SXT,sedan,1
+5282,2,Dart,SXT,sedan,2
+5283,2,Durango,Citadel,suv,1
+5284,2,Durango,Crew,suv,1
+5285,2,Durango,Express,suv,1
+5286,2,Durango,Limited,suv,1
+5287,2,Durango,R/T,suv,1
+5288,2,Durango,SLT,suv,1
+5289,2,Durango,SLT Plus,suv,1
+5290,2,Durango,ST,suv,1
+5291,2,Durango,SXT,suv,1
+5292,2,Durango,Sport,suv,1
+5293,2,Grand Caravan,American Value Package,minivan,1
+5294,2,Grand Caravan,C/V,minivan,1
+5295,2,Grand Caravan,Crew,minivan,1
+5296,2,Grand Caravan,ES,minivan,1
+5297,2,Grand Caravan,EX,minivan,1
+5298,2,Grand Caravan,Express,minivan,1
+5299,2,Grand Caravan,Hero,minivan,1
+5300,2,Grand Caravan,Mainstreet,minivan,1
+5301,2,Grand Caravan,R/T,minivan,1
+5302,2,Grand Caravan,SE,minivan,1
+5303,2,Grand Caravan,SE Plus,Minivan,1
+5304,2,Grand Caravan,SE Plus,minivan,1
+5305,2,Grand Caravan,Sport,minivan,1
+5306,2,Grand Caravan,eL,minivan,1
+5307,2,Intrepid,Base,sedan,1
+5308,2,Intrepid,ES,sedan,1
+5309,2,Intrepid,R/T,sedan,1
+5310,2,Intrepid,SE,sedan,1
+5311,2,Journey,American Value Package,suv,1
+5312,2,Journey,Crew,suv,1
+5313,2,Journey,Crossroad,suv,1
+5314,2,Journey,Express,suv,1
+5315,2,Journey,Lux,suv,1
+5316,2,Journey,Mainstreet,suv,1
+5317,2,Journey,R/T,suv,1
+5318,2,Journey,SE,suv,1
+5319,2,Journey,SXT,suv,1
+5320,2,Magnum,Base,wagon,1
+5321,2,Magnum,RT,wagon,1
+5322,2,Magnum,SE,wagon,1
+5323,2,Magnum,SRT-8,wagon,1
+5324,2,Magnum,SXT,wagon,1
+5325,2,Neon,Base,sedan,1
+5326,2,Neon,SE,sedan,1
+5327,2,Neon,SRT-4,sedan,2
+5328,2,Neon,SXT,sedan,1
+5329,2,Neon,SXT,sedan,2
+5330,2,Nitro,Detonator,suv,1
+5331,2,Nitro,Heat,suv,1
+5332,2,Nitro,SE,suv,1
+5333,2,Nitro,SE Fleet,suv,1
+5334,2,Nitro,SLT,suv,1
+5335,2,Nitro,SXT,suv,1
+5336,2,Nitro,SXT,suv,2
+5337,2,Nitro,SXT Fleet,suv,1
+5338,2,Ram Pickup 1500,Laramie,Crew Cab,2
+5339,2,Ram Pickup 1500,Laramie,crew cab,1
+5340,2,Ram Pickup 1500,Laramie,mega cab,1
+5341,2,Ram Pickup 1500,Laramie,quad cab,1
+5342,2,Ram Pickup 1500,Laramie SLT,regular cab,1
+5343,2,Ram Pickup 1500,SLT,crew cab,1
+5344,2,Ram Pickup 1500,SLT,mega cab,1
+5345,2,Ram Pickup 1500,SLT,quad cab,1
+5346,2,Ram Pickup 1500,SLT,quad cab,2
+5347,2,Ram Pickup 1500,SLT,regular cab,1
+5348,2,Ram Pickup 1500,SRT-10,quad cab,1
+5349,2,Ram Pickup 1500,SRT-10,regular cab,2
+5350,2,Ram Pickup 1500,ST,crew cab,1
+5351,2,Ram Pickup 1500,ST,quad cab,1
+5352,2,Ram Pickup 1500,ST,quad cab,2
+5353,2,Ram Pickup 1500,ST,regular cab,1
+5354,2,Ram Pickup 1500,ST,regular cab,2
+5355,2,Ram Pickup 2500,Laramie,crew cab,1
+5356,2,Ram Pickup 2500,Laramie,crew cab,2
+5357,2,Ram Pickup 2500,Laramie,mega cab,1
+5358,2,Ram Pickup 2500,Laramie,quad cab,1
+5359,2,Ram Pickup 2500,SLT,crew cab,1
+5360,2,Ram Pickup 2500,SLT,mega cab,1
+5361,2,Ram Pickup 2500,SLT,quad cab,1
+5362,2,Ram Pickup 2500,SLT,quad cab,2
+5363,2,Ram Pickup 2500,SLT,regular cab,1
+5364,2,Ram Pickup 2500,ST,Crew Cab,1
+5365,2,Ram Pickup 2500,ST,quad cab,1
+5366,2,Ram Pickup 2500,ST,quad cab,2
+5367,2,Ram Pickup 2500,SXT,Mega Cab,1
+5368,2,Ram Pickup 2500,SXT,mega cab,1
+5369,2,Ram Pickup 3500,Laramie,crew cab,1
+5370,2,Ram Pickup 3500,Laramie,mega cab,1
+5371,2,Ram Pickup 3500,Laramie,quad cab,1
+5372,2,Ram Pickup 3500,Laramie,quad cab,2
+5373,2,Ram Pickup 3500,SLT,crew cab,1
+5374,2,Ram Pickup 3500,SLT,mega cab,1
+5375,2,Ram Pickup 3500,SLT,quad cab,1
+5376,2,Ram Pickup 3500,SLT,quad cab,2
+5377,2,Ram Pickup 3500,ST,quad cab,1
+5378,2,Ram Pickup 3500,ST,quad cab,2
+5379,2,Ram Pickup 3500,SXT,mega cab,1
+5380,2,Sprinter Cargo,2500 140 WB,van,1
+5381,2,Sprinter Cargo,2500 144 WB,van,1
+5382,2,Sprinter Cargo,2500 170 WB,van,1
+5383,2,Sprinter Cargo,2500 High Roof 140 WB,van,1
+5384,2,Sprinter Cargo,2500 High Roof 158 WB,van,1
+5385,2,Sprinter Cargo,3500 170 WB,van,1
+5386,2,Stratus,R/T,coupe,1
+5387,2,Stratus,R/T,coupe,2
+5388,2,Stratus,SE,coupe,1
+5389,2,Stratus,SE,sedan,1
+5390,2,Stratus,SXT,coupe,2
+5391,2,Stratus,SXT,sedan,1
+5392,2,Viper,SRT-10,convertible,2
+5393,2,Viper,SRT-10,coupe,2
+5394,3,C-Max Energi,SEL,wagon,1
+5395,3,C-Max Hybrid,SE,wagon,1
+5396,3,C-Max Hybrid,SEL,wagon,1
+5397,3,Contour,GL,sedan,1
+5398,3,Contour,LX,sedan,1
+5399,3,Crown Victoria,Base,sedan,1
+5400,3,Crown Victoria,LX,sedan,1
+5401,3,Crown Victoria,LX Fleet,sedan,1
+5402,3,E-350,XLT Super Club Wagon,van,1
+5403,3,E-Series Van,E-150,e-series van,1
+5404,3,E-Series Van,E-250,e-series van,1
+5405,3,E-Series Van,E-350 Super Duty,e-series van,1
+5406,3,E-Series Wagon,E-350 Super Duty XL,van,1
+5407,3,E-Series Wagon,E-350 Super Duty XLT,van,1
+5408,3,Econoline Cargo,E-150,van,1
+5409,3,Econoline Cargo,E-250,van,1
+5410,3,Econoline Cargo,E-350 Super Duty,van,1
+5411,3,Econoline Wagon,E-150 XL,Van,1
+5412,3,Econoline Wagon,E-350 Super Duty XL,van,1
+5413,3,Econoline Wagon,E-350 Super Duty XLT,van,1
+5414,3,Edge,Limited,suv,1
+5415,3,Edge,SE,suv,1
+5416,3,Edge,SE Fleet,suv,1
+5417,3,Edge,SEL,SUV,2
+5418,3,Edge,SEL,suv,1
+5419,3,Edge,SEL Plus,suv,1
+5420,3,Edge,Sport,suv,1
+5421,3,Escape,HEV,suv,1
+5422,3,Escape,Hybrid,suv,1
+5423,3,Escape,Limited,suv,1
+5424,3,Escape,S,suv,1
+5425,3,Escape,SE,suv,1
+5426,3,Escape,SEL,suv,1
+5427,3,Escape,Titanium,suv,1
+5428,3,Escape,XLS,suv,1
+5429,3,Escape,XLS,suv,2
+5430,3,Escape,XLS Choice,suv,1
+5431,3,Escape,XLS Popular,suv,1
+5432,3,Escape,XLT,suv,1
+5433,3,Escape,XLT Choice,suv,1
+5434,3,Escape,XLT Popular,suv,1
+5435,3,Escape,XLT Sport,suv,1
+5436,3,Escape Hybrid,Base,suv,1
+5437,3,Escort,LX,Hatchback,2
+5438,3,Escort,LX,sedan,1
+5439,3,Escort,LX,sedan,2
+5440,3,Escort,LX,wagon,1
+5441,3,Escort,ZX2,coupe,1
+5442,3,Escort,ZX2,coupe,2
+5443,3,Escort,ZX2 Deluxe,coupe,1
+5444,3,Excursion,Eddie Bauer,suv,1
+5445,3,Excursion,Limited,suv,1
+5446,3,Excursion,XLT,suv,1
+5447,3,Expedition,EL King Ranch,suv,1
+5448,3,Expedition,EL Limited,suv,1
+5449,3,Expedition,EL SSV Fleet,suv,1
+5450,3,Expedition,EL XL,SUV,1
+5451,3,Expedition,EL XLT,suv,1
+5452,3,Expedition,Eddie Bauer,suv,1
+5453,3,Expedition,King Ranch,suv,1
+5454,3,Expedition,Limited,suv,1
+5455,3,Expedition,XL,suv,1
+5456,3,Expedition,XLS,suv,1
+5457,3,Expedition,XLT,suv,1
+5458,3,Expedition,XLT FX4,suv,1
+5459,3,Expedition,XLT Popular,suv,1
+5460,3,Expedition,XLT Premium,suv,1
+5461,3,Expedition,XLT Sport,suv,1
+5462,3,Expedition,XLT Value,suv,1
+5463,3,Expedition EL,King Ranch,suv,1
+5464,3,Expedition EL,Limited,suv,1
+5465,3,Expedition EL,XLT,suv,1
+5466,3,Explorer,Base,suv,1
+5467,3,Explorer,Eddie Bauer,suv,1
+5468,3,Explorer,Limited,suv,1
+5469,3,Explorer,NBX,suv,1
+5470,3,Explorer,Sport,suv,1
+5471,3,Explorer,XL,suv,1
+5472,3,Explorer,XLS,suv,1
+5473,3,Explorer,XLS Sport,suv,1
+5474,3,Explorer,XLT,suv,1
+5475,3,Explorer Sport,Base,suv,1
+5476,3,Explorer Sport,Choice,suv,1
+5477,3,Explorer Sport,XLS,suv,1
+5478,3,Explorer Sport Trac,Adrenalin,crew cab,1
+5479,3,Explorer Sport Trac,Base,crew cab,1
+5480,3,Explorer Sport Trac,Choice,Crew Cab,2
+5481,3,Explorer Sport Trac,Choice,crew cab,1
+5482,3,Explorer Sport Trac,Limited,crew cab,1
+5483,3,Explorer Sport Trac,Premium,crew cab,1
+5484,3,Explorer Sport Trac,Value,crew cab,1
+5485,3,Explorer Sport Trac,XLS,crew cab,1
+5486,3,Explorer Sport Trac,XLT,crew cab,1
+5487,3,F-150,60th Anniversary,supercrew,1
+5488,3,F-150,Base,Regular Cab,2
+5489,3,F-150,Base,extended cab,1
+5490,3,F-150,FX2,supercab,1
+5491,3,F-150,FX2,supercrew,1
+5492,3,F-150,FX4,supercab,1
+5493,3,F-150,FX4,supercrew,1
+5494,3,F-150,Harley-Davidson,supercrew,1
+5495,3,F-150,King Ranch,supercrew,1
+5496,3,F-150,Lariat,supercab,1
+5497,3,F-150,Lariat,supercrew,1
+5498,3,F-150,Lariat Limited,supercrew,1
+5499,3,F-150,Limited,supercrew,1
+5500,3,F-150,Platinum,supercrew,1
+5501,3,F-150,STX,regular cab,1
+5502,3,F-150,STX,supercab,1
+5503,3,F-150,STX,supercrew,1
+5504,3,F-150,SVT Lightning,regular cab,1
+5505,3,F-150,SVT Raptor,supercab,1
+5506,3,F-150,SVT Raptor,supercrew,1
+5507,3,F-150,Work,extended cab,2
+5508,3,F-150,XL,extended cab,1
+5509,3,F-150,XL,extended cab,2
+5510,3,F-150,XL,regular cab,1
+5511,3,F-150,XL,regular cab,2
+5512,3,F-150,XL,regular-cab,1
+5513,3,F-150,XL,supercab,1
+5514,3,F-150,XL,supercrew,1
+5515,3,F-150,XLT,SuperCrew,2
+5516,3,F-150,XLT,extended cab,1
+5517,3,F-150,XLT,regular cab,1
+5518,3,F-150,XLT,supercab,1
+5519,3,F-150,XLT,supercrew,1
+5520,3,F-150 Heritage,XL,regular cab,1
+5521,3,F-150 Heritage,XLT,supercab,1
+5522,3,F-150 SVT Lightning,Base,regular cab,1
+5523,3,F-250 Super Duty,FX4,crew cab,1
+5524,3,F-250 Super Duty,FX4,supercab,1
+5525,3,F-250 Super Duty,King Ranch,crew cab,1
+5526,3,F-250 Super Duty,Lariat,crew cab,1
+5527,3,F-250 Super Duty,Lariat,supercab,1
+5528,3,F-250 Super Duty,Platinum,crew cab,1
+5529,3,F-250 Super Duty,XL,crew cab,1
+5530,3,F-250 Super Duty,XL,regular cab,1
+5531,3,F-250 Super Duty,XL,supercab,1
+5532,3,F-250 Super Duty,XLT,crew cab,1
+5533,3,F-250 Super Duty,XLT,crew cab,2
+5534,3,F-250 Super Duty,XLT,supercab,1
+5535,3,F-350 Super Duty,FX4,crew cab,1
+5536,3,F-350 Super Duty,FX4,supercab,1
+5537,3,F-350 Super Duty,King Ranch,crew cab,1
+5538,3,F-350 Super Duty,Lariat,crew cab,1
+5539,3,F-350 Super Duty,Lariat,supercab,1
+5540,3,F-350 Super Duty,Platinum,crew cab,1
+5541,3,F-350 Super Duty,XL,crew cab,1
+5542,3,F-350 Super Duty,XL,regular cab,1
+5543,3,F-350 Super Duty,XL,supercab,1
+5544,3,F-350 Super Duty,XLT,crew cab,1
+5545,3,F-350 Super Duty,XLT,crew cab,2
+5546,3,F-450 Super Duty,Lariat,Crew Cab,2
+5547,3,F-450 Super Duty,Lariat,crew cab,1
+5548,3,F-450 Super Duty,XL,crew cab,1
+5549,3,Fiesta,S,hatchback,1
+5550,3,Fiesta,S,hatchback,2
+5551,3,Fiesta,S,sedan,1
+5552,3,Fiesta,S,sedan,2
+5553,3,Fiesta,SE,hatchback,1
+5554,3,Fiesta,SE,hatchback,2
+5555,3,Fiesta,SE,sedan,1
+5556,3,Fiesta,SE,sedan,2
+5557,3,Fiesta,SEL,sedan,1
+5558,3,Fiesta,SEL,sedan,2
+5559,3,Fiesta,SES,hatchback,1
+5560,3,Fiesta,SES,hatchback,2
+5561,3,Fiesta,ST,hatchback,2
+5562,3,Fiesta,Titanium,hatchback,1
+5563,3,Fiesta,Titanium,hatchback,2
+5564,3,Fiesta,Titanium,sedan,1
+5565,3,Five Hundred,Limited,sedan,1
+5566,3,Five Hundred,SE,sedan,1
+5567,3,Five Hundred,SEL,sedan,1
+5568,3,Flex,Limited,wagon,1
+5569,3,Flex,SE,wagon,1
+5570,3,Flex,SEL,wagon,1
+5571,3,Focus,Electric,hatchback,1
+5572,3,Focus,LX,sedan,1
+5573,3,Focus,LX,sedan,2
+5574,3,Focus,LX Premium,sedan,1
+5575,3,Focus,LX Premium,sedan,2
+5576,3,Focus,S,coupe,1
+5577,3,Focus,S,sedan,1
+5578,3,Focus,S,sedan,2
+5579,3,Focus,SE,coupe,1
+5580,3,Focus,SE,coupe,2
+5581,3,Focus,SE,hatchback,1
+5582,3,Focus,SE,hatchback,2
+5583,3,Focus,SE,sedan,1
+5584,3,Focus,SE,sedan,2
+5585,3,Focus,SE,wagon,1
+5586,3,Focus,SE Comfort,sedan,1
+5587,3,Focus,SEL,hatchback,1
+5588,3,Focus,SEL,sedan,1
+5589,3,Focus,SEL,sedan,2
+5590,3,Focus,SES,coupe,1
+5591,3,Focus,SES,coupe,2
+5592,3,Focus,SES,sedan,1
+5593,3,Focus,SES,sedan,2
+5594,3,Focus,SVT,hatchback,2
+5595,3,Focus,Titanium,hatchback,1
+5596,3,Focus,Titanium,hatchback,2
+5597,3,Focus,Titanium,sedan,1
+5598,3,Focus,ZTS,sedan,1
+5599,3,Focus,ZTS,sedan,2
+5600,3,Focus,ZTW,wagon,1
+5601,3,Focus,ZX3,hatchback,1
+5602,3,Focus,ZX3,hatchback,2
+5603,3,Focus,ZX3 Power Premium,hatchback,2
+5604,3,Focus,ZX3 S,hatchback,2
+5605,3,Focus,ZX3 SES,hatchback,1
+5606,3,Focus,ZX4 SE,sedan,1
+5607,3,Focus,ZX4 SE,sedan,2
+5608,3,Focus,ZX4 SES,sedan,1
+5609,3,Focus,ZX4 ST,sedan,2
+5610,3,Focus,ZX5 Premium,hatchback,1
+5611,3,Focus,ZX5 SE,hatchback,1
+5612,3,Focus,ZX5 SES,hatchback,1
+5613,3,Focus ST,Base,hatchback,2
+5614,3,Freestar,Limited,minivan,1
+5615,3,Freestar,S,minivan,1
+5616,3,Freestar,SE,minivan,1
+5617,3,Freestar,SEL,minivan,1
+5618,3,Freestar,SES,minivan,1
+5619,3,Freestyle,Limited,wagon,1
+5620,3,Freestyle,SE,wagon,1
+5621,3,Freestyle,SEL,wagon,1
+5622,3,Fusion,Hybrid,sedan,1
+5623,3,Fusion,S,sedan,1
+5624,3,Fusion,S,sedan,2
+5625,3,Fusion,SE,sedan,2
+5626,3,Fusion,SEL,sedan,1
+5627,3,Fusion,SEL,sedan,2
+5628,3,Fusion,SPORT,sedan,1
+5629,3,Fusion,Titanium,sedan,1
+5630,3,Fusion Energi,SE Luxury,sedan,1
+5631,3,Fusion Energi,Titanium,sedan,1
+5632,3,Fusion Hybrid,Base,sedan,1
+5633,3,Fusion Hybrid,S,Sedan,1
+5634,3,Fusion Hybrid,SE,sedan,1
+5635,3,Fusion Hybrid,Titanium,sedan,1
+5636,3,Mustang,Base,convertible,1
+5637,3,Mustang,Base,convertible,2
+5638,3,Mustang,Base,coupe,1
+5639,3,Mustang,Base,coupe,2
+5640,3,Mustang,Boss 302,coupe,2
+5641,3,Mustang,Bullitt,coupe,1
+5642,3,Mustang,Bullitt,coupe,2
+5643,3,Mustang,Deluxe,convertible,1
+5644,3,Mustang,Deluxe,convertible,2
+5645,3,Mustang,Deluxe,coupe,1
+5646,3,Mustang,Deluxe,coupe,2
+5647,3,Mustang,EcoBoost,Coupe,1
+5648,3,Mustang,EcoBoost,Coupe,2
+5649,3,Mustang,EcoBoost,coupe,1
+5650,3,Mustang,EcoBoost,coupe,2
+5651,3,Mustang,GT,convertible,1
+5652,3,Mustang,GT,convertible,2
+5653,3,Mustang,GT,coupe,1
+5654,3,Mustang,GT,coupe,2
+5655,3,Mustang,GT Deluxe,convertible,1
+5656,3,Mustang,GT Deluxe,convertible,2
+5657,3,Mustang,GT Deluxe,coupe,1
+5658,3,Mustang,GT Deluxe,coupe,2
+5659,3,Mustang,GT Premium,convertible,1
+5660,3,Mustang,GT Premium,convertible,2
+5661,3,Mustang,GT Premium,coupe,1
+5662,3,Mustang,GT Premium,coupe,2
+5663,3,Mustang,Premium,convertible,1
+5664,3,Mustang,Premium,coupe,1
+5665,3,Mustang,Premium,coupe,2
+5666,3,Mustang,Standard,coupe,1
+5667,3,Mustang,Standard,coupe,2
+5668,3,Mustang,V6,convertible,1
+5669,3,Mustang,V6,convertible,2
+5670,3,Mustang,V6,coupe,1
+5671,3,Mustang,V6,coupe,2
+5672,3,Mustang SVT Cobra,Base,coupe,2
+5673,3,Ranger,EDGE,supercab,1
+5674,3,Ranger,EDGE,supercab,2
+5675,3,Ranger,Edge,regular cab,1
+5676,3,Ranger,Edge,supercab,1
+5677,3,Ranger,Edge,supercab,2
+5678,3,Ranger,Edge Plus,supercab,1
+5679,3,Ranger,FX4 Off-Road,supercab,1
+5680,3,Ranger,FX4 Off-Road,supercab,2
+5681,3,Ranger,S,Regular Cab,2
+5682,3,Ranger,SPORT,regular cab,2
+5683,3,Ranger,SPORT,supercab,1
+5684,3,Ranger,SPORT,supercab,2
+5685,3,Ranger,STX,regular cab,1
+5686,3,Ranger,STX,supercab,2
+5687,3,Ranger,Tremor,supercab,1
+5688,3,Ranger,XL,regular cab,1
+5689,3,Ranger,XL,regular cab,2
+5690,3,Ranger,XL,supercab,1
+5691,3,Ranger,XL,supercab,2
+5692,3,Ranger,XLT,extended cab,1
+5693,3,Ranger,XLT,extended cab,2
+5694,3,Ranger,XLT,regular cab,1
+5695,3,Ranger,XLT,regular cab,2
+5696,3,Ranger,XLT,supercab,1
+5697,3,Ranger,XLT,supercab,2
+5698,3,Shelby GT500,Base,convertible,2
+5699,3,Shelby GT500,Base,coupe,1
+5700,3,Shelby GT500,Base,coupe,2
+5701,3,Taurus,GL,sedan,1
+5702,3,Taurus,LX,sedan,1
+5703,3,Taurus,Limited,sedan,1
+5704,3,Taurus,SE,sedan,1
+5705,3,Taurus,SE,wagon,1
+5706,3,Taurus,SE Fleet,sedan,1
+5707,3,Taurus,SEL,sedan,1
+5708,3,Taurus,SEL Deluxe,sedan,1
+5709,3,Taurus,SEL Fleet,sedan,1
+5710,3,Taurus,SES,sedan,1
+5711,3,Taurus,SES Deluxe,sedan,1
+5712,3,Taurus,SHO,sedan,1
+5713,3,Taurus X,Eddie Bauer,wagon,1
+5714,3,Taurus X,Limited,wagon,1
+5715,3,Taurus X,SEL,wagon,1
+5716,3,Thunderbird,Deluxe,convertible,1
+5717,3,Thunderbird,LX,coupe,1
+5718,3,Thunderbird,Premium,convertible,1
+5719,3,Transit Connect,Cargo Van XL,minivan,1
+5720,3,Transit Connect,Cargo Van XL LWB,Minivan,1
+5721,3,Transit Connect,Cargo Van XLT,minivan,1
+5722,3,Transit Connect,Cargo Van XLT LWB,minivan,1
+5723,3,Transit Connect,Wagon Titanium LWB,minivan,1
+5724,3,Transit Connect,Wagon XLT,minivan,1
+5725,3,Transit Connect,Wagon XLT LWB,minivan,1
+5726,3,Transit Connect,Wagon XLT Premium,minivan,1
+5727,3,Transit Van,150 Low Roof,Transit Van,1
+5728,3,Transit Van,150 Low Roof,transit van,1
+5729,3,Transit Van,250 High Roof,Transit Van,1
+5730,3,Transit Van,250 High Roof,transit van,1
+5731,3,Transit Van,250 Low Roof,Transit Van,1
+5732,3,Transit Van,250 Low Roof,transit van,1
+5733,3,Transit Van,250 Medium Roof,Transit Van,1
+5734,3,Transit Wagon,350 XL High Roof,van,1
+5735,3,Transit Wagon,350 XL Low Roof,Van,1
+5736,3,Transit Wagon,350 XL Low Roof,van,1
+5737,3,Transit Wagon,350 XL Medium Roof,Van,1
+5738,3,Windstar,LX,minivan,1
+5739,3,Windstar,LX Standard,minivan,1
+5740,3,Windstar,Limited,minivan,1
+5741,3,Windstar,SE,minivan,1
+5742,3,Windstar,SEL,minivan,1
+5743,3,Windstar Cargo,Base,minivan,1
+5744,4,300-Class,300E 2.8,sedan,1
+5745,4,B-Class Electric Drive,Base,Hatchback,1
+5746,4,B-Class Electric Drive,Base,hatchback,1
+5747,4,C-Class,C230,hatchback,1
+5748,4,C-Class,C230,hatchback,2
+5749,4,C-Class,C230,sedan,1
+5750,4,C-Class,C230 Kompressor,sedan,1
+5751,4,C-Class,C230 Sport,sedan,1
+5752,4,C-Class,C230 Sport,sedan,2
+5753,4,C-Class,C240,sedan,1
+5754,4,C-Class,C240,sedan,2
+5755,4,C-Class,C240,wagon,1
+5756,4,C-Class,C240 4MATIC,sedan,1
+5757,4,C-Class,C240 4MATIC,wagon,1
+5758,4,C-Class,C240 Luxury,sedan,1
+5759,4,C-Class,C240 Luxury,wagon,1
+5760,4,C-Class,C240 Luxury 4MATIC,Wagon,1
+5761,4,C-Class,C240 Luxury 4MATIC,sedan,1
+5762,4,C-Class,C250,coupe,1
+5763,4,C-Class,C250 Sport,sedan,1
+5764,4,C-Class,C280,sedan,1
+5765,4,C-Class,C280 Luxury,sedan,1
+5766,4,C-Class,C280 Luxury 4MATIC,sedan,1
+5767,4,C-Class,C300,Sedan,1
+5768,4,C-Class,C300,sedan,1
+5769,4,C-Class,C300 Luxury,sedan,1
+5770,4,C-Class,C300 Luxury 4MATIC,sedan,1
+5771,4,C-Class,C300 Sport,sedan,1
+5772,4,C-Class,C300 Sport,sedan,2
+5773,4,C-Class,C300 Sport 4MATIC,sedan,1
+5774,4,C-Class,C32 AMG,sedan,1
+5775,4,C-Class,C320,hatchback,1
+5776,4,C-Class,C320,sedan,1
+5777,4,C-Class,C320,wagon,1
+5778,4,C-Class,C320 Sport,sedan,1
+5779,4,C-Class,C350,coupe,1
+5780,4,C-Class,C350 4MATIC,coupe,1
+5781,4,C-Class,C350 Luxury,sedan,1
+5782,4,C-Class,C350 Sport,sedan,1
+5783,4,C-Class,C55 AMG,sedan,1
+5784,4,C-Class,C63 AMG,sedan,1
+5785,4,CL-Class,CL500,coupe,1
+5786,4,CL-Class,CL55 AMG,coupe,1
+5787,4,CL-Class,CL550,coupe,1
+5788,4,CL-Class,CL550 4MATIC,coupe,1
+5789,4,CL-Class,CL600,coupe,1
+5790,4,CL-Class,CL63 AMG,coupe,1
+5791,4,CL-Class,CL65 AMG,Coupe,1
+5792,4,CLA-Class,CLA250,sedan,1
+5793,4,CLA-Class,CLA250 4MATIC,sedan,1
+5794,4,CLA-Class,CLA45 AMG,sedan,1
+5795,4,CLK-Class,CLK320,convertible,1
+5796,4,CLK-Class,CLK320,coupe,1
+5797,4,CLK-Class,CLK350,convertible,1
+5798,4,CLK-Class,CLK350,coupe,1
+5799,4,CLK-Class,CLK430,convertible,1
+5800,4,CLK-Class,CLK430,coupe,1
+5801,4,CLK-Class,CLK500,convertible,1
+5802,4,CLK-Class,CLK500,coupe,1
+5803,4,CLK-Class,CLK550,convertible,1
+5804,4,CLK-Class,CLK550,coupe,1
+5805,4,CLK-Class,CLK63 AMG,convertible,1
+5806,4,CLS-Class,CLS500,sedan,1
+5807,4,CLS-Class,CLS55 AMG,sedan,1
+5808,4,CLS-Class,CLS550,sedan,1
+5809,4,CLS-Class,CLS550 4MATIC,sedan,1
+5810,4,CLS-Class,CLS63 AMG,sedan,1
+5811,4,E-Class,E300D,sedan,1
+5812,4,E-Class,E320,convertible,1
+5813,4,E-Class,E320,sedan,1
+5814,4,E-Class,E320,wagon,1
+5815,4,E-Class,E320 4MATIC,sedan,1
+5816,4,E-Class,E320 4MATIC,wagon,1
+5817,4,E-Class,E320 BLUETEC,sedan,1
+5818,4,E-Class,E320 CDI,sedan,1
+5819,4,E-Class,E350,convertible,1
+5820,4,E-Class,E350,coupe,1
+5821,4,E-Class,E350,sedan,1
+5822,4,E-Class,E350 4MATIC,coupe,1
+5823,4,E-Class,E350 4MATIC,sedan,1
+5824,4,E-Class,E350 4MATIC,wagon,1
+5825,4,E-Class,E350 BlueTEC,sedan,1
+5826,4,E-Class,E350 Luxury,sedan,1
+5827,4,E-Class,E350 Luxury 4MATIC,sedan,1
+5828,4,E-Class,E350 Sport,sedan,1
+5829,4,E-Class,E350 Sport 4MATIC,Wagon,1
+5830,4,E-Class,E350 Sport 4MATIC,sedan,1
+5831,4,E-Class,E350 Sport 4MATIC,wagon,1
+5832,4,E-Class,E350 Sport BlueTEC,sedan,1
+5833,4,E-Class,E430,sedan,1
+5834,4,E-Class,E430 4MATIC,sedan,1
+5835,4,E-Class,E500,sedan,1
+5836,4,E-Class,E500 4MATIC,sedan,1
+5837,4,E-Class,E500 4MATIC,wagon,1
+5838,4,E-Class,E55 AMG,sedan,1
+5839,4,E-Class,E550,convertible,1
+5840,4,E-Class,E550,coupe,1
+5841,4,E-Class,E550,sedan,1
+5842,4,E-Class,E550 4MATIC,sedan,1
+5843,4,E-Class,E550 Sport 4MATIC,sedan,1
+5844,4,E-Class,E63 AMG,sedan,1
+5845,4,E-Class,E63 AMG 4MATIC,sedan,1
+5846,4,E-Class,E63 AMG 4MATIC S-Model,sedan,1
+5847,4,G-Class,G500,suv,1
+5848,4,G-Class,G55 AMG,suv,1
+5849,4,G-Class,G550,suv,1
+5850,4,G-Class,G63 AMG,suv,1
+5851,4,GL-Class,GL320 BlueTEC,suv,1
+5852,4,GL-Class,GL320 CDI,suv,1
+5853,4,GL-Class,GL350 BlueTEC,suv,1
+5854,4,GL-Class,GL350 BlueTEC 4MATIC,suv,1
+5855,4,GL-Class,GL450,suv,1
+5856,4,GL-Class,GL450 4MATIC,suv,1
+5857,4,GL-Class,GL550,suv,1
+5858,4,GL-Class,GL550 4MATIC,suv,1
+5859,4,GL-Class,GL63 AMG,suv,1
+5860,4,GLA-Class,GLA250 4MATIC,suv,1
+5861,4,GLK-Class,GLK250 BlueTEC 4MATIC,suv,1
+5862,4,GLK-Class,GLK350,suv,1
+5863,4,GLK-Class,GLK350 4MATIC,suv,1
+5864,4,M-Class,ML320,suv,1
+5865,4,M-Class,ML320 BlueTEC,suv,1
+5866,4,M-Class,ML320 CDI,suv,1
+5867,4,M-Class,ML350,suv,1
+5868,4,M-Class,ML350 4MATIC,suv,1
+5869,4,M-Class,ML350 BlueTEC,SUV,2
+5870,4,M-Class,ML350 BlueTEC,suv,1
+5871,4,M-Class,ML350 BlueTEC 4MATIC,suv,1
+5872,4,M-Class,ML430,suv,1
+5873,4,M-Class,ML500,suv,1
+5874,4,M-Class,ML550,suv,1
+5875,4,M-Class,ML550 4MATIC,suv,1
+5876,4,M-Class,ML63 AMG,suv,1
+5877,4,R-Class,R350,wagon,1
+5878,4,R-Class,R350 4MATIC,wagon,1
+5879,4,R-Class,R350 BlueTEC,wagon,1
+5880,4,R-Class,R500,wagon,1
+5881,4,S-Class,S320 SWB,sedan,1
+5882,4,S-Class,S350,sedan,1
+5883,4,S-Class,S350 BlueTEC 4MATIC,sedan,1
+5884,4,S-Class,S400 Hybrid,sedan,1
+5885,4,S-Class,S420,sedan,1
+5886,4,S-Class,S430,sedan,1
+5887,4,S-Class,S430 4MATIC,sedan,1
+5888,4,S-Class,S500,sedan,1
+5889,4,S-Class,S500 4MATIC,sedan,1
+5890,4,S-Class,S55 AMG,sedan,1
+5891,4,S-Class,S550,sedan,1
+5892,4,S-Class,S550 4MATIC,coupe,1
+5893,4,S-Class,S550 4MATIC,sedan,1
+5894,4,S-Class,S600,sedan,1
+5895,4,S-Class,S63 AMG,sedan,1
+5896,4,S-Class,S63 AMG 4MATIC,sedan,1
+5897,4,S-Class,S65 AMG,sedan,1
+5898,4,SL-Class,SL320,convertible,1
+5899,4,SL-Class,SL500,convertible,1
+5900,4,SL-Class,SL55 AMG,convertible,1
+5901,4,SL-Class,SL550,convertible,1
+5902,4,SL-Class,SL600,convertible,1
+5903,4,SL-Class,SL63 AMG,convertible,1
+5904,4,SL-Class,SL65 AMG,convertible,1
+5905,4,SLK-Class,SLK230,convertible,1
+5906,4,SLK-Class,SLK230,convertible,2
+5907,4,SLK-Class,SLK230 Kompressor,convertible,1
+5908,4,SLK-Class,SLK250,convertible,1
+5909,4,SLK-Class,SLK280,convertible,1
+5910,4,SLK-Class,SLK300,convertible,2
+5911,4,SLK-Class,SLK320,convertible,1
+5912,4,SLK-Class,SLK350,convertible,1
+5913,4,SLK-Class,SLK350,convertible,2
+5914,4,SLK-Class,SLK55 AMG,convertible,1
+5915,4,SLS AMG,Base,coupe,1
+5916,4,SLS AMG GT,Base,Coupe,1
+5917,4,Sprinter,2500 144 WB Cargo,van,1
+5918,4,Sprinter,2500 144 WB Passenger,van,1
+5919,4,Sprinter,2500 170 WB Cargo,van,1
+5920,4,Sprinter,2500 170 WB Passenger,van,1
+5921,4,Sprinter,3500 170 WB Cargo,Van,1
+5922,5,F-TYPE,Base,convertible,1
+5923,5,F-TYPE,R,coupe,1
+5924,5,F-TYPE,S,convertible,1
+5925,5,F-TYPE,S,coupe,1
+5926,5,F-TYPE,V8 S,convertible,1
+5927,5,S-Type,3,sedan,1
+5928,5,S-Type,4,sedan,1
+5929,5,S-Type,4.2,sedan,1
+5930,5,S-Type,R,sedan,1
+5931,5,X-Type,2.5,sedan,1
+5932,5,X-Type,3,Sedan,2
+5933,5,X-Type,3,sedan,1
+5934,5,X-Type,3.0L,sedan,1
+5935,5,XF,Base,sedan,1
+5936,5,XF,Luxury,sedan,1
+5937,5,XF,Portfolio,sedan,1
+5938,5,XF,Premium,sedan,1
+5939,5,XF,Premium Luxury,sedan,1
+5940,5,XF,Supercharged,sedan,1
+5941,5,XJ,Base,sedan,1
+5942,5,XJ,Supercharged,sedan,1
+5943,5,XJ,XJL,sedan,1
+5944,5,XJ,XJL Portfolio,sedan,1
+5945,5,XJ,XJL Supercharged,sedan,1
+5946,5,XJ,XJR,sedan,1
+5947,5,XJ,XJR LWB,sedan,1
+5948,5,XJ-Series,Vanden Plas,sedan,1
+5949,5,XJ-Series,XJ6 Sovereign,Sedan,1
+5950,5,XJ-Series,XJ6L,Sedan,1
+5951,5,XJ-Series,XJ6L,sedan,1
+5952,5,XJ-Series,XJ8,sedan,1
+5953,5,XJ-Series,XJ8 L,sedan,1
+5954,5,XJ-Series,XJ8L,sedan,1
+5955,5,XJ-Series,XJR,sedan,1
+5956,5,XK,Base,convertible,1
+5957,5,XK,Base,coupe,1
+5958,5,XK,XKR,convertible,1
+5959,5,XK,XKR,coupe,1
+5960,5,XK-Series,XK,convertible,1
+5961,5,XK-Series,XK,coupe,1
+5962,5,XK-Series,XK8,convertible,1
+5963,5,XK-Series,XKR,convertible,1
+5964,6,Aviator,Luxury,suv,1
+5965,6,Aviator,Premium,suv,1
+5966,6,Blackwood,Base,crew cab,1
+5967,6,Continental,Base,sedan,1
+5968,6,LS,Base,sedan,1
+5969,6,LS,Sport,sedan,1
+5970,6,LS,V6,sedan,1
+5971,6,LS,V8,sedan,1
+5972,6,MKC,Base,suv,1
+5973,6,MKS,Base,sedan,1
+5974,6,MKT,Base,wagon,1
+5975,6,MKX,Base,suv,1
+5976,6,MKZ,Base,sedan,1
+5977,6,MKZ,Hybrid,sedan,1
+5978,6,MKZ Hybrid,Base,sedan,1
+5979,6,Mark LT,Base,crew cab,1
+5980,6,Navigator,Base,suv,1
+5981,6,Navigator,L,suv,1
+5982,6,Navigator,Luxury,suv,1
+5983,6,Navigator,Premium,suv,1
+5984,6,Navigator,Ultimate,suv,1
+5985,6,Navigator L,Luxury,suv,1
+5986,6,Town Car,Cartier,sedan,1
+5987,6,Town Car,Executive,sedan,1
+5988,6,Town Car,Premium Signature,sedan,1
+5989,6,Town Car,Signature,sedan,1
+5990,6,Town Car,Signature Limited,sedan,1
+5991,6,Town Car,Ultimate,sedan,1
+5992,6,Zephyr,Base,sedan,1
+5993,7,850,Base,sedan,1
+5994,7,850,GLT,sedan,1
+5995,7,850,GLTS,Sedan,2
+5996,7,940,Level I,sedan,1
+5997,7,C30,R-Design,hatchback,1
+5998,7,C30,T5,hatchback,1
+5999,7,C30,T5 R-Design,hatchback,1
+6000,7,C70,HPT,convertible,1
+6001,7,C70,HT,convertible,1
+6002,7,C70,LPT,convertible,1
+6003,7,C70,LT,convertible,1
+6004,7,C70,T5,convertible,1
+6005,7,S40,2.4i,sedan,1
+6006,7,S40,2.4i,sedan,2
+6007,7,S40,Base,sedan,1
+6008,7,S40,T5,sedan,1
+6009,7,S40,T5,sedan,2
+6010,7,S60,2.4,sedan,1
+6011,7,S60,2.4T,sedan,1
+6012,7,S60,2.5T,sedan,1
+6013,7,S60,R,sedan,1
+6014,7,S60,R,sedan,2
+6015,7,S60,T5,sedan,1
+6016,7,S60,T5 Drive-E,sedan,1
+6017,7,S60,T5 Special Edition,sedan,1
+6018,7,S60,T6,sedan,1
+6019,7,S60,T6 R-Design,sedan,1
+6020,7,S70,Base,sedan,1
+6021,7,S70,GLT,sedan,1
+6022,7,S70,GLT SE,sedan,1
+6023,7,S80,2.5T,sedan,1
+6024,7,S80,2.9,sedan,1
+6025,7,S80,3.2,sedan,1
+6026,7,S80,T5 Drive-E,Sedan,1
+6027,7,S80,T6,sedan,1
+6028,7,S90,Base,sedan,1
+6029,7,V40,Base,wagon,1
+6030,7,V50,2.4i,wagon,1
+6031,7,V50,T5,wagon,1
+6032,7,V50,T5,wagon,2
+6033,7,V60,T5,wagon,1
+6034,7,V60,T5 Drive-E,wagon,1
+6035,7,V70,2.4,wagon,1
+6036,7,V70,2.4M,wagon,1
+6037,7,V70,2.4T,wagon,1
+6038,7,V70,2.5T,wagon,1
+6039,7,V70,Base,wagon,1
+6040,7,V70,R,wagon,1
+6041,7,V70,SE,wagon,1
+6042,7,V70,XC,wagon,1
+6043,7,XC,Base,wagon,1
+6044,7,XC60,3.2,suv,1
+6045,7,XC60,3.2 Premier Plus,SUV,1
+6046,7,XC60,3.2 R-Design,suv,1
+6047,7,XC60,T5 Drive-E Premier,suv,1
+6048,7,XC60,T5 Premier,SUV,1
+6049,7,XC60,T5 Premier,suv,1
+6050,7,XC60,T6,suv,1
+6051,7,XC60,T6 R-Design,suv,1
+6052,7,XC70,3.2,wagon,1
+6053,7,XC70,Base,wagon,1
+6054,7,XC70,T6,wagon,1
+6055,7,XC90,2.5T,suv,1
+6056,7,XC90,3.2,suv,1
+6057,7,XC90,3.2 Special Edition,suv,1
+6058,7,XC90,T6,suv,1
+6059,7,XC90,V8,suv,1
+6060,8,4Runner,Base,suv,1
+6061,8,4Runner,Limited,suv,1
+6062,8,4Runner,SR5,suv,1
+6063,8,4Runner,SR5,suv,2
+6064,8,4Runner,SR5 V6,suv,2
+6065,8,4Runner,Sport Edition,suv,1
+6066,8,4Runner,Trail,suv,1
+6067,8,Avalon,Base,sedan,1
+6068,8,Avalon,Limited,sedan,1
+6069,8,Avalon,Touring,sedan,1
+6070,8,Avalon,XL,sedan,1
+6071,8,Avalon,XLE,sedan,1
+6072,8,Avalon,XLE Touring,sedan,1
+6073,8,Avalon,XLE Touring SE,Sedan,1
+6074,8,Avalon,XLS,sedan,1
+6075,8,Avalon Hybrid,Limited,sedan,1
+6076,8,Avalon Hybrid,XLE Premium,sedan,1
+6077,8,Camry,Base,sedan,1
+6078,8,Camry,Base,sedan,2
+6079,8,Camry,CE,sedan,1
+6080,8,Camry,DX,sedan,1
+6081,8,Camry,LE,sedan,2
+6082,8,Camry,LE V6,sedan,1
+6083,8,Camry,LE V6,sedan,2
+6084,8,Camry,SE,sedan,2
+6085,8,Camry,SE Sport,sedan,1
+6086,8,Camry,SE V6,sedan,1
+6087,8,Camry,XLE V6,sedan,1
+6088,8,Camry,XSE,sedan,1
+6089,8,Camry Hybrid,Base,sedan,1
+6090,8,Camry Hybrid,LE,sedan,1
+6091,8,Camry Hybrid,SE,Sedan,1
+6092,8,Camry Hybrid,SE,sedan,1
+6093,8,Camry Hybrid,XLE,sedan,1
+6094,8,Camry Solara,SE,convertible,1
+6095,8,Camry Solara,SE,coupe,1
+6096,8,Camry Solara,SE V6,convertible,1
+6097,8,Camry Solara,SE V6,coupe,1
+6098,8,Camry Solara,SLE,convertible,1
+6099,8,Camry Solara,SLE V6,convertible,1
+6100,8,Camry Solara,SLE V6,coupe,1
+6101,8,Camry Solara,Sport V6,Coupe,1
+6102,8,Celica,GT,hatchback,1
+6103,8,Celica,GT,hatchback,2
+6104,8,Celica,GT-S,hatchback,1
+6105,8,Celica,GT-S,hatchback,2
+6106,8,Celica,GTS,hatchback,2
+6107,8,Corolla,Base,sedan,1
+6108,8,Corolla,Base,sedan,2
+6109,8,Corolla,CE,sedan,1
+6110,8,Corolla,CE,sedan,2
+6111,8,Corolla,DX,sedan,1
+6112,8,Corolla,Deluxe,sedan,1
+6113,8,Corolla,Deluxe,sedan,2
+6114,8,Corolla,Deluxe,wagon,1
+6115,8,Corolla,L,sedan,1
+6116,8,Corolla,L,sedan,2
+6117,8,Corolla,LE,sedan,1
+6118,8,Corolla,LE,sedan,2
+6119,8,Corolla,LE Eco,sedan,1
+6120,8,Corolla,LE Plus,sedan,1
+6121,8,Corolla,S,sedan,1
+6122,8,Corolla,S,sedan,2
+6123,8,Corolla,S Plus,sedan,1
+6124,8,Corolla,S Plus,sedan,2
+6125,8,Corolla,S Premium,sedan,1
+6126,8,Corolla,S Special Edition,sedan,1
+6127,8,Corolla,VE,sedan,1
+6128,8,Corolla,XLE,sedan,1
+6129,8,Corolla,XRS,sedan,1
+6130,8,Corolla,XRS,sedan,2
+6131,8,ECHO,Base,coupe,1
+6132,8,ECHO,Base,coupe,2
+6133,8,ECHO,Base,sedan,1
+6134,8,ECHO,Base,sedan,2
+6135,8,FJ Cruiser,Base,suv,1
+6136,8,FJ Cruiser,Base,suv,2
+6137,8,Highlander,Base,suv,1
+6138,8,Highlander,LE,suv,1
+6139,8,Highlander,LE Plus,SUV,1
+6140,8,Highlander,Limited,suv,1
+6141,8,Highlander,Plus,suv,1
+6142,8,Highlander,SE,suv,1
+6143,8,Highlander,Sport,suv,1
+6144,8,Highlander,V6,suv,1
+6145,8,Highlander,XLE,suv,1
+6146,8,Highlander Hybrid,Base,suv,1
+6147,8,Highlander Hybrid,Limited,suv,1
+6148,8,Land Cruiser,Base,suv,1
+6149,8,MR2 Spyder,Base,convertible,2
+6150,8,Matrix,Base,hatchback,1
+6151,8,Matrix,Base,hatchback,2
+6152,8,Matrix,Base,wagon,1
+6153,8,Matrix,Base,wagon,2
+6154,8,Matrix,S,hatchback,1
+6155,8,Matrix,S,hatchback,2
+6156,8,Matrix,XR,hatchback,1
+6157,8,Matrix,XR,wagon,1
+6158,8,Matrix,XR,wagon,2
+6159,8,Matrix,XRS,hatchback,1
+6160,8,Matrix,XRS,wagon,1
+6161,8,Matrix,XRS,wagon,2
+6162,8,Paseo,Base,Coupe,1
+6163,8,Prius,Base,hatchback,1
+6164,8,Prius,Base,sedan,1
+6165,8,Prius,II,hatchback,1
+6166,8,Prius,III,hatchback,1
+6167,8,Prius,IV,hatchback,1
+6168,8,Prius,One,hatchback,1
+6169,8,Prius,Three,hatchback,1
+6170,8,Prius,Touring,hatchback,1
+6171,8,Prius,Two,hatchback,1
+6172,8,Prius,V,hatchback,1
+6173,8,Prius Plug-in,Advanced,hatchback,1
+6174,8,Prius Plug-in,Base,hatchback,1
+6175,8,Prius c,One,hatchback,1
+6176,8,Prius c,Two,hatchback,1
+6177,8,Prius v,Five,wagon,1
+6178,8,Prius v,Three,wagon,1
+6179,8,RAV4,Base,suv,1
+6180,8,RAV4,LE,suv,1
+6181,8,RAV4,Limited,suv,1
+6182,8,RAV4,Sport,suv,1
+6183,8,RAV4,XLE,suv,1
+6184,8,Sequoia,Limited,suv,1
+6185,8,Sequoia,Limited FFV,suv,1
+6186,8,Sequoia,Platinum,suv,1
+6187,8,Sequoia,Platinum FFV,suv,1
+6188,8,Sequoia,SR5,suv,1
+6189,8,Sequoia,SR5 FFV,suv,1
+6190,8,Sienna,Base 7-Passenger,minivan,1
+6191,8,Sienna,CE,minivan,1
+6192,8,Sienna,CE 7-Passenger,minivan,1
+6193,8,Sienna,L 7-Passenger,minivan,1
+6194,8,Sienna,LE,minivan,1
+6195,8,Sienna,LE 7-Passenger,minivan,1
+6196,8,Sienna,LE 7-Passenger Mobility Auto Access,minivan,1
+6197,8,Sienna,LE 8-Passenger,minivan,1
+6198,8,Sienna,Limited 7-Passenger,minivan,1
+6199,8,Sienna,SE 8-Passenger,minivan,1
+6200,8,Sienna,XLE,minivan,1
+6201,8,Sienna,XLE 7-Passenger,minivan,1
+6202,8,Sienna,XLE 8-Passenger,minivan,1
+6203,8,Sienna,XLE Limited 7-Passenger,minivan,1
+6204,8,T100,DX,Extended Cab,1
+6205,8,T100,SR5,extended cab,1
+6206,8,Tacoma,Base,access cab,1
+6207,8,Tacoma,Base,access cab,2
+6208,8,Tacoma,Base,double cab,1
+6209,8,Tacoma,Base,regular cab,1
+6210,8,Tacoma,Base,regular cab,2
+6211,8,Tacoma,Base,xtracab,2
+6212,8,Tacoma,PreRunner,double cab,1
+6213,8,Tacoma,PreRunner,xtracab,1
+6214,8,Tacoma,PreRunner V6,access cab,1
+6215,8,Tacoma,PreRunner V6,double cab,1
+6216,8,Tacoma,Prerunner,regular cab,1
+6217,8,Tacoma,SR5,extended cab,2
+6218,8,Tacoma,TRD PRO,double cab,1
+6219,8,Tacoma,V6,access cab,1
+6220,8,Tacoma,V6,access cab,2
+6221,8,Tacoma,V6,double cab,1
+6222,8,Tacoma,V6,double cab,2
+6223,8,Tacoma,X-Runner V6,access cab,1
+6224,8,Tacoma,X-Runner V6,access cab,2
+6225,8,Tundra,1794 FFV,crewmax cab,1
+6226,8,Tundra,Base,regular cab,1
+6227,8,Tundra,Limited,Extended Cab,1
+6228,8,Tundra,Limited,access cab,1
+6229,8,Tundra,Limited,crewmax cab,1
+6230,8,Tundra,Limited,double cab,1
+6231,8,Tundra,Limited,extended cab,1
+6232,8,Tundra,Limited FFV,crewmax cab,1
+6233,8,Tundra,Limited FFV,double cab,1
+6234,8,Tundra,Platinum,crewmax cab,1
+6235,8,Tundra,Platinum FFV,crewmax cab,1
+6236,8,Tundra,SR,double cab,1
+6237,8,Tundra,SR FFV,double cab,1
+6238,8,Tundra,SR5,access cab,1
+6239,8,Tundra,SR5,crewmax cab,1
+6240,8,Tundra,SR5,double cab,1
+6241,8,Tundra,SR5 FFV,crewmax cab,1
+6242,8,Tundra,Tundra,crewmax cab,1
+6243,8,Tundra,Tundra,double cab,1
+6244,8,Tundra,Tundra FFV,crewmax cab,1
+6245,8,Tundra,Tundra FFV,double cab,1
+6246,8,Tundra,Tundra Grade,crewmax cab,1
+6247,8,Tundra,Tundra Grade,double cab,1
+6248,8,Venza,Base,wagon,1
+6249,8,Venza,LE,wagon,1
+6250,8,Venza,Limited,wagon,1
+6251,8,Venza,XLE,wagon,1
+6252,8,Yaris,Base,hatchback,1
+6253,8,Yaris,Base,hatchback,2
+6254,8,Yaris,Base,sedan,1
+6255,8,Yaris,Base,sedan,2
+6256,8,Yaris,Fleet,sedan,1
+6257,8,Yaris,Fleet,sedan,2
+6258,8,Yaris,L,hatchback,1
+6259,8,Yaris,LE,hatchback,1
+6260,8,Yaris,S,sedan,1
+6261,8,Yaris,S,sedan,2
+6262,8,Yaris,SE,hatchback,1
+6263,8,Yaris,SE,hatchback,2
+6264,9,1500,Big Horn,Quad Cab,1
+6265,9,1500,Big Horn,quad cab,1
+6266,9,1500,Laramie,crew cab,1
+6267,9,1500,Laramie,quad cab,1
+6268,9,1500,Laramie Longhorn Edition,crew cab,1
+6269,9,1500,Longhorn,crew cab,1
+6270,9,1500,R/T,regular cab,1
+6271,9,1500,SLT,crew cab,1
+6272,9,1500,SLT,quad cab,1
+6273,9,1500,SLT,regular cab,1
+6274,9,1500,ST,crew cab,1
+6275,9,1500,ST,quad cab,1
+6276,9,1500,ST,regular cab,1
+6277,9,1500,Sport,crew cab,1
+6278,9,1500,Sport,quad cab,1
+6279,9,1500,Tradesman,crew cab,1
+6280,9,1500,Tradesman,quad cab,1
+6281,9,1500,Tradesman,regular cab,1
+6282,9,2500,Laramie,crew cab,1
+6283,9,2500,Laramie,mega cab,1
+6284,9,2500,Laramie Longhorn Edition,crew cab,1
+6285,9,2500,Laramie Longhorn Edition,mega cab,1
+6286,9,2500,Longhorn,Mega Cab,1
+6287,9,2500,Longhorn,crew cab,1
+6288,9,2500,Longhorn,mega cab,1
+6289,9,2500,Power Wagon,Crew Cab,1
+6290,9,2500,SLT,crew cab,1
+6291,9,2500,SLT,crew cab,2
+6292,9,2500,ST,Regular Cab,2
+6293,9,2500,ST,crew cab,1
+6294,9,2500,ST,crew cab,2
+6295,9,2500,Tradesman,crew cab,1
+6296,9,2500,Tradesman,crew cab,2
+6297,9,3500,Laramie,crew cab,1
+6298,9,3500,Laramie,mega cab,1
+6299,9,3500,Laramie Longhorn,Mega Cab,1
+6300,9,3500,Laramie Longhorn,crew cab,1
+6301,9,3500,Laramie Longhorn,mega cab,1
+6302,9,3500,Laramie Longhorn Edition,crew cab,1
+6303,9,3500,Laramie Longhorn Limited Edition,mega cab,1
+6304,9,3500,SLT,crew cab,1
+6305,9,3500,SLT,crew cab,2
+6306,9,3500,SLT,mega cab,1
+6307,9,3500,ST,crew cab,1
+6308,9,3500,ST,crew cab,2
+6309,9,3500,ST,regular cab,2
+6310,9,3500,Tradesman,crew cab,1
+6311,9,C/V Cargo Van,Base,minivan,1
+6312,9,C/V Tradesman,Base,minivan,1
+6313,9,CV Tradesman,Base,minivan,1
+6314,9,Dakota,BigHorn,crew cab,1
+6315,9,Dakota,BigHorn,extended cab,1
+6316,9,Promaster Cargo Van,1500 High Roof,promaster cargo van,1
+6317,9,Promaster Cargo Van,1500 Low Roof,promaster cargo van,1
+6318,9,Promaster Cargo Van,2500 High Roof,promaster cargo van,1
+6319,10,ATS,Luxury,sedan,1
+6320,10,ATS,Performance,sedan,1
+6321,10,ATS,Premium,sedan,1
+6322,10,ATS,Standard,sedan,1
+6323,10,CTS,Base,sedan,1
+6324,10,CTS,Luxury,sedan,1
+6325,10,CTS,Performance,sedan,1
+6326,10,CTS,Premium,sedan,1
+6327,10,CTS,Standard,sedan,1
+6328,10,CTS,Vsport Premium,sedan,1
+6329,10,CTS Coupe,Base,cts coupe,1
+6330,10,CTS Coupe,Performance,cts coupe,1
+6331,10,CTS Coupe,Premium,cts coupe,1
+6332,10,CTS Wagon,Luxury,CTS Wagon,1
+6333,10,CTS Wagon,Premium,cts wagon,1
+6334,10,CTS-V,Base,sedan,1
+6335,10,CTS-V,Base,sedan,2
+6336,10,CTS-V Coupe,Base,cts-v coupe,1
+6337,10,CTS-V Coupe,Base,cts-v coupe,2
+6338,10,Catera,Base,sedan,1
+6339,10,DTS,Base,sedan,1
+6340,10,DTS,Luxury,sedan,1
+6341,10,DTS,Luxury III,sedan,1
+6342,10,DTS,Performance,sedan,1
+6343,10,DTS,Platinum,sedan,1
+6344,10,DTS,Premium,sedan,1
+6345,10,DeVille,Base,sedan,1
+6346,10,DeVille,DHS,sedan,1
+6347,10,DeVille,DTS,sedan,1
+6348,10,ELR,Base,coupe,1
+6349,10,Eldorado,Base,coupe,1
+6350,10,Eldorado,ESC,coupe,1
+6351,10,Eldorado,Touring,coupe,1
+6352,10,Escalade,Base,suv,1
+6353,10,Escalade,Luxury,suv,1
+6354,10,Escalade,Platinum Edition,suv,1
+6355,10,Escalade,Premium,suv,1
+6356,10,Escalade ESV,Base,suv,1
+6357,10,Escalade ESV,Luxury,suv,1
+6358,10,Escalade ESV,Platinum Edition,suv,1
+6359,10,Escalade ESV,Premium,suv,1
+6360,10,Escalade EXT,Base,crew cab,1
+6361,10,Escalade EXT,Luxury,crew cab,1
+6362,10,Escalade EXT,Premium,crew cab,1
+6363,10,Escalade Hybrid,Base,suv,1
+6364,10,SRX,Base,suv,1
+6365,10,SRX,Luxury,suv,1
+6366,10,SRX,Performance,suv,1
+6367,10,SRX,Premium,suv,1
+6368,10,SRX,Turbo Premium,suv,1
+6369,10,SRX,V6,suv,1
+6370,10,STS,V6,sedan,1
+6371,10,STS,V6 Luxury,sedan,1
+6372,10,STS,V6 Premium,sedan,1
+6373,10,STS,V8 Luxury,sedan,1
+6374,10,Seville,SLS,sedan,1
+6375,10,Seville,STS,sedan,1
+6376,10,XLR,Base,convertible,1
+6377,10,XTS,Base,sedan,1
+6378,10,XTS,Luxury,sedan,1
+6379,10,XTS,Platinum,sedan,1
+6380,10,XTS,Premium,sedan,1
+6381,11,Astro,Base,minivan,1
+6382,11,Astro,LS,minivan,1
+6383,11,Astro Cargo,Base,minivan,1
+6384,11,Avalanche,1500,crew cab,1
+6385,11,Avalanche,1500 LS,crew cab,1
+6386,11,Avalanche,LS,crew cab,1
+6387,11,Avalanche,LT,crew cab,1
+6388,11,Avalanche,LT1,crew cab,1
+6389,11,Avalanche,LTZ,crew cab,1
+6390,11,Aveo,1LT,sedan,1
+6391,11,Aveo,2LT,sedan,1
+6392,11,Aveo,Aveo5 1LT,hatchback,1
+6393,11,Aveo,Aveo5 1LT,hatchback,2
+6394,11,Aveo,Aveo5 2LT,hatchback,1
+6395,11,Aveo,Aveo5 LS,hatchback,1
+6396,11,Aveo,Aveo5 LS,hatchback,2
+6397,11,Aveo,Aveo5 Special Value,hatchback,1
+6398,11,Aveo,Aveo5 Special Value,hatchback,2
+6399,11,Aveo,Base,sedan,1
+6400,11,Aveo,LS,hatchback,1
+6401,11,Aveo,LS,hatchback,2
+6402,11,Aveo,LS,sedan,1
+6403,11,Aveo,LS,sedan,2
+6404,11,Aveo,LT,hatchback,1
+6405,11,Aveo,LT,sedan,1
+6406,11,Black Diamond Avalanche,LT,crew cab,1
+6407,11,Black Diamond Avalanche,LTZ,crew cab,1
+6408,11,Blazer,Base,suv,1
+6409,11,Blazer,LS,suv,1
+6410,11,Blazer,LT,suv,1
+6411,11,Blazer,TrailBlazer,suv,1
+6412,11,Blazer,Trailblazer,suv,1
+6413,11,C/K 1500 Series,Base,Regular Cab,2
+6414,11,C/K 1500 Series,Silverado,Regular Cab,1
+6415,11,C/K 1500 Series,Silverado,regular cab,2
+6416,11,C/K 3500 Series,LS,crew cab,1
+6417,11,Camaro,1LT,convertible,1
+6418,11,Camaro,1LT,coupe,1
+6419,11,Camaro,1LT,coupe,2
+6420,11,Camaro,1SS,coupe,1
+6421,11,Camaro,1SS,coupe,2
+6422,11,Camaro,2LT,convertible,1
+6423,11,Camaro,2LT,coupe,1
+6424,11,Camaro,2LT,coupe,2
+6425,11,Camaro,2SS,convertible,1
+6426,11,Camaro,2SS,coupe,1
+6427,11,Camaro,2SS,coupe,2
+6428,11,Camaro,Base,hatchback,1
+6429,11,Camaro,Base,hatchback,2
+6430,11,Camaro,LS,coupe,1
+6431,11,Camaro,LS,coupe,2
+6432,11,Camaro,LT,convertible,1
+6433,11,Camaro,LT,coupe,1
+6434,11,Camaro,LT,coupe,2
+6435,11,Camaro,SS,convertible,1
+6436,11,Camaro,SS,coupe,1
+6437,11,Camaro,SS,coupe,2
+6438,11,Camaro,Z/28,coupe,2
+6439,11,Camaro,ZL1,coupe,1
+6440,11,Camaro,ZL1,coupe,2
+6441,11,Caprice,Classic,sedan,1
+6442,11,Captiva Sport,1LS Fleet,suv,1
+6443,11,Captiva Sport,1LT Fleet,suv,1
+6444,11,Captiva Sport,2LS Fleet,suv,1
+6445,11,Captiva Sport,LS Fleet,suv,1
+6446,11,Captiva Sport,LT Fleet,suv,1
+6447,11,Captiva Sport,LTZ Fleet,suv,1
+6448,11,Cavalier,Base,coupe,1
+6449,11,Cavalier,Base,coupe,2
+6450,11,Cavalier,Base,sedan,1
+6451,11,Cavalier,Base,sedan,2
+6452,11,Cavalier,LS,coupe,1
+6453,11,Cavalier,LS,sedan,1
+6454,11,Cavalier,LS Sport,coupe,1
+6455,11,Cavalier,Z24,coupe,1
+6456,11,Classic,Fleet,sedan,1
+6457,11,Cobalt,Base,coupe,1
+6458,11,Cobalt,Base,sedan,1
+6459,11,Cobalt,LS,coupe,1
+6460,11,Cobalt,LS,coupe,2
+6461,11,Cobalt,LS,sedan,1
+6462,11,Cobalt,LS,sedan,2
+6463,11,Cobalt,LT,coupe,1
+6464,11,Cobalt,LT,coupe,2
+6465,11,Cobalt,LT,sedan,1
+6466,11,Cobalt,LTZ,sedan,1
+6467,11,Cobalt,SS,coupe,1
+6468,11,Cobalt,SS,coupe,2
+6469,11,Cobalt,SS,sedan,2
+6470,11,Cobalt,Sport,sedan,1
+6471,11,Colorado,1LT,crew cab,1
+6472,11,Colorado,2LT,crew cab,1
+6473,11,Colorado,LS,extended cab,1
+6474,11,Colorado,LS,extended cab,2
+6475,11,Colorado,LT,crew cab,1
+6476,11,Colorado,LT,extended cab,1
+6477,11,Colorado,LT,regular cab,1
+6478,11,Colorado,LT1,crew cab,1
+6479,11,Colorado,LT1,extended cab,1
+6480,11,Colorado,Work Truck,extended cab,1
+6481,11,Colorado,Work Truck,regular cab,1
+6482,11,Colorado,Work Truck,regular cab,2
+6483,11,Colorado,Z71,Crew Cab,1
+6484,11,Colorado,Z71,crew cab,1
+6485,11,Colorado,Z71,extended cab,1
+6486,11,Colorado,Z85,extended cab,1
+6487,11,Colorado,Z85,regular cab,1
+6488,11,Colorado,Z85,regular cab,2
+6489,11,Colorado,Z85 LS Base,crew cab,1
+6490,11,Colorado,ZQ8,regular cab,1
+6491,11,Corvette,Base,convertible,1
+6492,11,Corvette,Base,convertible,2
+6493,11,Corvette,Base,coupe,1
+6494,11,Corvette,Base,coupe,2
+6495,11,Corvette,Base,hatchback,1
+6496,11,Corvette,GS,convertible,1
+6497,11,Corvette,GS,coupe,1
+6498,11,Corvette,Grand Sport,Convertible,1
+6499,11,Corvette,Grand Sport,coupe,2
+6500,11,Corvette,Hardtop,coupe,2
+6501,11,Corvette,Stingray,coupe,1
+6502,11,Corvette,Stingray Z51,Coupe,1
+6503,11,Corvette,Stingray Z51,coupe,1
+6504,11,Corvette,Z06,coupe,2
+6505,11,Corvette,Z06 Competition Sport Spec Ed,coupe,2
+6506,11,Corvette,ZR1,coupe,2
+6507,11,Corvette Stingray,Base,convertible,1
+6508,11,Corvette Stingray,Base,convertible,2
+6509,11,Corvette Stingray,Base,coupe,1
+6510,11,Corvette Stingray,Base,coupe,2
+6511,11,Corvette Stingray,Z51,convertible,1
+6512,11,Corvette Stingray,Z51,convertible,2
+6513,11,Corvette Stingray,Z51,coupe,1
+6514,11,Corvette Stingray,Z51,coupe,2
+6515,11,Cruze,1LT,sedan,1
+6516,11,Cruze,1LT,sedan,2
+6517,11,Cruze,2LT,sedan,1
+6518,11,Cruze,2LT,sedan,2
+6519,11,Cruze,Diesel,sedan,1
+6520,11,Cruze,Eco,sedan,1
+6521,11,Cruze,Eco,sedan,2
+6522,11,Cruze,LS,sedan,1
+6523,11,Cruze,LS,sedan,2
+6524,11,Cruze,LT Fleet,sedan,1
+6525,11,Cruze,LTZ,sedan,1
+6526,11,Equinox,LS,suv,1
+6527,11,Equinox,LT,suv,1
+6528,11,Equinox,LT1,suv,1
+6529,11,Equinox,LT2,suv,1
+6530,11,Equinox,LTZ,suv,1
+6531,11,Equinox,Sport,suv,1
+6532,11,Express,3500,van,1
+6533,11,Express,LS 1500,van,1
+6534,11,Express,LS 2500,van,1
+6535,11,Express,LS 3500,van,1
+6536,11,Express,LT 3500,Van,1
+6537,11,Express,LT 3500,van,1
+6538,11,Express Cargo,1500,van,1
+6539,11,Express Cargo,2500,van,1
+6540,11,Express Cargo,3500,van,1
+6541,11,Express Cargo,G3500,van,1
+6542,11,HHR,LS,wagon,1
+6543,11,HHR,LS,wagon,2
+6544,11,HHR,LT,wagon,1
+6545,11,HHR,Panel LS,wagon,1
+6546,11,HHR,SS,wagon,1
+6547,11,HHR,SS,wagon,2
+6548,11,Impala,Base,sedan,1
+6549,11,Impala,LS,sedan,1
+6550,11,Impala,LS Fleet,sedan,1
+6551,11,Impala,LT,sedan,1
+6552,11,Impala,LT Eco,Sedan,1
+6553,11,Impala,LT Fleet,sedan,1
+6554,11,Impala,LT2,sedan,1
+6555,11,Impala,LTZ,sedan,1
+6556,11,Impala,SS,sedan,1
+6557,11,Impala Limited,LS Fleet,sedan,1
+6558,11,Impala Limited,LT Fleet,sedan,1
+6559,11,Impala Limited,LTZ Fleet,sedan,1
+6560,11,Lumina,Base,sedan,1
+6561,11,Lumina,LS,sedan,1
+6562,11,Malibu,Base,sedan,1
+6563,11,Malibu,Eco,sedan,1
+6564,11,Malibu,Fleet,sedan,1
+6565,11,Malibu,LS,sedan,1
+6566,11,Malibu,LS Fleet,sedan,1
+6567,11,Malibu,LS Fleet,sedan,2
+6568,11,Malibu,LT,sedan,1
+6569,11,Malibu,LT1,sedan,1
+6570,11,Malibu,LT2,sedan,1
+6571,11,Malibu,LTZ,sedan,1
+6572,11,Malibu,SS,sedan,1
+6573,11,Malibu Classic,LS Fleet,sedan,1
+6574,11,Malibu Classic,LT,sedan,1
+6575,11,Malibu Hybrid,Base,sedan,1
+6576,11,Malibu Maxx,LS,hatchback,1
+6577,11,Malibu Maxx,LT,hatchback,1
+6578,11,Malibu Maxx,LTZ,hatchback,1
+6579,11,Monte Carlo,LS,coupe,1
+6580,11,Monte Carlo,LT,coupe,1
+6581,11,Monte Carlo,LTZ,coupe,1
+6582,11,Monte Carlo,SS,coupe,1
+6583,11,Prizm,Base,sedan,1
+6584,11,Prizm,LSi,sedan,1
+6585,11,S-10,Base,extended cab,1
+6586,11,S-10,Base,extended cab,2
+6587,11,S-10,Base,regular cab,1
+6588,11,S-10,Base,regular cab,2
+6589,11,S-10,LS,crew cab,1
+6590,11,S-10,LS,extended cab,1
+6591,11,S-10,LS,regular cab,1
+6592,11,SS,Base,sedan,1
+6593,11,SSR,LS,regular cab,1
+6594,11,Silverado 1500,Base,extended cab,1
+6595,11,Silverado 1500,Base,regular cab,1
+6596,11,Silverado 1500,Base,regular cab,2
+6597,11,Silverado 1500,High Country,crew cab,1
+6598,11,Silverado 1500,LS,crew cab,1
+6599,11,Silverado 1500,LS,extended cab,1
+6600,11,Silverado 1500,LS,regular cab,1
+6601,11,Silverado 1500,LS2,crew cab,1
+6602,11,Silverado 1500,LT,crew cab,1
+6603,11,Silverado 1500,LT,double cab,1
+6604,11,Silverado 1500,LT,extended cab,1
+6605,11,Silverado 1500,LT,regular cab,1
+6606,11,Silverado 1500,LT1,crew cab,1
+6607,11,Silverado 1500,LT1,extended cab,1
+6608,11,Silverado 1500,LT1,regular cab,1
+6609,11,Silverado 1500,LT2,crew cab,1
+6610,11,Silverado 1500,LT3,crew cab,1
+6611,11,Silverado 1500,LTZ,crew cab,1
+6612,11,Silverado 1500,LTZ,double cab,1
+6613,11,Silverado 1500,LTZ,extended cab,1
+6614,11,Silverado 1500,SS,extended cab,1
+6615,11,Silverado 1500,Work Truck,crew cab,1
+6616,11,Silverado 1500,Work Truck,double cab,1
+6617,11,Silverado 1500,Work Truck,extended cab,1
+6618,11,Silverado 1500,Work Truck,regular cab,1
+6619,11,Silverado 1500,XFE,crew cab,1
+6620,11,Silverado 1500,Z71,crew cab,1
+6621,11,Silverado 1500,Z71,extended cab,1
+6622,11,Silverado 1500,Z71 LT,crew cab,1
+6623,11,Silverado 1500 Classic,LS,extended cab,1
+6624,11,Silverado 1500 Classic,LS,regular cab,1
+6625,11,Silverado 1500 Classic,LS2,crew cab,1
+6626,11,Silverado 1500 Classic,LT3,crew cab,1
+6627,11,Silverado 1500 Classic,Work Truck,extended cab,1
+6628,11,Silverado 1500 Classic,Work Truck,regular cab,1
+6629,11,Silverado 1500 Classic,Work Truck,regular cab,2
+6630,11,Silverado 1500 Hybrid,Base,crew cab,1
+6631,11,Silverado 1500HD,LS,crew cab,1
+6632,11,Silverado 1500HD,LT2,crew cab,1
+6633,11,Silverado 2500,HD,extended cab,1
+6634,11,Silverado 2500,LT,crew cab,1
+6635,11,Silverado 2500HD,Base,crew cab,1
+6636,11,Silverado 2500HD,Base,extended cab,1
+6637,11,Silverado 2500HD,Base,regular cab,1
+6638,11,Silverado 2500HD,LS,crew cab,1
+6639,11,Silverado 2500HD,LS,extended cab,1
+6640,11,Silverado 2500HD,LS,extended cab,2
+6641,11,Silverado 2500HD,LT,crew cab,1
+6642,11,Silverado 2500HD,LT,extended cab,1
+6643,11,Silverado 2500HD,LT2,extended cab,1
+6644,11,Silverado 2500HD,LT3,crew cab,1
+6645,11,Silverado 2500HD,LTZ,crew cab,1
+6646,11,Silverado 2500HD,LTZ,extended cab,1
+6647,11,Silverado 2500HD,Work Truck,crew cab,1
+6648,11,Silverado 2500HD,Work Truck,extended cab,1
+6649,11,Silverado 2500HD,Work Truck,regular cab,1
+6650,11,Silverado 2500HD Classic,LS,extended cab,1
+6651,11,Silverado 2500HD Classic,LT1,Crew Cab,1
+6652,11,Silverado 2500HD Classic,LT3,crew cab,1
+6653,11,Silverado 2500HD Classic,Work Truck,extended cab,1
+6654,11,Silverado 2500HD Classic,Work Truck,regular cab,1
+6655,11,Silverado 3500,Base,Crew Cab,1
+6656,11,Silverado 3500,LS,crew cab,1
+6657,11,Silverado 3500,LT,crew cab,1
+6658,11,Silverado 3500,Work Truck,crew cab,1
+6659,11,Silverado 3500 Classic,LT1,crew cab,1
+6660,11,Silverado 3500HD,LT,crew cab,1
+6661,11,Silverado 3500HD,LTZ,crew cab,1
+6662,11,Silverado 3500HD,Work Truck,crew cab,1
+6663,11,Sonic,LS,hatchback,1
+6664,11,Sonic,LS,hatchback,2
+6665,11,Sonic,LS,sedan,1
+6666,11,Sonic,LS,sedan,2
+6667,11,Sonic,LT,hatchback,1
+6668,11,Sonic,LT,hatchback,2
+6669,11,Sonic,LT,sedan,1
+6670,11,Sonic,LT,sedan,2
+6671,11,Sonic,LTZ,hatchback,1
+6672,11,Sonic,LTZ,sedan,1
+6673,11,Sonic,RS,hatchback,1
+6674,11,Spark,1LT,hatchback,1
+6675,11,Spark,1LT,hatchback,2
+6676,11,Spark,2LT,hatchback,1
+6677,11,Spark,LS,hatchback,1
+6678,11,Spark,LS,hatchback,2
+6679,11,Spark EV,2LT,hatchback,1
+6680,11,Suburban,1500,suv,1
+6681,11,Suburban,1500 LS,suv,1
+6682,11,Suburban,1500 LT,suv,1
+6683,11,Suburban,1500 LT1,suv,1
+6684,11,Suburban,1500 LTZ,suv,1
+6685,11,Suburban,LS,suv,1
+6686,11,Suburban,LS 1500,suv,1
+6687,11,Suburban,LT,suv,1
+6688,11,Suburban,LT 1500,suv,1
+6689,11,Suburban,LTZ,suv,1
+6690,11,Suburban,LTZ 1500,suv,1
+6691,11,Tahoe,Base,suv,1
+6692,11,Tahoe,Fleet,suv,1
+6693,11,Tahoe,LS,suv,1
+6694,11,Tahoe,LT,SUV,2
+6695,11,Tahoe,LT,suv,1
+6696,11,Tahoe,LT2,suv,1
+6697,11,Tahoe,LT2 XFE,suv,1
+6698,11,Tahoe,LTZ,suv,1
+6699,11,Tahoe Hybrid,Base,suv,1
+6700,11,Tahoe Limited/Z71,Limited,SUV,1
+6701,11,Tracker,Base,suv,1
+6702,11,Tracker,Base,suv,2
+6703,11,Tracker,LT,suv,1
+6704,11,Tracker,ZR2,suv,1
+6705,11,TrailBlazer,Fleet,suv,1
+6706,11,TrailBlazer,LS,suv,1
+6707,11,TrailBlazer,LT,suv,1
+6708,11,TrailBlazer,LT2,suv,1
+6709,11,TrailBlazer,LTZ,suv,1
+6710,11,TrailBlazer,SS,suv,1
+6711,11,TrailBlazer EXT,LS,suv,1
+6712,11,TrailBlazer EXT,LT,suv,1
+6713,11,Traverse,LS,suv,1
+6714,11,Traverse,LT,suv,1
+6715,11,Traverse,LT1,suv,1
+6716,11,Traverse,LT2,suv,1
+6717,11,Traverse,LTZ,suv,1
+6718,11,Uplander,Base,minivan,1
+6719,11,Uplander,LS,minivan,1
+6720,11,Uplander,LT,minivan,1
+6721,11,Venture,Base,minivan,1
+6722,11,Venture,LS,minivan,1
+6723,11,Venture,LT,minivan,1
+6724,11,Venture,LT Entertainer,minivan,1
+6725,11,Venture,Plus,minivan,1
+6726,11,Venture,Value,minivan,1
+6727,11,Venture,Warner Bros.,minivan,1
+6728,11,Volt,Base,hatchback,1
+6729,12,Aerio,Premium,sedan,1
+6730,12,Esteem,GL,sedan,2
+6731,12,Forenza,Base,sedan,1
+6732,12,Forenza,Base,sedan,2
+6733,12,Forenza,Base,wagon,1
+6734,12,Forenza,EX,sedan,1
+6735,12,Forenza,Premium,Wagon,1
+6736,12,Forenza,Premium,sedan,1
+6737,12,Forenza,S,sedan,1
+6738,12,Forenza,S,sedan,2
+6739,12,Forenza,S,wagon,1
+6740,12,Grand Vitara,Base,suv,1
+6741,12,Grand Vitara,Base,suv,2
+6742,12,Grand Vitara,JLX,suv,1
+6743,12,Grand Vitara,LX,suv,1
+6744,12,Grand Vitara,Limited,suv,1
+6745,12,Grand Vitara,Luxury,suv,1
+6746,12,Grand Vitara,Premium,suv,1
+6747,12,Grand Vitara,Ultimate Adventure,suv,1
+6748,12,Grand Vitara,XSport,suv,1
+6749,12,Kizashi,GTS,sedan,1
+6750,12,Kizashi,S,Sedan,1
+6751,12,Kizashi,SE,sedan,1
+6752,12,Kizashi,Sport SLS,sedan,1
+6753,12,Reno,Base,hatchback,1
+6754,12,Reno,LX,hatchback,1
+6755,12,SX4,Base,hatchback,1
+6756,12,SX4,Base,sedan,1
+6757,12,SX4,Crossover,hatchback,1
+6758,12,SX4,LE,sedan,1
+6759,12,SX4,LE,sedan,2
+6760,12,SX4,LE Popular Package,sedan,1
+6761,12,SX4,Sport,sedan,1
+6762,12,SX4,Sport,sedan,2
+6763,12,SX4,Sport GTS,sedan,2
+6764,12,SX4,SportBack,hatchback,1
+6765,12,SX4,SportBack GTS,hatchback,1
+6766,12,SX4,SportBack Technology,hatchback,1
+6767,12,Verona,EX,sedan,1
+6768,12,Verona,Luxury,sedan,1
+6769,12,Verona,S,sedan,1
+6770,12,Vitara,JLS,suv,1
+6771,12,XL-7,Base,suv,1
+6772,12,XL-7,EX,suv,1
+6773,12,XL7,Base,suv,1
+6774,12,XL7,Limited,suv,1
+6775,12,XL7,Luxury,suv,1
+6776,12,XL7,Premium,suv,1
+6777,13,Accord,DX,sedan,1
+6778,13,Accord,EX,coupe,1
+6779,13,Accord,EX,coupe,2
+6780,13,Accord,EX,sedan,1
+6781,13,Accord,EX,sedan,2
+6782,13,Accord,EX PZEV,coupe,1
+6783,13,Accord,EX V-6,coupe,1
+6784,13,Accord,EX V-6,coupe,2
+6785,13,Accord,EX V-6,sedan,1
+6786,13,Accord,EX V6,coupe,1
+6787,13,Accord,EX V6,sedan,1
+6788,13,Accord,EX-L,coupe,1
+6789,13,Accord,EX-L,sedan,1
+6790,13,Accord,EX-L,sedan,2
+6791,13,Accord,EX-L V-6,coupe,1
+6792,13,Accord,EX-L V-6,coupe,2
+6793,13,Accord,EX-L V-6,sedan,1
+6794,13,Accord,EX-L V-6 w/Navigation,sedan,1
+6795,13,Accord,Hybrid,sedan,1
+6796,13,Accord,LX,coupe,1
+6797,13,Accord,LX,coupe,2
+6798,13,Accord,LX,sedan,1
+6799,13,Accord,LX,sedan,2
+6800,13,Accord,LX PZEV,sedan,1
+6801,13,Accord,LX Special Edition,coupe,2
+6802,13,Accord,LX Special Edition,sedan,1
+6803,13,Accord,LX Special Edition PZEV,coupe,1
+6804,13,Accord,LX V-6,coupe,1
+6805,13,Accord,LX V-6,sedan,1
+6806,13,Accord,LX V6,sedan,1
+6807,13,Accord,LX-P,sedan,1
+6808,13,Accord,LX-S,coupe,1
+6809,13,Accord,SE,coupe,1
+6810,13,Accord,SE,sedan,1
+6811,13,Accord,Special Edition,sedan,1
+6812,13,Accord,Special Edition V-6,sedan,1
+6813,13,Accord,Sport,sedan,1
+6814,13,Accord,Sport,sedan,2
+6815,13,Accord,Touring V-6,sedan,1
+6816,13,Accord,Value Package,sedan,1
+6817,13,Accord Crosstour,EX,hatchback,1
+6818,13,Accord Crosstour,EX-L,hatchback,1
+6819,13,Accord Hybrid,EX-L,sedan,1
+6820,13,Accord Hybrid,Touring,sedan,1
+6821,13,CR-V,Base,suv,1
+6822,13,CR-V,EX,suv,1
+6823,13,CR-V,EX,suv,2
+6824,13,CR-V,EX-L,suv,1
+6825,13,CR-V,EX-L w/Rear Entertainment,suv,1
+6826,13,CR-V,LX,suv,1
+6827,13,CR-V,SE,suv,1
+6828,13,CR-V,Special Edition,suv,1
+6829,13,CR-Z,Base,hatchback,1
+6830,13,CR-Z,Base,hatchback,2
+6831,13,CR-Z,EX,hatchback,1
+6832,13,CR-Z,EX,hatchback,2
+6833,13,Civic,DX,coupe,1
+6834,13,Civic,DX,coupe,2
+6835,13,Civic,DX,sedan,1
+6836,13,Civic,DX-VP,sedan,1
+6837,13,Civic,DX-VP,sedan,2
+6838,13,Civic,EX,coupe,1
+6839,13,Civic,EX,coupe,2
+6840,13,Civic,EX,sedan,1
+6841,13,Civic,EX,sedan,2
+6842,13,Civic,EX Special Edition,coupe,2
+6843,13,Civic,EX-L,coupe,1
+6844,13,Civic,EX-L,coupe,2
+6845,13,Civic,EX-L,sedan,1
+6846,13,Civic,HF,sedan,1
+6847,13,Civic,HX,coupe,1
+6848,13,Civic,Hybrid,sedan,1
+6849,13,Civic,Hybrid,sedan,2
+6850,13,Civic,Hybrid PZEV,sedan,1
+6851,13,Civic,Hybrid PZEV w/Leather and Navigation,sedan,1
+6852,13,Civic,LX,coupe,1
+6853,13,Civic,LX,coupe,2
+6854,13,Civic,LX,sedan,1
+6855,13,Civic,LX,sedan,2
+6856,13,Civic,LX PZEV,sedan,1
+6857,13,Civic,LX-S,sedan,1
+6858,13,Civic,Natural Gas,sedan,1
+6859,13,Civic,Si,coupe,2
+6860,13,Civic,Si,hatchback,1
+6861,13,Civic,Si,hatchback,2
+6862,13,Civic,Si,sedan,1
+6863,13,Civic,Si,sedan,2
+6864,13,Civic,VP,sedan,1
+6865,13,Civic,Value Package,coupe,1
+6866,13,Civic,Value Package,sedan,1
+6867,13,Crosstour,EX,hatchback,1
+6868,13,Crosstour,EX-L,hatchback,1
+6869,13,Element,DX,suv,1
+6870,13,Element,EX,suv,1
+6871,13,Element,EX,suv,2
+6872,13,Element,EX-P,suv,1
+6873,13,Element,EX-P,suv,2
+6874,13,Element,LX,suv,1
+6875,13,Element,LX,suv,2
+6876,13,Element,SC,suv,1
+6877,13,Fit,Base,hatchback,1
+6878,13,Fit,Base,hatchback,2
+6879,13,Fit,EX,hatchback,1
+6880,13,Fit,EX,hatchback,2
+6881,13,Fit,LX,hatchback,1
+6882,13,Fit,LX,hatchback,2
+6883,13,Fit,Sport,hatchback,1
+6884,13,Fit,Sport,hatchback,2
+6885,13,Insight,Base,hatchback,1
+6886,13,Insight,EX,hatchback,1
+6887,13,Insight,LX,hatchback,1
+6888,13,Odyssey,EX,minivan,1
+6889,13,Odyssey,EX-L,minivan,1
+6890,13,Odyssey,EX-L w/Rear Entertainment,minivan,1
+6891,13,Odyssey,LX,minivan,1
+6892,13,Odyssey,Touring,minivan,1
+6893,13,Odyssey,Touring Elite,minivan,1
+6894,13,Passport,EX,suv,1
+6895,13,Passport,LX,suv,1
+6896,13,Pilot,EX,suv,1
+6897,13,Pilot,EX-L,suv,1
+6898,13,Pilot,EX-L w/Navigation,suv,1
+6899,13,Pilot,EX-L w/Rear Entertainment,suv,1
+6900,13,Pilot,LX,suv,1
+6901,13,Pilot,Special Edition,suv,1
+6902,13,Pilot,Touring,suv,1
+6903,13,Pilot,Touring w/Navigation and Rear Entertainment,suv,1
+6904,13,Pilot,Value Package,suv,1
+6905,13,Prelude,Base,coupe,1
+6906,13,Prelude,Base,coupe,2
+6907,13,Ridgeline,RT,crew cab,1
+6908,13,Ridgeline,RTL,crew cab,1
+6909,13,Ridgeline,RTL w/Leather,crew cab,1
+6910,13,Ridgeline,RTL w/Leather and Navigation,crew cab,1
+6911,13,Ridgeline,RTS,crew cab,1
+6912,13,Ridgeline,RTX,crew cab,1
+6913,13,Ridgeline,SE w/Leather and Navigation,Crew Cab,1
+6914,13,Ridgeline,SE w/Leather and Navigation,crew cab,1
+6915,13,Ridgeline,Sport,crew cab,1
+6916,13,S2000,Base,convertible,1
+6917,13,S2000,Base,convertible,2
+6918,14,3,i,Sedan,2
+6919,14,3,i,sedan,1
+6920,14,3,i Grand Touring,hatchback,1
+6921,14,3,i Touring,Sedan,1
+6922,14,3,s Grand Touring,sedan,1
+6923,14,3,s Sport,Sedan,1
+6924,14,6,i Grand Touring,Sedan,1
+6925,14,6,i Grand Touring,sedan,1
+6926,14,6,i Touring,sedan,1
+6927,14,626,DX,sedan,1
+6928,14,626,ES,sedan,1
+6929,14,626,ES V6,sedan,1
+6930,14,626,LX,sedan,1
+6931,14,626,LX V6,sedan,1
+6932,14,B-Series Truck,B4000,cab plus 4,1
+6933,14,CX-5,Grand Touring,suv,1
+6934,14,CX-5,Sport,suv,1
+6935,14,CX-5,Sport,suv,2
+6936,14,CX-5,Touring,suv,1
+6937,14,CX-7,Grand Touring,suv,1
+6938,14,CX-7,Sport,suv,1
+6939,14,CX-7,i SV,suv,1
+6940,14,CX-7,i Sport,suv,1
+6941,14,CX-7,s Grand Touring,suv,1
+6942,14,CX-7,s Touring,suv,1
+6943,14,CX-9,Grand Touring,suv,1
+6944,14,CX-9,Sport,suv,1
+6945,14,CX-9,Touring,suv,1
+6946,14,MPV,DX,Minivan,1
+6947,14,MPV,DX,Minivan,2
+6948,14,MPV,ES,minivan,1
+6949,14,MPV,LX,minivan,1
+6950,14,MX-5 Miata,Base,convertible,1
+6951,14,MX-5 Miata,Base,convertible,2
+6952,14,MX-5 Miata,Cloth,Convertible,1
+6953,14,MX-5 Miata,Club,convertible,1
+6954,14,MX-5 Miata,Club,convertible,2
+6955,14,MX-5 Miata,Grand Touring,convertible,1
+6956,14,MX-5 Miata,Grand Touring,convertible,2
+6957,14,MX-5 Miata,Special Edition,convertible,1
+6958,14,MX-5 Miata,Sport,convertible,1
+6959,14,MX-5 Miata,Sport,convertible,2
+6960,14,MX-5 Miata,Touring,convertible,1
+6961,14,MX-5 Miata,Touring,convertible,2
+6962,14,Mazda2,Sport,hatchback,1
+6963,14,Mazda2,Sport,hatchback,2
+6964,14,Mazda2,Touring,hatchback,1
+6965,14,Mazda2,Touring,hatchback,2
+6966,14,Mazda3,SP23 Special Edition,hatchback,1
+6967,14,Mazda3,SP23 Special Edition,sedan,1
+6968,14,Mazda3,i,sedan,1
+6969,14,Mazda3,i,sedan,2
+6970,14,Mazda3,i Grand Touring,hatchback,1
+6971,14,Mazda3,i Grand Touring,sedan,1
+6972,14,Mazda3,i SV,sedan,1
+6973,14,Mazda3,i SV,sedan,2
+6974,14,Mazda3,i Sport,hatchback,1
+6975,14,Mazda3,i Sport,sedan,1
+6976,14,Mazda3,i Sport,sedan,2
+6977,14,Mazda3,i Touring,hatchback,1
+6978,14,Mazda3,i Touring,hatchback,2
+6979,14,Mazda3,i Touring,sedan,1
+6980,14,Mazda3,i Touring,sedan,2
+6981,14,Mazda3,s,hatchback,1
+6982,14,Mazda3,s,hatchback,2
+6983,14,Mazda3,s,sedan,1
+6984,14,Mazda3,s,sedan,2
+6985,14,Mazda3,s Grand Touring,hatchback,1
+6986,14,Mazda3,s Grand Touring,sedan,1
+6987,14,Mazda3,s Grand Touring,sedan,2
+6988,14,Mazda3,s Sport,hatchback,1
+6989,14,Mazda3,s Sport,hatchback,2
+6990,14,Mazda3,s Sport,sedan,1
+6991,14,Mazda3,s Sport,sedan,2
+6992,14,Mazda3,s Touring,hatchback,1
+6993,14,Mazda3,s Touring,sedan,1
+6994,14,Mazda3,s Touring,sedan,2
+6995,14,Mazda5,Grand Touring,minivan,1
+6996,14,Mazda5,Sport,minivan,1
+6997,14,Mazda5,Sport,minivan,2
+6998,14,Mazda5,Touring,minivan,1
+6999,14,Mazda6,i,hatchback,1
+7000,14,Mazda6,i,hatchback,2
+7001,14,Mazda6,i,sedan,1
+7002,14,Mazda6,i,sedan,2
+7003,14,Mazda6,i Grand Touring,hatchback,1
+7004,14,Mazda6,i Grand Touring,sedan,1
+7005,14,Mazda6,i SV,sedan,1
+7006,14,Mazda6,i Sport,hatchback,1
+7007,14,Mazda6,i Sport,hatchback,2
+7008,14,Mazda6,i Sport,sedan,1
+7009,14,Mazda6,i Sport,sedan,2
+7010,14,Mazda6,i Sport Value Edition,sedan,1
+7011,14,Mazda6,i Touring,sedan,1
+7012,14,Mazda6,i Touring,sedan,2
+7013,14,Mazda6,i Touring Plus,sedan,1
+7014,14,Mazda6,s,hatchback,1
+7015,14,Mazda6,s,sedan,1
+7016,14,Mazda6,s,sedan,2
+7017,14,Mazda6,s Grand Touring,sedan,1
+7018,14,Mazda6,s Sport,hatchback,1
+7019,14,Mazda6,s Sport,sedan,1
+7020,14,Mazda6,s Sport,sedan,2
+7021,14,Mazda6,s Touring,sedan,1
+7022,14,Mazdaspeed 3,Touring,hatchback,2
+7023,14,Mazdaspeed Mazda3,Grand Touring,hatchback,2
+7024,14,Mazdaspeed Mazda3,Sport,hatchback,2
+7025,14,Mazdaspeed3,Sport,hatchback,2
+7026,14,Millenia,Base,sedan,1
+7027,14,Millenia,Premium,sedan,1
+7028,14,Millenia,S,sedan,1
+7029,14,Protege,DX,sedan,1
+7030,14,Protege,DX,sedan,2
+7031,14,Protege,ES,sedan,1
+7032,14,Protege,LX,sedan,1
+7033,14,Protege,LX,sedan,2
+7034,14,Protege5,Base,wagon,1
+7035,14,RX-8,Sport,coupe,1
+7036,14,RX-8,Touring,coupe,1
+7037,14,Tribute,ES-V6,suv,1
+7038,14,Tribute,LX-V6,suv,1
+7039,14,Tribute,i,suv,1
+7040,14,Tribute,i Grand Touring,suv,2
+7041,14,Tribute,i Sport,suv,1
+7042,14,Tribute,i Touring,suv,1
+7043,14,Tribute,i Touring,suv,2
+7044,14,Tribute,s,suv,1
+7045,14,Tribute,s Grand Touring,suv,1
+7046,14,Truck,B2300,regular cab,1
+7047,15,CL,2.2 Premium,coupe,1
+7048,15,CL,2.3 Premium,coupe,1
+7049,15,CL,3,coupe,1
+7050,15,CL,3.0 Premium,coupe,1
+7051,15,CL,3.2,coupe,1
+7052,15,CL,3.2 Type-S,coupe,1
+7053,15,ILX,Base,sedan,1
+7054,15,ILX,Hybrid w/Technology Package,sedan,1
+7055,15,ILX,Premium Package,sedan,1
+7056,15,ILX,Premium Package,sedan,2
+7057,15,ILX,Technology Package,sedan,1
+7058,15,Integra,GS,hatchback,1
+7059,15,Integra,LS,hatchback,1
+7060,15,Integra,LS,sedan,1
+7061,15,Legend,L,sedan,1
+7062,15,MDX,Advance Package,suv,1
+7063,15,MDX,Advance and Entertainment Packages,suv,1
+7064,15,MDX,Base,SUV,2
+7065,15,MDX,Base,suv,1
+7066,15,MDX,SH-AWD,suv,1
+7067,15,MDX,SH-AWD w/Technology Package,suv,1
+7068,15,MDX,SH-AWD w/Technology and Entertainment Packages,suv,1
+7069,15,MDX,Technology Package,suv,1
+7070,15,MDX,Technology and Entertainment Packages,suv,1
+7071,15,MDX,Touring,suv,1
+7072,15,RDX,Base,suv,1
+7073,15,RDX,SH-AWD,suv,1
+7074,15,RDX,Technology Package,suv,1
+7075,15,RL,3.5,sedan,1
+7076,15,RL,3.5 Special Edition,sedan,1
+7077,15,RL,Base,sedan,1
+7078,15,RL,Technology Package,Sedan,1
+7079,15,RLX,Base,sedan,1
+7080,15,RLX,Technology Package,sedan,1
+7081,15,RSX,Base,hatchback,1
+7082,15,RSX,Base,hatchback,2
+7083,15,RSX,Type-S,hatchback,2
+7084,15,TL,2.5 Premium,sedan,1
+7085,15,TL,3.2,sedan,1
+7086,15,TL,3.2,sedan,2
+7087,15,TL,3.2 Type-S,sedan,1
+7088,15,TL,Base,sedan,1
+7089,15,TL,SH-AWD,sedan,1
+7090,15,TL,SH-AWD w/Advance Package,sedan,1
+7091,15,TL,SH-AWD w/Technology Package,sedan,1
+7092,15,TL,SH-AWD w/Technology Package,sedan,2
+7093,15,TL,Technology Package,sedan,1
+7094,15,TL,Type-S,sedan,1
+7095,15,TL,Type-S,sedan,2
+7096,15,TLX,Base,sedan,1
+7097,15,TSX,Base,sedan,1
+7098,15,TSX,Base,sedan,2
+7099,15,TSX,Special Edition,sedan,1
+7100,15,TSX Sport Wagon,Base,tsx sport wagon,1
+7101,15,TSX Sport Wagon,Technology Package,tsx sport wagon,1
+7102,15,ZDX,Base,hatchback,1
+7103,15,ZDX,Technology Package,hatchback,1
+7104,15,mdx,base,suv,1
+7105,16,200,C,sedan,1
+7106,16,200,LX,sedan,1
+7107,16,200,Limited,convertible,1
+7108,16,200,Limited,sedan,1
+7109,16,200,S,convertible,1
+7110,16,200,S,sedan,1
+7111,16,200,Touring,convertible,1
+7112,16,200,Touring,sedan,1
+7113,16,300,Base,sedan,1
+7114,16,300,C,sedan,1
+7115,16,300,C HEMI,sedan,1
+7116,16,300,C John Varvatos,sedan,1
+7117,16,300,C John Varvatos Luxury,Sedan,1
+7118,16,300,C John Varvatos Luxury,sedan,1
+7119,16,300,C Luxury Series,sedan,1
+7120,16,300,LX,sedan,1
+7121,16,300,Limited,sedan,1
+7122,16,300,S,sedan,1
+7123,16,300,S V6,sedan,1
+7124,16,300,S V8,sedan,1
+7125,16,300,SRT-8,sedan,1
+7126,16,300,SRT8,sedan,1
+7127,16,300,Touring,sedan,1
+7128,16,300,Touring Plus,sedan,1
+7129,16,300M,Base,sedan,1
+7130,16,Aspen,Limited,suv,1
+7131,16,Cirrus,LXi,sedan,1
+7132,16,Concorde,LX,sedan,1
+7133,16,Concorde,LXi,sedan,1
+7134,16,Crossfire,Base,hatchback,1
+7135,16,Crossfire,Base,hatchback,2
+7136,16,Crossfire,Limited,convertible,1
+7137,16,Crossfire,Limited,hatchback,1
+7138,16,LHS,Base,sedan,1
+7139,16,PT Cruiser,Base,convertible,1
+7140,16,PT Cruiser,Base,wagon,1
+7141,16,PT Cruiser,Base,wagon,2
+7142,16,PT Cruiser,Classic,wagon,1
+7143,16,PT Cruiser,GT,convertible,1
+7144,16,PT Cruiser,GT,convertible,2
+7145,16,PT Cruiser,GT,wagon,1
+7146,16,PT Cruiser,Limited,wagon,1
+7147,16,PT Cruiser,Limited Edition,wagon,1
+7148,16,PT Cruiser,Touring,convertible,1
+7149,16,PT Cruiser,Touring,wagon,1
+7150,16,PT Cruiser,Touring,wagon,2
+7151,16,PT Cruiser,Touring Edition,wagon,1
+7152,16,Pacifica,Base,wagon,1
+7153,16,Pacifica,Limited,wagon,1
+7154,16,Pacifica,Touring,wagon,1
+7155,16,Prowler,Base,convertible,1
+7156,16,Sebring,Base,convertible,1
+7157,16,Sebring,Base,sedan,1
+7158,16,Sebring,GTC,convertible,1
+7159,16,Sebring,JX,convertible,1
+7160,16,Sebring,JXi,convertible,1
+7161,16,Sebring,LX,convertible,1
+7162,16,Sebring,LX,coupe,1
+7163,16,Sebring,LX,sedan,1
+7164,16,Sebring,LXi,coupe,1
+7165,16,Sebring,LXi,sedan,1
+7166,16,Sebring,Limited,convertible,1
+7167,16,Sebring,Limited,coupe,1
+7168,16,Sebring,Limited,sedan,1
+7169,16,Sebring,Touring,convertible,1
+7170,16,Sebring,Touring,sedan,1
+7171,16,Sebring,Touring Fleet,sedan,1
+7172,16,Town and Country,Base,minivan,1
+7173,16,Town and Country,EX,minivan,1
+7174,16,Town and Country,Family Value,minivan,1
+7175,16,Town and Country,LX,minivan,1
+7176,16,Town and Country,LX Family Value,minivan,1
+7177,16,Town and Country,LXi,minivan,1
+7178,16,Town and Country,Limited,minivan,1
+7179,16,Town and Country,Limited Fleet,minivan,1
+7180,16,Town and Country,S,minivan,1
+7181,16,Town and Country,Touring,minivan,1
+7182,16,Town and Country,Touring Plus,minivan,1
+7183,16,Town and Country,Touring-L,minivan,1
+7184,16,Voyager,Base,minivan,1
+7185,16,Voyager,LX Value,minivan,1
+7186,17,Astra,XE,hatchback,1
+7187,17,Astra,XE,hatchback,2
+7188,17,Astra,XR,hatchback,1
+7189,17,Aura,XE,sedan,1
+7190,17,Aura,XR,sedan,1
+7191,17,ION,1,sedan,1
+7192,17,ION,2,coupe,1
+7193,17,ION,2,coupe,2
+7194,17,ION,2,sedan,1
+7195,17,ION,2,sedan,2
+7196,17,ION,3,coupe,1
+7197,17,ION,3,sedan,1
+7198,17,ION,Red Line,Coupe,1
+7199,17,ION,Red Line,coupe,2
+7200,17,L-Series,L100,sedan,1
+7201,17,L-Series,L200,sedan,1
+7202,17,L-Series,L200,sedan,2
+7203,17,L-Series,L300,sedan,1
+7204,17,L-Series,LS1,sedan,1
+7205,17,L-Series,LS2,sedan,1
+7206,17,L-Series,LW200,wagon,1
+7207,17,L300,1,sedan,1
+7208,17,L300,3,sedan,1
+7209,17,Outlook,XE,suv,1
+7210,17,Outlook,XR,suv,1
+7211,17,Relay,1,minivan,1
+7212,17,Relay,2,minivan,1
+7213,17,Relay,3,minivan,1
+7214,17,S-Series,SC1,coupe,1
+7215,17,S-Series,SC2,coupe,1
+7216,17,S-Series,SL,sedan,2
+7217,17,S-Series,SL1,sedan,1
+7218,17,S-Series,SL2,sedan,1
+7219,17,S-Series,SL2,sedan,2
+7220,17,S-Series,SW2,wagon,1
+7221,17,Sky,Base,convertible,1
+7222,17,Sky,Base,convertible,2
+7223,17,Sky,Red Line,convertible,1
+7224,17,Sky,Red Line,convertible,2
+7225,17,VUE,Base,suv,1
+7226,17,VUE,Base,suv,2
+7227,17,VUE,Red Line,suv,1
+7228,17,VUE,XE,suv,1
+7229,17,VUE,XR,suv,1
+7230,18,911,Carrera,convertible,1
+7231,18,911,Carrera,convertible,2
+7232,18,911,Carrera,coupe,1
+7233,18,911,Carrera,coupe,2
+7234,18,911,Carrera 4,Coupe,1
+7235,18,911,Carrera 4,convertible,2
+7236,18,911,Carrera 4,coupe,1
+7237,18,911,Carrera 4 GTS,convertible,1
+7238,18,911,Carrera 4S,Convertible,2
+7239,18,911,Carrera 4S,convertible,1
+7240,18,911,Carrera 4S,coupe,1
+7241,18,911,Carrera 4S,coupe,2
+7242,18,911,Carrera Black Edition,coupe,2
+7243,18,911,Carrera S,convertible,1
+7244,18,911,Carrera S,convertible,2
+7245,18,911,Carrera S,coupe,1
+7246,18,911,Carrera S,coupe,2
+7247,18,911,Carrera S (Midyear Redesign),coupe,2
+7248,18,911,Turbo,convertible,1
+7249,18,911,Turbo,convertible,2
+7250,18,911,Turbo,coupe,1
+7251,18,911,Turbo,coupe,2
+7252,18,Boxster,Base,convertible,1
+7253,18,Boxster,Base,convertible,2
+7254,18,Boxster,S,convertible,1
+7255,18,Boxster,S,convertible,2
+7256,18,Cayenne,Base,suv,1
+7257,18,Cayenne,Base,suv,2
+7258,18,Cayenne,Diesel,suv,1
+7259,18,Cayenne,GTS,suv,1
+7260,18,Cayenne,S,suv,1
+7261,18,Cayenne,S Hybrid,suv,1
+7262,18,Cayenne,Turbo,suv,1
+7263,18,Cayenne,Turbo S,suv,1
+7264,18,Cayman,Base,coupe,1
+7265,18,Cayman,Base,coupe,2
+7266,18,Cayman,S,coupe,1
+7267,18,Cayman,S,coupe,2
+7268,18,Cayman S,Base,coupe,1
+7269,18,Cayman S,Base,coupe,2
+7270,18,Macan,S,suv,1
+7271,18,Macan,Turbo,suv,1
+7272,18,Panamera,4,sedan,1
+7273,18,Panamera,4S,sedan,1
+7274,18,Panamera,Base,sedan,1
+7275,18,Panamera,GTS,sedan,1
+7276,18,Panamera,S,sedan,1
+7277,18,Panamera,S E-Hybrid,sedan,1
+7278,18,Panamera,S Hybrid,sedan,1
+7279,18,Panamera,Turbo,sedan,1
+7280,18,Panamera,Turbo S,sedan,1
+7281,19,Amanti,Base,sedan,1
+7282,19,Borrego,EX,suv,1
+7283,19,Borrego,LX,suv,1
+7284,19,Cadenza,Limited,sedan,1
+7285,19,Cadenza,Premium,sedan,1
+7286,19,Forte,EX,hatchback,1
+7287,19,Forte,EX,sedan,1
+7288,19,Forte,EX,sedan,2
+7289,19,Forte,Forte5 EX,hatchback,1
+7290,19,Forte,Koup EX,koup,1
+7291,19,Forte,Koup EX,koup,2
+7292,19,Forte,Koup SX,koup,1
+7293,19,Forte,Koup SX,koup,2
+7294,19,Forte,LX,sedan,1
+7295,19,Forte,LX,sedan,2
+7296,19,Forte,SX,hatchback,1
+7297,19,Forte,SX,sedan,1
+7298,19,Forte,SX,sedan,2
+7299,19,K900,Luxury,sedan,1
+7300,19,Optima,EX,sedan,1
+7301,19,Optima,EX,sedan,2
+7302,19,Optima,EX Hybrid,sedan,1
+7303,19,Optima,EX Turbo,sedan,1
+7304,19,Optima,Hybrid,sedan,1
+7305,19,Optima,LX,sedan,2
+7306,19,Optima,LX Hybrid,sedan,1
+7307,19,Optima,SE,sedan,1
+7308,19,Optima,SX,sedan,1
+7309,19,Optima,SX Turbo,Sedan,1
+7310,19,Optima,SX Turbo,sedan,1
+7311,19,Optima,SXL,sedan,1
+7312,19,Rio,Base,sedan,1
+7313,19,Rio,Base,sedan,2
+7314,19,Rio,Cinco,wagon,1
+7315,19,Rio,EX,hatchback,1
+7316,19,Rio,EX,sedan,1
+7317,19,Rio,LX,hatchback,1
+7318,19,Rio,LX,hatchback,2
+7319,19,Rio,LX,sedan,1
+7320,19,Rio,LX,sedan,2
+7321,19,Rio,Rio5 LX,wagon,1
+7322,19,Rio,Rio5 SX,wagon,1
+7323,19,Rio,Rio5 SX,wagon,2
+7324,19,Rio,SX,hatchback,1
+7325,19,Rio,SX,sedan,1
+7326,19,Rondo,EX,wagon,1
+7327,19,Rondo,LX,wagon,1
+7328,19,Sedona,Base,minivan,1
+7329,19,Sedona,EX,minivan,1
+7330,19,Sedona,LX,minivan,1
+7331,19,Sephia,Base,sedan,1
+7332,19,Sorento,Base,suv,1
+7333,19,Sorento,EX,suv,1
+7334,19,Sorento,LX,suv,1
+7335,19,Sorento,LX,suv,2
+7336,19,Sorento,Limited,SUV,1
+7337,19,Sorento,SX,suv,1
+7338,19,Soul,Base,wagon,1
+7339,19,Soul,Base,wagon,2
+7340,19,Soul,Sport,Wagon,2
+7341,19,Soul,Sport,wagon,2
+7342,19,Spectra,Base,sedan,1
+7343,19,Spectra,Base,sedan,2
+7344,19,Spectra,EX,sedan,1
+7345,19,Spectra,EX,sedan,2
+7346,19,Spectra,GS,hatchback,1
+7347,19,Spectra,LS,sedan,1
+7348,19,Spectra,LX,sedan,1
+7349,19,Spectra,LX,sedan,2
+7350,19,Spectra,SX,sedan,1
+7351,19,Spectra,SX,sedan,2
+7352,19,Spectra,Spectra5,wagon,1
+7353,19,Spectra,Spectra5,wagon,2
+7354,19,Spectra,Spectra5 SX,wagon,1
+7355,19,Spectra,Spectra5 SX,wagon,2
+7356,19,Sportage,Base,suv,1
+7357,19,Sportage,Base,suv,2
+7358,19,Sportage,EX,SUV,2
+7359,19,Sportage,EX,suv,1
+7360,19,Sportage,LX,suv,1
+7361,19,Sportage,LX,suv,2
+7362,19,Sportage,SX,suv,1
+7363,20,Accent,Blue,hatchback,2
+7364,20,Accent,GL,hatchback,1
+7365,20,Accent,GL,sedan,1
+7366,20,Accent,GLS,hatchback,1
+7367,20,Accent,GLS,sedan,1
+7368,20,Accent,GLS,sedan,2
+7369,20,Accent,GS,hatchback,1
+7370,20,Accent,GS,hatchback,2
+7371,20,Accent,L,hatchback,2
+7372,20,Accent,SE,hatchback,1
+7373,20,Accent,SE,hatchback,2
+7374,20,Azera,Base,sedan,1
+7375,20,Azera,GLS,sedan,1
+7376,20,Azera,Limited,sedan,1
+7377,20,Azera,SE,sedan,1
+7378,20,Elantra,Blue,sedan,1
+7379,20,Elantra,GLS,hatchback,1
+7380,20,Elantra,GLS,sedan,2
+7381,20,Elantra,GLS,wagon,1
+7382,20,Elantra,GLS PZEV,sedan,1
+7383,20,Elantra,GT,hatchback,1
+7384,20,Elantra,GT,hatchback,2
+7385,20,Elantra,GT,sedan,1
+7386,20,Elantra,GT,sedan,2
+7387,20,Elantra,Limited,Sedan,2
+7388,20,Elantra,Limited,sedan,1
+7389,20,Elantra,Limited,sedan,2
+7390,20,Elantra,Limited SULEV,sedan,2
+7391,20,Elantra,SE,sedan,1
+7392,20,Elantra,SE,sedan,2
+7393,20,Elantra,SE SULEV,sedan,1
+7394,20,Elantra,Sport,sedan,1
+7395,20,Elantra Coupe,Base,elantra coupe,1
+7396,20,Elantra Coupe,GS,elantra coupe,1
+7397,20,Elantra Coupe,GS,elantra coupe,2
+7398,20,Elantra Coupe,GS PZEV,Elantra Coupe,1
+7399,20,Elantra Coupe,SE,elantra coupe,1
+7400,20,Elantra GT,Base,hatchback,1
+7401,20,Elantra GT,Base,hatchback,2
+7402,20,Elantra Touring,Base,Hatchback,1
+7403,20,Elantra Touring,Base,hatchback,1
+7404,20,Elantra Touring,GLS,hatchback,1
+7405,20,Elantra Touring,GLS,hatchback,2
+7406,20,Elantra Touring,SE,Hatchback,2
+7407,20,Elantra Touring,SE,hatchback,1
+7408,20,Elantra Touring,SE,hatchback,2
+7409,20,Entourage,GLS,minivan,1
+7410,20,Entourage,Limited,minivan,1
+7411,20,Entourage,SE,Minivan,1
+7412,20,Equus,Signature,sedan,1
+7413,20,Equus,Ultimate,sedan,1
+7414,20,Genesis,3.8,sedan,1
+7415,20,Genesis,4.6,sedan,1
+7416,20,Genesis,5,sedan,1
+7417,20,Genesis,5.0 R-Spec,sedan,1
+7418,20,Genesis Coupe,2.0T,genesis coupe,1
+7419,20,Genesis Coupe,2.0T,genesis coupe,2
+7420,20,Genesis Coupe,2.0T R-Spec,genesis coupe,1
+7421,20,Genesis Coupe,3.8 Grand Touring,genesis coupe,1
+7422,20,Genesis Coupe,3.8 Grand Touring,genesis coupe,2
+7423,20,Genesis Coupe,3.8 R-Spec,genesis coupe,1
+7424,20,Genesis Coupe,3.8 R-Spec,genesis coupe,2
+7425,20,Genesis Coupe,3.8 Track,genesis coupe,1
+7426,20,Genesis Coupe,3.8 Track,genesis coupe,2
+7427,20,Genesis Coupe,3.8 Ultimate,genesis coupe,1
+7428,20,Santa Fe,Base,suv,1
+7429,20,Santa Fe,Base,suv,2
+7430,20,Santa Fe,GL,suv,1
+7431,20,Santa Fe,GLS,suv,1
+7432,20,Santa Fe,GLS,suv,2
+7433,20,Santa Fe,LX,suv,1
+7434,20,Santa Fe,Limited,suv,1
+7435,20,Santa Fe,SE,suv,1
+7436,20,Santa Fe,Sport,suv,1
+7437,20,Santa Fe,Sport 2.0T,suv,1
+7438,20,Santa Fe Sport,Sport,suv,1
+7439,20,Santa Fe Sport,Sport 2.0T,suv,1
+7440,20,Sonata,Base,sedan,1
+7441,20,Sonata,Eco,Sedan,1
+7442,20,Sonata,GL,sedan,1
+7443,20,Sonata,GL V6,sedan,1
+7444,20,Sonata,GLS,sedan,1
+7445,20,Sonata,GLS,sedan,2
+7446,20,Sonata,GLS PZEV,sedan,1
+7447,20,Sonata,GLS V6,sedan,1
+7448,20,Sonata,LX,sedan,1
+7449,20,Sonata,Limited,sedan,1
+7450,20,Sonata,Limited PZEV,sedan,1
+7451,20,Sonata,Limited V6,sedan,1
+7452,20,Sonata,SE,sedan,1
+7453,20,Sonata,SE V6,sedan,1
+7454,20,Sonata,Sport,Sedan,1
+7455,20,Sonata,Sport,sedan,1
+7456,20,Sonata,Sport 2.0T,Sedan,1
+7457,20,Sonata,Sport PZEV,sedan,1
+7458,20,Sonata Hybrid,Base,sedan,1
+7459,20,Sonata Hybrid,Limited,sedan,1
+7460,20,Tiburon,Base,hatchback,1
+7461,20,Tiburon,Base,hatchback,2
+7462,20,Tiburon,GS,hatchback,1
+7463,20,Tiburon,GS,hatchback,2
+7464,20,Tiburon,GT,hatchback,1
+7465,20,Tiburon,GT,hatchback,2
+7466,20,Tiburon,SE,hatchback,2
+7467,20,Tucson,GL,suv,1
+7468,20,Tucson,GL,suv,2
+7469,20,Tucson,GLS,suv,1
+7470,20,Tucson,GLS,suv,2
+7471,20,Tucson,GLS PZEV,suv,1
+7472,20,Tucson,LX,suv,1
+7473,20,Tucson,Limited,suv,1
+7474,20,Tucson,Limited PZEV,suv,1
+7475,20,Tucson,SE,suv,1
+7476,20,Veloster,Base,hatchback,1
+7477,20,Veloster,Base,hatchback,2
+7478,20,Veloster,RE:FLEX,hatchback,1
+7479,20,Veloster,RE:MIX,hatchback,2
+7480,20,Veloster,Turbo,hatchback,1
+7481,20,Veloster,Turbo,hatchback,2
+7482,20,Veracruz,GLS,suv,1
+7483,20,Veracruz,Limited,suv,1
+7484,20,Veracruz,SE,suv,1
+7485,20,XG350,Base,sedan,1
+7486,20,XG350,L,sedan,1
+7487,21,Cooper,Base,convertible,1
+7488,21,Cooper,Base,hatchback,1
+7489,21,Cooper,Base,hatchback,2
+7490,21,Cooper,John Cooper Works,hatchback,1
+7491,21,Cooper,John Cooper Works,hatchback,2
+7492,21,Cooper,S,convertible,1
+7493,21,Cooper,S,convertible,2
+7494,21,Cooper,S,hatchback,1
+7495,21,Cooper,S,hatchback,2
+7496,21,Cooper Clubman,Base,hatchback,1
+7497,21,Cooper Clubman,Base,hatchback,2
+7498,21,Cooper Clubman,John Cooper Works,hatchback,2
+7499,21,Cooper Clubman,S,hatchback,1
+7500,21,Cooper Clubman,S,hatchback,2
+7501,21,Cooper Countryman,Base,wagon,1
+7502,21,Cooper Countryman,Base,wagon,2
+7503,21,Cooper Countryman,S,wagon,1
+7504,21,Cooper Countryman,S,wagon,2
+7505,21,Cooper Countryman,S ALL4,wagon,1
+7506,21,Cooper Countryman,S ALL4,wagon,2
+7507,21,Cooper Coupe,Base,hatchback,1
+7508,21,Cooper Coupe,Base,hatchback,2
+7509,21,Cooper Coupe,John Cooper Works,hatchback,2
+7510,21,Cooper Coupe,S,hatchback,1
+7511,21,Cooper Coupe,S,hatchback,2
+7512,21,Cooper Paceman,Base,hatchback,1
+7513,21,Cooper Paceman,John Cooper Works ALL4,hatchback,2
+7514,21,Cooper Paceman,S,hatchback,1
+7515,21,Cooper Paceman,S ALL4,hatchback,1
+7516,21,Cooper Paceman,S ALL4,hatchback,2
+7517,21,Cooper Roadster,Base,Convertible,2
+7518,21,Cooper Roadster,Base,convertible,2
+7519,22,CT 200h,Base,hatchback,1
+7520,22,CT 200h,Premium,hatchback,1
+7521,22,ES 300,Base,sedan,1
+7522,22,ES 300h,Base,sedan,1
+7523,22,ES 330,Base,sedan,1
+7524,22,ES 350,Base,sedan,1
+7525,22,GS 300,Base,sedan,1
+7526,22,GS 350,Base,sedan,1
+7527,22,GS 400,Base,sedan,1
+7528,22,GS 430,Base,sedan,1
+7529,22,GS 450h,Base,sedan,1
+7530,22,GS 460,Base,sedan,1
+7531,22,GX 460,Base,suv,1
+7532,22,GX 460,Luxury,suv,1
+7533,22,GX 460,Premium,suv,1
+7534,22,GX 470,Base,suv,1
+7535,22,HS 250h,Base,sedan,1
+7536,22,HS 250h,Premium,sedan,1
+7537,22,IS 250,Base,sedan,1
+7538,22,IS 250,Base,sedan,2
+7539,22,IS 250 C,Base,convertible,1
+7540,22,IS 300,Base,sedan,1
+7541,22,IS 300,Base,sedan,2
+7542,22,IS 300,SportCross,wagon,1
+7543,22,IS 350,Base,sedan,1
+7544,22,IS 350 C,Base,convertible,1
+7545,22,IS F,Base,sedan,1
+7546,22,LS 400,Base,sedan,1
+7547,22,LS 430,Base,sedan,1
+7548,22,LS 460,Base,sedan,1
+7549,22,LS 460,L,sedan,1
+7550,22,LX 450,Base,suv,1
+7551,22,LX 470,Base,suv,1
+7552,22,LX 570,Base,suv,1
+7553,22,RC 350,Base,Coupe,1
+7554,22,RC 350,Base,coupe,1
+7555,22,RC F,Base,Coupe,1
+7556,22,RC F,Base,coupe,1
+7557,22,RX 300,Base,suv,1
+7558,22,RX 330,Base,suv,1
+7559,22,RX 350,Base,suv,1
+7560,22,RX 350,F Sport,suv,1
+7561,22,RX 400h,Base,suv,1
+7562,22,RX 450h,Base,suv,1
+7563,22,SC 400,Base,coupe,1
+7564,22,SC 430,Base,convertible,1
+7565,23,B9 Tribeca,Limited 5-Passenger,suv,1
+7566,23,B9 Tribeca,Limited 7-Passenger,suv,1
+7567,23,BRZ,Limited,coupe,1
+7568,23,BRZ,Limited,coupe,2
+7569,23,BRZ,Premium,coupe,2
+7570,23,Baja,Base,crew cab,1
+7571,23,Baja,Sport,crew cab,1
+7572,23,Baja,Turbo,crew cab,1
+7573,23,Forester,2.0XT Touring,suv,1
+7574,23,Forester,2.5 X,wagon,1
+7575,23,Forester,2.5X,suv,1
+7576,23,Forester,2.5X,suv,2
+7577,23,Forester,2.5X Limited,suv,1
+7578,23,Forester,2.5X Limited PZEV,suv,1
+7579,23,Forester,2.5X PZEV,suv,1
+7580,23,Forester,2.5X PZEV,suv,2
+7581,23,Forester,2.5X Premium,suv,1
+7582,23,Forester,2.5X Premium,suv,2
+7583,23,Forester,2.5X Premium PZEV,suv,1
+7584,23,Forester,2.5X Premium PZEV,suv,2
+7585,23,Forester,2.5X Touring PZEV,suv,1
+7586,23,Forester,2.5XT,suv,1
+7587,23,Forester,2.5XT Limited,suv,1
+7588,23,Forester,2.5XT Premium,suv,1
+7589,23,Forester,2.5i Limited PZEV,suv,1
+7590,23,Forester,2.5i PZEV,suv,1
+7591,23,Forester,2.5i PZEV,suv,2
+7592,23,Forester,2.5i Premium PZEV,suv,1
+7593,23,Forester,2.5i Premium PZEV,suv,2
+7594,23,Forester,2.5i Touring PZEV,suv,1
+7595,23,Forester,L,wagon,1
+7596,23,Forester,L,wagon,2
+7597,23,Forester,S,wagon,1
+7598,23,Impreza,2.0i,hatchback,1
+7599,23,Impreza,2.0i,sedan,1
+7600,23,Impreza,2.0i Limited PZEV,sedan,1
+7601,23,Impreza,2.0i PZEV,sedan,1
+7602,23,Impreza,2.0i PZEV,sedan,2
+7603,23,Impreza,2.0i Premium PZEV,hatchback,1
+7604,23,Impreza,2.0i Premium PZEV,hatchback,2
+7605,23,Impreza,2.0i Premium PZEV,sedan,1
+7606,23,Impreza,2.0i Premium PZEV,sedan,2
+7607,23,Impreza,2.0i Sport Limited PZEV,hatchback,1
+7608,23,Impreza,2.0i Sport Premium PZEV,hatchback,1
+7609,23,Impreza,2.0i Sport Premium PZEV,hatchback,2
+7610,23,Impreza,2.5 RS,sedan,1
+7611,23,Impreza,2.5 i,sedan,1
+7612,23,Impreza,2.5 i,sedan,2
+7613,23,Impreza,2.5 i,wagon,1
+7614,23,Impreza,2.5i,hatchback,1
+7615,23,Impreza,2.5i,hatchback,2
+7616,23,Impreza,2.5i,sedan,1
+7617,23,Impreza,2.5i,sedan,2
+7618,23,Impreza,2.5i Premium,sedan,1
+7619,23,Impreza,Outback Sport,hatchback,1
+7620,23,Impreza,Outback Sport,hatchback,2
+7621,23,Impreza,Outback Sport,wagon,1
+7622,23,Impreza,WRX,hatchback,2
+7623,23,Impreza,WRX,sedan,2
+7624,23,Impreza,WRX,wagon,1
+7625,23,Impreza,WRX,wagon,2
+7626,23,Impreza,WRX Limited,sedan,2
+7627,23,Impreza,WRX Premium,sedan,2
+7628,23,Impreza,WRX STI,hatchback,2
+7629,23,Impreza,WRX STI,sedan,1
+7630,23,Impreza,WRX STI,sedan,2
+7631,23,Impreza,WRX STi,sedan,2
+7632,23,Impreza WRX,Base,Sedan,1
+7633,23,Impreza WRX,Base,hatchback,2
+7634,23,Impreza WRX,Base,sedan,2
+7635,23,Impreza WRX,Premium,sedan,2
+7636,23,Impreza WRX,STI,sedan,2
+7637,23,Legacy,2.5 GT Limited,sedan,1
+7638,23,Legacy,2.5 GT Limited,sedan,2
+7639,23,Legacy,2.5 GT Limited,wagon,1
+7640,23,Legacy,2.5 I,sedan,2
+7641,23,Legacy,2.5GT Limited,sedan,1
+7642,23,Legacy,2.5i,sedan,1
+7643,23,Legacy,2.5i,sedan,2
+7644,23,Legacy,2.5i,wagon,1
+7645,23,Legacy,2.5i Limited,sedan,1
+7646,23,Legacy,2.5i Limited,wagon,1
+7647,23,Legacy,2.5i Limited PZEV,sedan,1
+7648,23,Legacy,2.5i PZEV,sedan,1
+7649,23,Legacy,2.5i Premium,sedan,1
+7650,23,Legacy,2.5i Premium PZEV,sedan,1
+7651,23,Legacy,2.5i Special Edition,wagon,1
+7652,23,Legacy,2.5i Sport,sedan,1
+7653,23,Legacy,2.5i Sport PZEV,sedan,1
+7654,23,Legacy,3.6R Limited,sedan,1
+7655,23,Legacy,L,sedan,1
+7656,23,Legacy,L,wagon,1
+7657,23,Legacy,L 35th Anniversary Edition,sedan,1
+7658,23,Legacy,Outback,wagon,1
+7659,23,Legacy,Outback,wagon,2
+7660,23,Legacy,Outback Limited,wagon,1
+7661,23,Outback,2.5 XT,wagon,1
+7662,23,Outback,2.5 XT Limited,wagon,1
+7663,23,Outback,2.5 XT Limited,wagon,2
+7664,23,Outback,2.5I,wagon,1
+7665,23,Outback,2.5I Limited,wagon,1
+7666,23,Outback,2.5i,wagon,1
+7667,23,Outback,2.5i,wagon,2
+7668,23,Outback,2.5i Limited,sedan,1
+7669,23,Outback,2.5i Limited,wagon,1
+7670,23,Outback,2.5i Limited PZEV,wagon,1
+7671,23,Outback,2.5i PZEV,wagon,1
+7672,23,Outback,2.5i Premium,wagon,1
+7673,23,Outback,2.5i Premium,wagon,2
+7674,23,Outback,2.5i Premium PZEV,wagon,1
+7675,23,Outback,2.5i Premium PZEV,wagon,2
+7676,23,Outback,2.5i Special Edition,wagon,1
+7677,23,Outback,3.0 R L.L.Bean Edition,wagon,1
+7678,23,Outback,3.0R Limited,wagon,1
+7679,23,Outback,3.6R Limited,wagon,1
+7680,23,Outback,Base,wagon,1
+7681,23,Outback,Base,wagon,2
+7682,23,Outback,L.L. Bean Edition,wagon,1
+7683,23,Outback,Limited,sedan,1
+7684,23,Outback,Limited,wagon,1
+7685,23,Outback,VDC,wagon,1
+7686,23,Tribeca,3.6R Limited,suv,1
+7687,23,Tribeca,3.6R Touring,suv,1
+7688,23,Tribeca,Limited 7-Passenger,suv,1
+7689,23,WRX,Base,sedan,1
+7690,23,WRX,Base,sedan,2
+7691,23,WRX,Limited,Sedan,1
+7692,23,WRX,Premium,sedan,1
+7693,23,WRX,Premium,sedan,2
+7694,23,WRX,STI,sedan,2
+7695,23,WRX,STI Launch Edition,sedan,2
+7696,23,WRX,STI Limited,sedan,1
+7697,23,WRX,STI Limited,sedan,2
+7698,23,XV Crosstrek,Hybrid,suv,1
+7699,23,XV Crosstrek,Hybrid Touring,suv,1
+7700,23,XV Crosstrek,Limited,suv,1
+7701,23,XV Crosstrek,Premium,suv,1
+7702,23,XV Crosstrek,Premium,suv,2
+7703,24,Beetle,1.8T,hatchback,1
+7704,24,Beetle,1.8T Classic,hatchback,1
+7705,24,Beetle,2.0L TDI,hatchback,1
+7706,24,Beetle,2.0T White Turbo Launch Edition,hatchback,1
+7707,24,Beetle,2.0T White Turbo Launch Edition PZEV,hatchback,1
+7708,24,Beetle,2.5L,hatchback,1
+7709,24,Beetle,2.5L PZEV,hatchback,1
+7710,24,Beetle,2.5L PZEV,hatchback,2
+7711,24,Beetle,R-Line,Hatchback,2
+7712,24,Beetle,R-Line,hatchback,1
+7713,24,Beetle,R-Line PZEV,hatchback,1
+7714,24,Beetle,R-Line PZEV,hatchback,2
+7715,24,Beetle,Turbo Fender Edition,hatchback,1
+7716,24,Beetle Convertible,1.8T,Beetle Convertible,1
+7717,24,Beetle Convertible,2.5L,beetle convertible,1
+7718,24,Beetle Convertible,2.5L PZEV,beetle convertible,1
+7719,24,Beetle Convertible,TDI,beetle convertible,1
+7720,24,Beetle Convertible,Turbo PZEV,Beetle Convertible,2
+7721,24,Beetle Convertible,Turbo PZEV,beetle convertible,1
+7722,24,CC,Executive PZEV,sedan,1
+7723,24,CC,Lux,sedan,1
+7724,24,CC,Lux Limited,sedan,1
+7725,24,CC,Lux Limited PZEV,sedan,1
+7726,24,CC,Luxury,sedan,1
+7727,24,CC,Luxury PZEV,sedan,1
+7728,24,CC,R-Line,sedan,1
+7729,24,CC,R-Line PZEV,Sedan,2
+7730,24,CC,R-Line PZEV,sedan,1
+7731,24,CC,R-Line PZEV,sedan,2
+7732,24,CC,Sport,sedan,1
+7733,24,CC,Sport,sedan,2
+7734,24,CC,Sport PZEV,sedan,1
+7735,24,CC,VR6 4Motion,sedan,1
+7736,24,CC,VR6 4Motion Executive,sedan,1
+7737,24,CC,VR6 Sport,sedan,1
+7738,24,Cabrio,GL,convertible,2
+7739,24,Cabrio,GLS,convertible,1
+7740,24,Cabrio,GLS,convertible,2
+7741,24,Cabrio,GLX,convertible,1
+7742,24,Eos,2.0T,convertible,1
+7743,24,Eos,3.2L,convertible,1
+7744,24,Eos,Base,convertible,2
+7745,24,Eos,Komfort,convertible,1
+7746,24,Eos,Komfort,convertible,2
+7747,24,Eos,Komfort SULEV,convertible,1
+7748,24,Eos,Lux,convertible,1
+7749,24,Eos,Sport SULEV,convertible,1
+7750,24,Eos,Turbo,Convertible,2
+7751,24,EuroVan,GLS,minivan,1
+7752,24,GLI,Autobahn,Sedan,2
+7753,24,GLI,Autobahn PZEV,sedan,1
+7754,24,GLI,Autobahn PZEV,sedan,2
+7755,24,GLI,Base,sedan,1
+7756,24,GLI,Base,sedan,2
+7757,24,GTI,1.8T,hatchback,1
+7758,24,GTI,1.8T,hatchback,2
+7759,24,GTI,Autobahn,hatchback,1
+7760,24,GTI,Autobahn PZEV,hatchback,1
+7761,24,GTI,Autobahn PZEV,hatchback,2
+7762,24,GTI,Base,hatchback,1
+7763,24,GTI,Base,hatchback,2
+7764,24,GTI,Driver's Edition PZEV,hatchback,1
+7765,24,GTI,Driver's Edition PZEV,hatchback,2
+7766,24,GTI,GLS 1.8T,hatchback,2
+7767,24,GTI,GLX VR6,Hatchback,2
+7768,24,GTI,GLX VR6,hatchback,2
+7769,24,GTI,PZEV,hatchback,1
+7770,24,GTI,PZEV,hatchback,2
+7771,24,GTI,VR6,hatchback,2
+7772,24,GTI,Wolfsburg Edition,hatchback,1
+7773,24,Golf,2.0L TDI,hatchback,1
+7774,24,Golf,2.5L,hatchback,1
+7775,24,Golf,2.5L PZEV,hatchback,1
+7776,24,Golf,2.5L PZEV,hatchback,2
+7777,24,Golf,GL,hatchback,1
+7778,24,Golf,GLS,hatchback,1
+7779,24,Golf,GLS,hatchback,2
+7780,24,Golf,GLS 1.8T,hatchback,1
+7781,24,Golf,GLS 1.8T,hatchback,2
+7782,24,Golf,GLS TDI,hatchback,1
+7783,24,Golf,GLS TDI,hatchback,2
+7784,24,Golf,TDI,hatchback,1
+7785,24,Golf,TDI,hatchback,2
+7786,24,Golf,TSI S,Hatchback,1
+7787,24,Golf,TSI S,hatchback,1
+7788,24,Golf,TSI SE,hatchback,1
+7789,24,Golf GTI,Autobahn,Hatchback,2
+7790,24,Golf GTI,Autobahn,hatchback,1
+7791,24,Golf GTI,S,hatchback,1
+7792,24,Golf GTI,SE,hatchback,2
+7793,24,Golf R,Base,hatchback,2
+7794,24,Jetta,2.0T,sedan,1
+7795,24,Jetta,2.5,sedan,1
+7796,24,Jetta,2.5,sedan,2
+7797,24,Jetta,2.5 PZEV,sedan,1
+7798,24,Jetta,2.5 PZEV,sedan,2
+7799,24,Jetta,Base,sedan,1
+7800,24,Jetta,Base,sedan,2
+7801,24,Jetta,Base PZEV,sedan,1
+7802,24,Jetta,GL,sedan,1
+7803,24,Jetta,GL,sedan,2
+7804,24,Jetta,GL (1999.5),sedan,1
+7805,24,Jetta,GL PZEV,sedan,1
+7806,24,Jetta,GL TDI,Sedan,2
+7807,24,Jetta,GL TDI,sedan,1
+7808,24,Jetta,GLI,sedan,1
+7809,24,Jetta,GLI,sedan,2
+7810,24,Jetta,GLI 1.8T,sedan,1
+7811,24,Jetta,GLI 1.8T,sedan,2
+7812,24,Jetta,GLS,sedan,1
+7813,24,Jetta,GLS,sedan,2
+7814,24,Jetta,GLS,wagon,1
+7815,24,Jetta,GLS (1999.5),sedan,1
+7816,24,Jetta,GLS (1999.5),sedan,2
+7817,24,Jetta,GLS 1.8T,sedan,1
+7818,24,Jetta,GLS 1.8T,sedan,2
+7819,24,Jetta,GLS 1.8T,wagon,1
+7820,24,Jetta,GLS PZEV,sedan,1
+7821,24,Jetta,GLS TDI,sedan,1
+7822,24,Jetta,GLS TDI,sedan,2
+7823,24,Jetta,GLS VR6,sedan,1
+7824,24,Jetta,GLS Wolfsburg Edition 1.8T,sedan,2
+7825,24,Jetta,GLX VR6,sedan,2
+7826,24,Jetta,Limited Edition,sedan,1
+7827,24,Jetta,Limited Edition PZEV,sedan,1
+7828,24,Jetta,Limited Edition PZEV,sedan,2
+7829,24,Jetta,S,sedan,1
+7830,24,Jetta,S,sedan,2
+7831,24,Jetta,S PZEV,sedan,1
+7832,24,Jetta,S PZEV,sedan,2
+7833,24,Jetta,SE,sedan,1
+7834,24,Jetta,SE,sedan,2
+7835,24,Jetta,SE PZEV,sedan,1
+7836,24,Jetta,SE PZEV,sedan,2
+7837,24,Jetta,SEL,sedan,1
+7838,24,Jetta,SEL PZEV,sedan,1
+7839,24,Jetta,SportWagen S PZEV,wagon,1
+7840,24,Jetta,SportWagen TDI,wagon,1
+7841,24,Jetta,SportWagen TDI,wagon,2
+7842,24,Jetta,TDI,sedan,1
+7843,24,Jetta,TDI,sedan,2
+7844,24,Jetta,TDI Cup Edition,sedan,2
+7845,24,Jetta,TDI Loyal Edition,sedan,1
+7846,24,Jetta,Value Edition,sedan,1
+7847,24,Jetta,Value Edition,sedan,2
+7848,24,Jetta,Value Edition PZEV,sedan,1
+7849,24,Jetta,Wolfsburg,sedan,1
+7850,24,Jetta,Wolfsburg,sedan,2
+7851,24,Jetta,Wolfsburg Edition,sedan,1
+7852,24,Jetta,Wolfsburg Edition,sedan,2
+7853,24,Jetta,Wolfsburg Edition PZEV,sedan,1
+7854,24,Jetta GLI,Autobahn PZEV,sedan,1
+7855,24,Jetta GLI,Base,sedan,2
+7856,24,Jetta GLI,Edition 30 PZEV,sedan,1
+7857,24,Jetta Hybrid,Base,sedan,1
+7858,24,Jetta SportWagen,S,wagon,1
+7859,24,Jetta SportWagen,S PZEV,wagon,1
+7860,24,Jetta SportWagen,TDI,wagon,1
+7861,24,Jetta SportWagen,TDI,wagon,2
+7862,24,New Beetle,2.5,convertible,1
+7863,24,New Beetle,2.5,convertible,2
+7864,24,New Beetle,2.5,hatchback,1
+7865,24,New Beetle,2.5 PZEV,hatchback,1
+7866,24,New Beetle,2.5L,convertible,1
+7867,24,New Beetle,2.5L,hatchback,1
+7868,24,New Beetle,2.5L PZEV,hatchback,1
+7869,24,New Beetle,2.5L PZEV,hatchback,2
+7870,24,New Beetle,2.5L Red Rock Edition,hatchback,1
+7871,24,New Beetle,2.5L Red Rock Edition PZEV,hatchback,1
+7872,24,New Beetle,Base,hatchback,1
+7873,24,New Beetle,Base,hatchback,2
+7874,24,New Beetle,Bi-Color Edition,hatchback,1
+7875,24,New Beetle,Dark Flint Edition,convertible,1
+7876,24,New Beetle,GL,convertible,1
+7877,24,New Beetle,GL,hatchback,1
+7878,24,New Beetle,GL,hatchback,2
+7879,24,New Beetle,GL 1.8T,hatchback,2
+7880,24,New Beetle,GLS,convertible,1
+7881,24,New Beetle,GLS,hatchback,1
+7882,24,New Beetle,GLS,hatchback,2
+7883,24,New Beetle,GLS 1.8T,convertible,1
+7884,24,New Beetle,GLS 1.8T,convertible,2
+7885,24,New Beetle,GLS 1.8T,hatchback,1
+7886,24,New Beetle,GLS 1.8T,hatchback,2
+7887,24,New Beetle,GLS TDI,hatchback,1
+7888,24,New Beetle,GLX 1.8T,convertible,1
+7889,24,New Beetle,GLX 1.8T,hatchback,1
+7890,24,New Beetle,GLX 1.8T,hatchback,2
+7891,24,New Beetle,S,hatchback,1
+7892,24,New Beetle,S PZEV,convertible,1
+7893,24,New Beetle,SE,convertible,1
+7894,24,New Beetle,SE PZEV,convertible,1
+7895,24,New Beetle,TDI,hatchback,1
+7896,24,New Beetle,Triple White,convertible,1
+7897,24,New Beetle,Turbo S,hatchback,2
+7898,24,Passat,2.0T,sedan,1
+7899,24,Passat,2.0T,wagon,1
+7900,24,Passat,3.6,sedan,1
+7901,24,Passat,Base,sedan,1
+7902,24,Passat,Base,wagon,1
+7903,24,Passat,GL,sedan,1
+7904,24,Passat,GL 1.8T,sedan,1
+7905,24,Passat,GL 1.8T,sedan,2
+7906,24,Passat,GLS 1.8T,sedan,1
+7907,24,Passat,GLS 1.8T,sedan,2
+7908,24,Passat,GLS 1.8T,wagon,1
+7909,24,Passat,GLS 1.8T 4Motion,sedan,1
+7910,24,Passat,GLS 1.8T 4Motion,wagon,1
+7911,24,Passat,GLS TDI,sedan,1
+7912,24,Passat,GLS V6,sedan,1
+7913,24,Passat,GLS V6,sedan,2
+7914,24,Passat,GLS V6 4Motion,wagon,1
+7915,24,Passat,GLX,sedan,1
+7916,24,Passat,GLX,sedan,2
+7917,24,Passat,GLX,wagon,1
+7918,24,Passat,GLX 4Motion,sedan,1
+7919,24,Passat,GLX 4Motion,wagon,1
+7920,24,Passat,GLX V6 4Motion,sedan,1
+7921,24,Passat,Komfort,sedan,1
+7922,24,Passat,Komfort,wagon,1
+7923,24,Passat,Komfort PZEV,sedan,1
+7924,24,Passat,Limited Edition,sedan,1
+7925,24,Passat,S,sedan,1
+7926,24,Passat,S PZEV,sedan,1
+7927,24,Passat,S PZEV,sedan,2
+7928,24,Passat,SE,Sedan,2
+7929,24,Passat,SE,sedan,1
+7930,24,Passat,SE,sedan,2
+7931,24,Passat,SE PZEV,sedan,1
+7932,24,Passat,SE PZEV,sedan,2
+7933,24,Passat,SEL,sedan,1
+7934,24,Passat,SEL PZEV,sedan,1
+7935,24,Passat,SEL PZEV,sedan,2
+7936,24,Passat,SEL Premium,sedan,1
+7937,24,Passat,TDI SE,sedan,1
+7938,24,Passat,TDI SE,sedan,2
+7939,24,Passat,TDI SEL Premium,sedan,1
+7940,24,Passat,Turbo,sedan,1
+7941,24,Passat,Turbo,sedan,2
+7942,24,Passat,Turbo,wagon,1
+7943,24,Passat,V6 SE,sedan,1
+7944,24,Passat,V6 SEL Premium,sedan,1
+7945,24,Passat,W8 4Motion,sedan,1
+7946,24,Passat,W8 4Motion,wagon,1
+7947,24,Passat,Wolfsburg Edition PZEV,sedan,1
+7948,24,Phaeton,V8,sedan,1
+7949,24,R32,Base,hatchback,1
+7950,24,Rabbit,Base,hatchback,1
+7951,24,Rabbit,Base,hatchback,2
+7952,24,Rabbit,PZEV,hatchback,1
+7953,24,Rabbit,S,hatchback,1
+7954,24,Rabbit,S PZEV,hatchback,1
+7955,24,Routan,S,minivan,1
+7956,24,Routan,SE,minivan,1
+7957,24,Routan,SEL,minivan,1
+7958,24,Tiguan,LE,suv,1
+7959,24,Tiguan,R-Line,suv,1
+7960,24,Tiguan,S,suv,1
+7961,24,Tiguan,S,suv,2
+7962,24,Tiguan,S 4Motion,suv,1
+7963,24,Tiguan,SE,suv,1
+7964,24,Tiguan,SE 4Motion,suv,1
+7965,24,Tiguan,SEL,suv,1
+7966,24,Tiguan,SEL 4Motion,suv,1
+7967,24,Touareg,TDI Lux,suv,1
+7968,24,Touareg,TDI Sport,suv,1
+7969,24,Touareg,V6,suv,1
+7970,24,Touareg,V6 Executive,suv,1
+7971,24,Touareg,V6 R-Line,suv,1
+7972,24,Touareg,V6 TDI,suv,1
+7973,24,Touareg,V8,suv,1
+7974,24,Touareg,VR6 Executive,suv,1
+7975,24,Touareg,VR6 Lux,suv,1
+7976,24,Touareg,X Special Edition,SUV,1
+7977,24,Touareg,X Special Edition,suv,1
+7978,24,Touareg 2,V6 TDI,suv,1
+7979,24,Touareg 2,V8 FSI,suv,1
+7980,24,Touareg 2,VR6 FSI,suv,1
+7981,25,EX,EX35,suv,1
+7982,25,EX35,Base,suv,1
+7983,25,EX35,Journey,suv,1
+7984,25,FX,FX35,suv,1
+7985,25,FX,FX37,suv,1
+7986,25,FX,FX50,suv,1
+7987,25,FX35,Base,suv,1
+7988,25,FX45,Base,suv,1
+7989,25,FX50,Base,suv,1
+7990,25,G Convertible,G37,g convertible,1
+7991,25,G Convertible,G37,g convertible,2
+7992,25,G Coupe,G37,g coupe,1
+7993,25,G Coupe,G37,g coupe,2
+7994,25,G Coupe,G37 Journey,g coupe,1
+7995,25,G Coupe,G37 Sport,g coupe,1
+7996,25,G Coupe,G37 Sport,g coupe,2
+7997,25,G Coupe,G37x,g coupe,1
+7998,25,G Coupe,IPL,g coupe,1
+7999,25,G Sedan,G25,g sedan,1
+8000,25,G Sedan,G25 Journey,g sedan,1
+8001,25,G Sedan,G25x,g sedan,1
+8002,25,G Sedan,G37 Journey,g sedan,1
+8003,25,G Sedan,G37 Journey,g sedan,2
+8004,25,G Sedan,G37x,g sedan,1
+8005,25,G20,Base,sedan,1
+8006,25,G35,Base,coupe,1
+8007,25,G35,Base,coupe,2
+8008,25,G35,Base,sedan,1
+8009,25,G35,Base,sedan,2
+8010,25,G35,Journey,sedan,1
+8011,25,G35,Sport,sedan,1
+8012,25,G35,x,sedan,1
+8013,25,G37,Base,convertible,1
+8014,25,G37,Base,coupe,1
+8015,25,G37,Base,coupe,2
+8016,25,G37,Base,sedan,1
+8017,25,G37,Journey,coupe,1
+8018,25,G37,Sport,coupe,1
+8019,25,G37,Sport,coupe,2
+8020,25,G37,x,coupe,1
+8021,25,G37,x,sedan,1
+8022,25,G37 Convertible,Base,g37 convertible,1
+8023,25,I30,Base,sedan,1
+8024,25,I35,Base,sedan,1
+8025,25,JX,JX35,suv,1
+8026,25,M,M35h,sedan,1
+8027,25,M,M37,sedan,1
+8028,25,M,M37x,sedan,1
+8029,25,M,M56,Sedan,1
+8030,25,M,M56,sedan,1
+8031,25,M,M56x,sedan,1
+8032,25,M35,Base,sedan,1
+8033,25,M35,x,sedan,1
+8034,25,M37,Base,sedan,1
+8035,25,M37,x,sedan,1
+8036,25,M45,Base,sedan,1
+8037,25,M56,x,sedan,1
+8038,25,Q45,Base,sedan,1
+8039,25,Q45,Premium,sedan,1
+8040,25,Q50,Base,sedan,1
+8041,25,Q50,Hybrid Premium,sedan,1
+8042,25,Q50,Hybrid Sport,sedan,1
+8043,25,Q50,Premium,sedan,1
+8044,25,Q50,Sport,sedan,1
+8045,25,Q60 Convertible,Base,q60 convertible,1
+8046,25,Q60 Convertible,IPL,q60 convertible,1
+8047,25,Q60 Coupe,Base,q60 coupe,1
+8048,25,Q60 Coupe,Journey,q60 coupe,1
+8049,25,Q60 Coupe,Sport,q60 coupe,2
+8050,25,Q60 Coupe,Sport Limited,q60 coupe,1
+8051,25,Q70,Base,sedan,1
+8052,25,QX,QX56,suv,1
+8053,25,QX4,Base,suv,1
+8054,25,QX4,Base (1999.5),suv,1
+8055,25,QX56,Base,suv,1
+8056,25,QX60,Base,suv,1
+8057,25,QX60,Hybrid,suv,1
+8058,25,QX70,Base,suv,1
+8059,25,QX80,Base,suv,1
+8060,26,1 Series,128i,convertible,1
+8061,26,1 Series,128i,convertible,2
+8062,26,1 Series,128i,coupe,1
+8063,26,1 Series,128i,coupe,2
+8064,26,1 Series,128i SULEV,convertible,1
+8065,26,1 Series,128i SULEV,coupe,1
+8066,26,1 Series,135i,convertible,1
+8067,26,1 Series,135i,coupe,1
+8068,26,1 Series,135i,coupe,2
+8069,26,2 Series,228i,coupe,1
+8070,26,2 Series,228i,coupe,2
+8071,26,2 Series,M235i,coupe,1
+8072,26,2 Series,M235i,coupe,2
+8073,26,3 Series,318i,Convertible,1
+8074,26,3 Series,318i,sedan,2
+8075,26,3 Series,320i,sedan,1
+8076,26,3 Series,320i xDrive,sedan,1
+8077,26,3 Series,323Ci,Coupe,2
+8078,26,3 Series,323Ci,convertible,1
+8079,26,3 Series,323Ci,convertible,2
+8080,26,3 Series,323i,convertible,1
+8081,26,3 Series,323i,sedan,1
+8082,26,3 Series,323i,sedan,2
+8083,26,3 Series,325Ci,convertible,1
+8084,26,3 Series,325Ci,convertible,2
+8085,26,3 Series,325Ci,coupe,1
+8086,26,3 Series,325Ci,coupe,2
+8087,26,3 Series,325i,convertible,1
+8088,26,3 Series,325i,sedan,1
+8089,26,3 Series,325i,sedan,2
+8090,26,3 Series,325i,wagon,1
+8091,26,3 Series,325xi,sedan,1
+8092,26,3 Series,325xi,sedan,2
+8093,26,3 Series,325xi,wagon,1
+8094,26,3 Series,328Ci,coupe,1
+8095,26,3 Series,328d,sedan,1
+8096,26,3 Series,328d xDrive,sedan,1
+8097,26,3 Series,328d xDrive,wagon,1
+8098,26,3 Series,328i,convertible,1
+8099,26,3 Series,328i,convertible,2
+8100,26,3 Series,328i,coupe,1
+8101,26,3 Series,328i,coupe,2
+8102,26,3 Series,328i,sedan,1
+8103,26,3 Series,328i,sedan,2
+8104,26,3 Series,328i,wagon,1
+8105,26,3 Series,328i SULEV,sedan,1
+8106,26,3 Series,328i xDrive,coupe,1
+8107,26,3 Series,328i xDrive,coupe,2
+8108,26,3 Series,328i xDrive,sedan,1
+8109,26,3 Series,328i xDrive,wagon,1
+8110,26,3 Series,328i xDrive SULEV,sedan,1
+8111,26,3 Series,328xi,coupe,1
+8112,26,3 Series,328xi,sedan,1
+8113,26,3 Series,328xi,wagon,1
+8114,26,3 Series,330Ci,convertible,1
+8115,26,3 Series,330Ci,convertible,2
+8116,26,3 Series,330Ci,coupe,1
+8117,26,3 Series,330Ci,coupe,2
+8118,26,3 Series,330i,sedan,1
+8119,26,3 Series,330i,sedan,2
+8120,26,3 Series,330xi,sedan,1
+8121,26,3 Series,330xi,sedan,2
+8122,26,3 Series,335d,sedan,1
+8123,26,3 Series,335i,convertible,1
+8124,26,3 Series,335i,convertible,2
+8125,26,3 Series,335i,coupe,1
+8126,26,3 Series,335i,coupe,2
+8127,26,3 Series,335i,sedan,1
+8128,26,3 Series,335i,sedan,2
+8129,26,3 Series,335i xDrive,coupe,1
+8130,26,3 Series,335i xDrive,coupe,2
+8131,26,3 Series,335i xDrive,sedan,1
+8132,26,3 Series,335i xDrive,sedan,2
+8133,26,3 Series,335is,convertible,1
+8134,26,3 Series,335is,convertible,2
+8135,26,3 Series,335is,coupe,1
+8136,26,3 Series,335xi,coupe,1
+8137,26,3 Series,335xi,sedan,1
+8138,26,3 Series,335xi,sedan,2
+8139,26,3 Series,ActiveHybrid 3,sedan,1
+8140,26,3 Series Gran Turismo,328i xDrive,hatchback,1
+8141,26,3 Series Gran Turismo,328i xDrive SULEV,Hatchback,1
+8142,26,3 Series Gran Turismo,328i xDrive SULEV,hatchback,1
+8143,26,3 Series Gran Turismo,335i xDrive,hatchback,1
+8144,26,4 Series,428i,convertible,1
+8145,26,4 Series,428i,coupe,1
+8146,26,4 Series,428i,coupe,2
+8147,26,4 Series,428i SULEV,convertible,1
+8148,26,4 Series,428i SULEV,coupe,1
+8149,26,4 Series,428i xDrive,coupe,1
+8150,26,4 Series,428i xDrive SULEV,coupe,1
+8151,26,4 Series,435i,convertible,1
+8152,26,4 Series,435i,coupe,1
+8153,26,4 Series,435i,coupe,2
+8154,26,4 Series,435i xDrive,coupe,1
+8155,26,4 Series Gran Coupe,428i,Sedan,1
+8156,26,4 Series Gran Coupe,428i xDrive,sedan,1
+8157,26,4 Series Gran Coupe,428i xDrive SULEV,sedan,1
+8158,26,4 Series Gran Coupe,435i,sedan,1
+8159,26,5 Series,525i,sedan,1
+8160,26,5 Series,525xi,sedan,1
+8161,26,5 Series,528i,sedan,1
+8162,26,5 Series,528i,sedan,2
+8163,26,5 Series,528i,wagon,1
+8164,26,5 Series,528i xDrive,sedan,1
+8165,26,5 Series,528xi,Sedan,2
+8166,26,5 Series,528xi,sedan,1
+8167,26,5 Series,530i,sedan,1
+8168,26,5 Series,530i,sedan,2
+8169,26,5 Series,530xi,sedan,1
+8170,26,5 Series,530xi,wagon,1
+8171,26,5 Series,535i,sedan,1
+8172,26,5 Series,535i xDrive,sedan,1
+8173,26,5 Series,535i xDrive,sedan,2
+8174,26,5 Series,535xi,sedan,1
+8175,26,5 Series,540i,sedan,1
+8176,26,5 Series,545i,sedan,1
+8177,26,5 Series,545i,sedan,2
+8178,26,5 Series,550i,sedan,1
+8179,26,5 Series,550i,sedan,2
+8180,26,5 Series,550i xDrive,sedan,1
+8181,26,5 Series,ActiveHybrid 5,sedan,1
+8182,26,5 Series Gran Turismo,535i,hatchback,1
+8183,26,5 Series Gran Turismo,535i xDrive,hatchback,1
+8184,26,5 Series Gran Turismo,550i,hatchback,1
+8185,26,5 Series Gran Turismo,550i xDrive,hatchback,1
+8186,26,6 Series,640i,convertible,1
+8187,26,6 Series,640i,coupe,1
+8188,26,6 Series,645Ci,convertible,1
+8189,26,6 Series,645Ci,convertible,2
+8190,26,6 Series,645Ci,coupe,1
+8191,26,6 Series,650i,convertible,1
+8192,26,6 Series,650i,coupe,1
+8193,26,6 Series,650i xDrive,convertible,1
+8194,26,6 Series,650i xDrive,coupe,1
+8195,26,6 Series Gran Coupe,640i,sedan,1
+8196,26,6 Series Gran Coupe,640i xDrive,sedan,1
+8197,26,6 Series Gran Coupe,650i,sedan,1
+8198,26,6 Series Gran Coupe,650i xDrive,sedan,1
+8199,26,7 Series,740Ld xDrive,Sedan,1
+8200,26,7 Series,740Li,sedan,1
+8201,26,7 Series,740i,sedan,1
+8202,26,7 Series,740iL,sedan,1
+8203,26,7 Series,745Li,sedan,1
+8204,26,7 Series,745i,sedan,1
+8205,26,7 Series,750Li,sedan,1
+8206,26,7 Series,750Li xDrive,sedan,1
+8207,26,7 Series,750i,sedan,1
+8208,26,7 Series,760Li,sedan,1
+8209,26,ActiveHybrid 7,750Li,sedan,1
+8210,26,ActiveHybrid 7,750i,sedan,1
+8211,26,M,Base,convertible,2
+8212,26,M3,Base,convertible,1
+8213,26,M3,Base,convertible,2
+8214,26,M3,Base,coupe,1
+8215,26,M3,Base,coupe,2
+8216,26,M3,Base,sedan,2
+8217,26,M4,Base,Convertible,2
+8218,26,M4,Base,Coupe,2
+8219,26,M4,Base,coupe,1
+8220,26,M4,Base,coupe,2
+8221,26,M5,Base,sedan,1
+8222,26,M5,Base,sedan,2
+8223,26,M6,Base,convertible,1
+8224,26,M6,Base,coupe,1
+8225,26,M6,Base,coupe,2
+8226,26,M6 Gran Coupe,Base,sedan,1
+8227,26,X1,sDrive28i,suv,1
+8228,26,X1,xDrive28i,suv,1
+8229,26,X1,xDrive35i,suv,1
+8230,26,X3,2.5i,suv,1
+8231,26,X3,3.0i,suv,1
+8232,26,X3,3.0si,suv,1
+8233,26,X3,xDrive28i,suv,1
+8234,26,X3,xDrive30i,suv,1
+8235,26,X3,xDrive35i,suv,1
+8236,26,X4,xDrive35i,SUV,1
+8237,26,X5,3.0i,suv,1
+8238,26,X5,3.0si,suv,1
+8239,26,X5,4.4i,suv,1
+8240,26,X5,4.6is,suv,1
+8241,26,X5,4.8i,suv,1
+8242,26,X5,4.8is,suv,1
+8243,26,X5,sDrive35i,suv,1
+8244,26,X5,xDrive30i,suv,1
+8245,26,X5,xDrive35d,suv,1
+8246,26,X5,xDrive35i,suv,1
+8247,26,X5,xDrive35i Premium,suv,1
+8248,26,X5,xDrive48i,suv,1
+8249,26,X5,xDrive50i,suv,1
+8250,26,X5 M,Base,suv,1
+8251,26,X6,xDrive35i,suv,1
+8252,26,X6,xDrive50i,suv,1
+8253,26,X6 M,Base,suv,1
+8254,26,Z3,1.9,convertible,1
+8255,26,Z3,1.9,convertible,2
+8256,26,Z3,2.5i,convertible,1
+8257,26,Z3,2.5i,convertible,2
+8258,26,Z3,2.8,convertible,2
+8259,26,Z3,3.0i,convertible,2
+8260,26,Z4,2.5i,convertible,1
+8261,26,Z4,2.5i,convertible,2
+8262,26,Z4,3.0i,convertible,1
+8263,26,Z4,3.0i,convertible,2
+8264,26,Z4,3.0si,convertible,1
+8265,26,Z4,3.0si,convertible,2
+8266,26,Z4,sDrive28i,convertible,1
+8267,26,Z4,sDrive28i,convertible,2
+8268,26,Z4,sDrive30i,convertible,1
+8269,26,Z4,sDrive35i,convertible,1
+8270,26,Z4,sDrive35i,convertible,2
+8271,26,Z4 M,Base,convertible,2
+8272,26,Z4 M,Base,coupe,2
+8273,26,i8,Base,coupe,1
+8274,27,Bonneville,GXP,sedan,1
+8275,27,Bonneville,SE,sedan,1
+8276,27,Bonneville,SLE,sedan,1
+8277,27,Firebird,Base,hatchback,1
+8278,27,Firebird,Formula,hatchback,1
+8279,27,Firebird,Formula,hatchback,2
+8280,27,Firebird,Trans Am,Hatchback,2
+8281,27,Firebird,Trans Am,hatchback,1
+8282,27,Firebird,Trans Am,hatchback,2
+8283,27,G3,Base,hatchback,1
+8284,27,G3,Base,hatchback,2
+8285,27,G5,Base,coupe,1
+8286,27,G5,Base,coupe,2
+8287,27,G5,GT,coupe,1
+8288,27,G6,Base,sedan,1
+8289,27,G6,Fleet,sedan,1
+8290,27,G6,GT,convertible,1
+8291,27,G6,GT,coupe,1
+8292,27,G6,GT,sedan,1
+8293,27,G6,GTP,coupe,2
+8294,27,G6,GTP,sedan,1
+8295,27,G6,GXP,coupe,1
+8296,27,G6,GXP,sedan,1
+8297,27,G6,Value Leader,sedan,1
+8298,27,G8,Base,sedan,1
+8299,27,G8,GT,sedan,1
+8300,27,G8,GXP,sedan,1
+8301,27,GTO,Base,coupe,1
+8302,27,GTO,Base,coupe,2
+8303,27,Grand Am,GT,coupe,1
+8304,27,Grand Am,GT,sedan,1
+8305,27,Grand Am,GT1,sedan,1
+8306,27,Grand Am,SE,sedan,1
+8307,27,Grand Am,SE Fleet,sedan,1
+8308,27,Grand Am,SE1,sedan,1
+8309,27,Grand Prix,Base,sedan,1
+8310,27,Grand Prix,GT,coupe,1
+8311,27,Grand Prix,GT,sedan,1
+8312,27,Grand Prix,GT1,sedan,1
+8313,27,Grand Prix,GT2,sedan,1
+8314,27,Grand Prix,GTP,sedan,1
+8315,27,Grand Prix,GXP,sedan,1
+8316,27,Grand Prix,SE,sedan,1
+8317,27,Montana,Base,minivan,1
+8318,27,Montana,SV6,minivan,1
+8319,27,Montana SV6,Base,minivan,1
+8320,27,Solstice,Base,convertible,1
+8321,27,Solstice,Base,convertible,2
+8322,27,Solstice,GXP,convertible,1
+8323,27,Solstice,GXP,convertible,2
+8324,27,Sunfire,Base,coupe,1
+8325,27,Sunfire,SE,coupe,1
+8326,27,Sunfire,SE,sedan,1
+8327,27,Torrent,Base,suv,1
+8328,27,Torrent,GXP,suv,1
+8329,27,Vibe,Base,hatchback,1
+8330,27,Vibe,Base,hatchback,2
+8331,27,Vibe,Base,wagon,1
+8332,27,Vibe,Base,wagon,2
+8333,27,Vibe,GT,Wagon,2
+8334,27,Vibe,GT,wagon,2
+8335,28,Acadia,Denali,suv,1
+8336,28,Acadia,SL,suv,1
+8337,28,Acadia,SLE,suv,1
+8338,28,Acadia,SLE-1,suv,1
+8339,28,Acadia,SLE-2,suv,1
+8340,28,Acadia,SLT-1,suv,1
+8341,28,Acadia,SLT-2,suv,1
+8342,28,Canyon,SL,extended cab,1
+8343,28,Canyon,SL,regular cab,1
+8344,28,Canyon,SL,regular cab,2
+8345,28,Canyon,SLE,crew cab,1
+8346,28,Canyon,SLE,extended cab,1
+8347,28,Canyon,SLE,regular cab,1
+8348,28,Canyon,SLE-2,crew cab,1
+8349,28,Canyon,Z71 SLE,crew cab,1
+8350,28,Canyon,Z71 SLE Base,crew cab,1
+8351,28,Envoy,Denali,suv,1
+8352,28,Envoy,SLE,suv,1
+8353,28,Envoy,SLT,suv,1
+8354,28,Envoy XL,Denali,suv,1
+8355,28,Envoy XL,SLE,suv,1
+8356,28,Envoy XL,SLT,suv,1
+8357,28,Envoy XUV,SLE,suv,1
+8358,28,Envoy XUV,SLT,suv,1
+8359,28,Jimmy,SLE,suv,1
+8360,28,Savana,LS 1500,Van,1
+8361,28,Savana,LS 3500,van,1
+8362,28,Savana Cargo,2500,van,1
+8363,28,Sierra 1500,Base,Crew Cab,1
+8364,28,Sierra 1500,Base,crew cab,1
+8365,28,Sierra 1500,Base,double cab,1
+8366,28,Sierra 1500,Base,extended cab,1
+8367,28,Sierra 1500,Base,regular cab,1
+8368,28,Sierra 1500,Denali,crew cab,1
+8369,28,Sierra 1500,SL,crew cab,1
+8370,28,Sierra 1500,SL,extended cab,1
+8371,28,Sierra 1500,SL,regular cab,1
+8372,28,Sierra 1500,SL2,crew cab,1
+8373,28,Sierra 1500,SLE,crew cab,1
+8374,28,Sierra 1500,SLE,double cab,1
+8375,28,Sierra 1500,SLE,extended cab,1
+8376,28,Sierra 1500,SLE,regular cab,1
+8377,28,Sierra 1500,SLE1,crew cab,1
+8378,28,Sierra 1500,SLE1,extended cab,1
+8379,28,Sierra 1500,SLE1,regular cab,1
+8380,28,Sierra 1500,SLE2,crew cab,1
+8381,28,Sierra 1500,SLE2,extended cab,1
+8382,28,Sierra 1500,SLT,crew cab,1
+8383,28,Sierra 1500,SLT,double cab,1
+8384,28,Sierra 1500,SLT,extended cab,1
+8385,28,Sierra 1500,Work Truck,crew cab,1
+8386,28,Sierra 1500,Work Truck,extended cab,1
+8387,28,Sierra 1500,Work Truck,regular cab,1
+8388,28,Sierra 1500 Classic,SL2,crew cab,1
+8389,28,Sierra 1500 Classic,SLE1,extended cab,1
+8390,28,Sierra 1500 Classic,SLT,crew cab,1
+8391,28,Sierra 1500 Classic,SLT,extended cab,1
+8392,28,Sierra 1500HD,SLE,crew cab,1
+8393,28,Sierra 2500,Base,Extended Cab,1
+8394,28,Sierra 2500HD,Base,crew cab,1
+8395,28,Sierra 2500HD,Base,extended cab,1
+8396,28,Sierra 2500HD,Denali,crew cab,1
+8397,28,Sierra 2500HD,SL1,crew cab,1
+8398,28,Sierra 2500HD,SLE,crew cab,1
+8399,28,Sierra 2500HD,SLE,extended cab,1
+8400,28,Sierra 2500HD,SLE1,crew cab,1
+8401,28,Sierra 2500HD,SLE1,extended cab,1
+8402,28,Sierra 2500HD,SLT,crew cab,1
+8403,28,Sierra 2500HD,Work Truck,crew cab,1
+8404,28,Sierra 2500HD,Work Truck,extended cab,1
+8405,28,Sierra 2500HD Classic,SLT,crew cab,1
+8406,28,Sierra 3500,SLE,crew cab,1
+8407,28,Sierra 3500HD,Denali,crew cab,1
+8408,28,Sierra 3500HD,SLE,crew cab,1
+8409,28,Sierra 3500HD,SLT,crew cab,1
+8410,28,Sierra 3500HD,Work Truck,Crew Cab,1
+8411,28,Sonoma,SL,extended cab,1
+8412,28,Sonoma,SLE,Extended Cab,1
+8413,28,Sonoma,SLS,extended cab,1
+8414,28,Sonoma,SLS Sport,extended cab,1
+8415,28,Sonoma,SLS Sport,extended cab,2
+8416,28,Terrain,Denali,suv,1
+8417,28,Terrain,SLE-1,suv,1
+8418,28,Terrain,SLE-2,suv,1
+8419,28,Terrain,SLT-1,suv,1
+8420,28,Terrain,SLT-2,suv,1
+8421,28,Yukon,Denali,suv,1
+8422,28,Yukon,Fleet,suv,1
+8423,28,Yukon,SL,suv,1
+8424,28,Yukon,SLE,suv,1
+8425,28,Yukon,SLE1,suv,1
+8426,28,Yukon,SLT,suv,1
+8427,28,Yukon,SLT1,suv,1
+8428,28,Yukon,SLT1 XFE,suv,1
+8429,28,Yukon Hybrid,Base,suv,1
+8430,28,Yukon Hybrid,Denali,suv,1
+8431,28,Yukon XL,1500 SLE,suv,1
+8432,28,Yukon XL,1500 SLT,suv,1
+8433,28,Yukon XL,Denali,suv,1
+8434,28,Yukon XL,SL 1500,suv,1
+8435,28,Yukon XL,SLE,SUV,1
+8436,28,Yukon XL,SLE,suv,1
+8437,28,Yukon XL,SLE 1500,suv,1
+8438,28,Yukon XL,SLT,suv,1
+8439,28,Yukon XL,SLT 1500,suv,1
+8440,28,Yukon XL,SLT1 1500,suv,1
+8441,28,envoy,Base,suv,1
+8442,29,V8 Vantage,Base,coupe,1
+8443,29,V8 Vantage,Base,coupe,2
+8444,29,V8 Vantage,N400 Roadster,convertible,1
+8445,30,A3,1.8 TFSI Premium,sedan,1
+8446,30,A3,1.8 TFSI Premium Plus,sedan,1
+8447,30,A3,2.0 TDI Premium,wagon,1
+8448,30,A3,2.0 TFSI Prestige quattro,sedan,1
+8449,30,A3,2.0T,wagon,1
+8450,30,A3,2.0T,wagon,2
+8451,30,A3,2.0T PZEV,wagon,1
+8452,30,A3,2.0T PZEV Premium,wagon,1
+8453,30,A3,2.0T Premium,wagon,1
+8454,30,A3,3.2 quattro,wagon,1
+8455,30,A4,1.8T,convertible,1
+8456,30,A4,1.8T,sedan,1
+8457,30,A4,1.8T,sedan,2
+8458,30,A4,1.8T Avant quattro,wagon,1
+8459,30,A4,1.8T quattro,sedan,1
+8460,30,A4,1.8T quattro,sedan,2
+8461,30,A4,2.0T,convertible,1
+8462,30,A4,2.0T,sedan,1
+8463,30,A4,2.0T,sedan,2
+8464,30,A4,2.0T Avant Premium quattro,wagon,1
+8465,30,A4,2.0T Avant quattro,wagon,1
+8466,30,A4,2.0T Premium,sedan,1
+8467,30,A4,2.0T Premium Plus,sedan,1
+8468,30,A4,2.0T Premium Plus quattro,sedan,1
+8469,30,A4,2.0T Premium Plus quattro,sedan,2
+8470,30,A4,2.0T Premium quattro,sedan,1
+8471,30,A4,2.0T Premium quattro,sedan,2
+8472,30,A4,2.0T Prestige quattro,sedan,1
+8473,30,A4,2.0T quattro,convertible,1
+8474,30,A4,2.0T quattro,sedan,1
+8475,30,A4,2.0T quattro,sedan,2
+8476,30,A4,2.8 quattro,sedan,1
+8477,30,A4,2.8 quattro,sedan,2
+8478,30,A4,3,convertible,1
+8479,30,A4,3,sedan,1
+8480,30,A4,3.0 Avant quattro,wagon,1
+8481,30,A4,3.0 quattro,convertible,1
+8482,30,A4,3.0 quattro,sedan,1
+8483,30,A4,3.0 quattro,sedan,2
+8484,30,A4,3.2 Avant quattro,wagon,1
+8485,30,A4,3.2 Premium Plus quattro,sedan,1
+8486,30,A4,3.2 quattro,sedan,1
+8487,30,A5,2.0T Premium,convertible,1
+8488,30,A5,2.0T Premium Plus quattro,convertible,1
+8489,30,A5,2.0T Premium Plus quattro,coupe,1
+8490,30,A5,2.0T Premium Plus quattro,coupe,2
+8491,30,A5,2.0T Premium quattro,convertible,1
+8492,30,A5,2.0T Premium quattro,coupe,1
+8493,30,A5,2.0T Premium quattro,coupe,2
+8494,30,A5,2.0T Prestige quattro,Coupe,2
+8495,30,A5,3.2 Premium Plus quattro,coupe,1
+8496,30,A5,quattro,coupe,1
+8497,30,A5,quattro,coupe,2
+8498,30,A6,2.0T Premium,sedan,1
+8499,30,A6,2.0T Premium Plus,sedan,1
+8500,30,A6,2.0T Premium Plus quattro,sedan,1
+8501,30,A6,2.7T S-Line quattro,sedan,1
+8502,30,A6,2.7T quattro,sedan,1
+8503,30,A6,2.8,sedan,1
+8504,30,A6,2.8 Avant quattro,wagon,1
+8505,30,A6,2.8 quattro,sedan,1
+8506,30,A6,3,sedan,1
+8507,30,A6,3.0 quattro,sedan,1
+8508,30,A6,3.0T Premium Plus quattro,sedan,1
+8509,30,A6,3.0T Premium quattro,Sedan,2
+8510,30,A6,3.0T Premium quattro,sedan,1
+8511,30,A6,3.0T Prestige quattro,sedan,1
+8512,30,A6,3.0T quattro,sedan,1
+8513,30,A6,3.2,sedan,1
+8514,30,A6,3.2 Avant quattro,wagon,1
+8515,30,A6,3.2 Premium,sedan,1
+8516,30,A6,3.2 quattro,sedan,1
+8517,30,A6,4.2 quattro,sedan,1
+8518,30,A6,TDI Premium Plus quattro,sedan,1
+8519,30,A7,Premium Plus quattro,sedan,1
+8520,30,A7,Premium quattro,sedan,1
+8521,30,A7,Prestige quattro,sedan,1
+8522,30,A7,TDI Prestige quattro,Sedan,1
+8523,30,A8,4.2 quattro,sedan,1
+8524,30,A8,L 4.0T quattro,sedan,1
+8525,30,A8,L 4.2 quattro,sedan,1
+8526,30,A8,L TDI quattro,sedan,1
+8527,30,A8,L quattro,sedan,1
+8528,30,A8,quattro,sedan,1
+8529,30,Q5,2.0T Premium Plus quattro,suv,1
+8530,30,Q5,2.0T Premium quattro,suv,1
+8531,30,Q5,2.0T Prestige quattro,SUV,1
+8532,30,Q5,3.0T Premium Plus quattro,suv,1
+8533,30,Q5,3.0T Prestige quattro,SUV,1
+8534,30,Q5,3.0T Prestige quattro,suv,1
+8535,30,Q5,3.2 Premium Plus quattro,suv,1
+8536,30,Q5,3.2 Premium quattro,suv,1
+8537,30,Q5,TDI Premium Plus quattro,suv,1
+8538,30,Q7,3.0T Premium Plus quattro,suv,1
+8539,30,Q7,3.0T Premium quattro,suv,1
+8540,30,Q7,3.0T S line Prestige quattro,suv,1
+8541,30,Q7,3.6 Premium quattro,suv,1
+8542,30,Q7,3.6 quattro,suv,1
+8543,30,Q7,4.2 Premium quattro,suv,1
+8544,30,Q7,4.2 Prestige quattro,suv,1
+8545,30,Q7,4.2 quattro,suv,1
+8546,30,Q7,TDI Premium Plus quattro,suv,1
+8547,30,Q7,TDI Premium quattro,suv,1
+8548,30,Q7,TDI Prestige quattro,suv,1
+8549,30,R8,4.2 quattro,coupe,1
+8550,30,R8,4.2 quattro Spyder,Convertible,1
+8551,30,R8,5.2 quattro,coupe,1
+8552,30,R8,5.2 quattro,coupe,2
+8553,30,R8,5.2 quattro Spyder,convertible,1
+8554,30,R8,quattro,coupe,1
+8555,30,R8,quattro,coupe,2
+8556,30,RS 4,quattro,sedan,2
+8557,30,RS 5,quattro,convertible,1
+8558,30,RS 5,quattro,coupe,1
+8559,30,RS 6,quattro,sedan,1
+8560,30,RS 7,Prestige quattro,sedan,1
+8561,30,S4,Avant quattro,Wagon,2
+8562,30,S4,Avant quattro,wagon,1
+8563,30,S4,Premium Plus quattro,sedan,1
+8564,30,S4,Premium Plus quattro,sedan,2
+8565,30,S4,Prestige quattro,sedan,1
+8566,30,S4,quattro,convertible,1
+8567,30,S4,quattro,sedan,1
+8568,30,S4,quattro,sedan,2
+8569,30,S5,3.0T Premium Plus quattro,convertible,1
+8570,30,S5,Premium Plus quattro,convertible,1
+8571,30,S5,Premium Plus quattro,coupe,1
+8572,30,S5,Premium Plus quattro,coupe,2
+8573,30,S5,Prestige quattro,coupe,1
+8574,30,S5,Prestige quattro,coupe,2
+8575,30,S5,quattro,coupe,1
+8576,30,S5,quattro,coupe,2
+8577,30,S6,Prestige,sedan,1
+8578,30,S6,quattro,sedan,1
+8579,30,S7,Prestige quattro,sedan,1
+8580,30,S7,quattro,sedan,1
+8581,30,S8,quattro,sedan,1
+8582,30,SQ5,3.0T Premium Plus quattro,suv,1
+8583,30,TT,180hp,convertible,1
+8584,30,TT,180hp,coupe,1
+8585,30,TT,180hp,coupe,2
+8586,30,TT,180hp quattro,coupe,2
+8587,30,TT,2.0T,convertible,1
+8588,30,TT,2.0T,hatchback,1
+8589,30,TT,2.0T Premium Plus quattro,coupe,1
+8590,30,TT,225hp quattro,convertible,1
+8591,30,TT,225hp quattro,coupe,2
+8592,30,TT,3.2 quattro,hatchback,1
+8593,30,TT,Base,coupe,2
+8594,30,TT RS,quattro,coupe,2
+8595,30,TTS,2.0T quattro,hatchback,1
+8596,30,allroad,Premium Plus quattro,wagon,1
+8597,30,allroad,Premium quattro,wagon,1
+8598,31,Continental Flying Spur,Base,sedan,1
+8599,31,Continental Flying Spur Speed,Base,sedan,1
+8600,31,Continental GT,Base,coupe,1
+8601,31,Continental GT,V8,coupe,1
+8602,31,Continental GTC,Base,convertible,1
+8603,31,Continental GTC,V8,convertible,1
+8604,32,Century,Base,sedan,1
+8605,32,Century,Custom,sedan,1
+8606,32,Century,Standard,sedan,1
+8607,32,Enclave,Base,suv,1
+8608,32,Enclave,CX,suv,1
+8609,32,Enclave,CXL,suv,1
+8610,32,Enclave,CXL1,suv,1
+8611,32,Enclave,CXL2,suv,1
+8612,32,Enclave,Convenience Group,suv,1
+8613,32,Enclave,Leather Group,suv,1
+8614,32,Enclave,Premium Group,suv,1
+8615,32,Encore,Convenience,suv,1
+8616,32,Encore,Leather,suv,1
+8617,32,Encore,Premium,suv,1
+8618,32,LaCrosse,Base,sedan,1
+8619,32,LaCrosse,CX,sedan,1
+8620,32,LaCrosse,CXL,sedan,1
+8621,32,LaCrosse,CXS,sedan,1
+8622,32,LaCrosse,Convenience Group,sedan,1
+8623,32,LaCrosse,Leather Group,sedan,1
+8624,32,LaCrosse,Premium I Group,sedan,1
+8625,32,LaCrosse,Premium II Group,sedan,1
+8626,32,LaCrosse,Premium III Group,sedan,1
+8627,32,LaCrosse,Touring Group,sedan,1
+8628,32,LeSabre,Custom,sedan,1
+8629,32,LeSabre,Limited,sedan,1
+8630,32,Lucerne,CX,sedan,1
+8631,32,Lucerne,CXL,sedan,1
+8632,32,Lucerne,CXL Premium,Sedan,1
+8633,32,Lucerne,CXL Premium,sedan,1
+8634,32,Lucerne,CXS,sedan,1
+8635,32,Lucerne,Super,sedan,1
+8636,32,Park Avenue,Base,sedan,1
+8637,32,Rainier,CXL,suv,1
+8638,32,Rainier,CXL Plus,suv,1
+8639,32,Regal,Base,sedan,1
+8640,32,Regal,CXL,sedan,1
+8641,32,Regal,CXL Turbo,sedan,1
+8642,32,Regal,GS,sedan,1
+8643,32,Regal,GS,sedan,2
+8644,32,Regal,LS,sedan,1
+8645,32,Regal,Premium 1,sedan,1
+8646,32,Regal,Premium 1 Turbo,sedan,1
+8647,32,Regal,Premium 2,Sedan,1
+8648,32,Regal,Premium 2,sedan,1
+8649,32,Regal,Premium I,sedan,1
+8650,32,Rendezvous,CX,suv,1
+8651,32,Rendezvous,CXL,suv,1
+8652,32,Terraza,CX,minivan,1
+8653,32,Terraza,CXL,minivan,1
+8654,32,Verano,Base,sedan,1
+8655,32,Verano,Convenience Group,sedan,1
+8656,32,Verano,Convenience Group 2,sedan,1
+8657,32,Verano,Leather Group,sedan,1
+8658,32,Verano,Premium Group,sedan,1
+8659,34,500,Abarth,hatchback,2
+8660,34,500,C Pop,convertible,1
+8661,34,500,C Pop,convertible,2
+8662,34,500,Lounge,hatchback,1
+8663,34,500,Pop,hatchback,1
+8664,34,500,Pop,hatchback,2
+8665,34,500,Ribelle,Hatchback,1
+8666,34,500,Sport,hatchback,1
+8667,34,500,Sport,hatchback,2
+8668,34,500,t Turbo,hatchback,2
+8669,34,500L,Easy,wagon,1
+8670,34,500L,Lounge,wagon,1
+8671,34,500L,Pop,wagon,1
+8672,34,500L,Pop,wagon,2
+8673,34,500L,Trekking,wagon,1
+8674,34,500L,Trekking,wagon,2
+8675,35,360,Spider,Convertible,2
+8676,35,458 Italia,Base,coupe,1
+8677,35,California,Base,convertible,1
+8678,35,F430,Spider,convertible,1
+8679,36,Karma,Eco-Sport,sedan,1
+8680,37,Metro,LSi,Sedan,1
+8681,37,Prizm,Base,sedan,2
+8682,38,H1,Wagon,SUV,1
+8683,38,H2,Base,suv,1
+8684,38,H2 SUT,Base,crew cab,1
+8685,38,H3,Alpha,suv,1
+8686,38,H3,Base,suv,1
+8687,38,H3,Base,suv,2
+8688,39,Axiom,S,suv,1
+8689,39,Rodeo,LS,suv,1
+8690,39,Rodeo,LS,suv,2
+8691,39,Rodeo,LSE,suv,1
+8692,39,Rodeo,S,suv,1
+8693,39,Trooper,Limited,suv,1
+8694,39,Trooper,S,suv,1
+8695,39,i-Series,i-290 S,extended cab,2
+8696,40,Cherokee,Latitude,suv,1
+8697,40,Cherokee,Limited,suv,1
+8698,40,Cherokee,Sport,suv,1
+8699,40,Cherokee,Sport,suv,2
+8700,40,Cherokee,Trailhawk,suv,1
+8701,40,Commander,Base,suv,1
+8702,40,Commander,Limited,suv,1
+8703,40,Commander,Sport,suv,1
+8704,40,Compass,Altitude Edition,suv,1
+8705,40,Compass,Base,suv,1
+8706,40,Compass,Base,suv,2
+8707,40,Compass,Latitude,suv,1
+8708,40,Compass,Limited,suv,1
+8709,40,Compass,Limited,suv,2
+8710,40,Compass,Sport,suv,1
+8711,40,Compass,Sport,suv,2
+8712,40,Grand Cherokee,Altitude,suv,1
+8713,40,Grand Cherokee,Laredo,suv,1
+8714,40,Grand Cherokee,Limited,suv,1
+8715,40,Grand Cherokee,Overland,suv,1
+8716,40,Grand Cherokee,SRT,suv,1
+8717,40,Grand Cherokee,SRT-8,suv,1
+8718,40,Grand Cherokee,SRT8,suv,1
+8719,40,Grand Cherokee,Summit,suv,1
+8720,40,Grand Cherokee SRT,Base,SUV,1
+8721,40,Liberty,Limited,suv,1
+8722,40,Liberty,Limited Edition,suv,1
+8723,40,Liberty,Limited Jet,suv,1
+8724,40,Liberty,Renegade,suv,1
+8725,40,Liberty,Renegade,suv,2
+8726,40,Liberty,Sport,suv,1
+8727,40,Liberty,Sport,suv,2
+8728,40,Patriot,High Altitude Edition,suv,1
+8729,40,Patriot,Latitude,suv,1
+8730,40,Patriot,Latitude X,suv,1
+8731,40,Patriot,Limited,suv,1
+8732,40,Patriot,Sport,suv,1
+8733,40,Patriot,Sport,suv,2
+8734,40,Wrangler,Freedom Edition,suv,1
+8735,40,Wrangler,Rubicon,suv,1
+8736,40,Wrangler,Rubicon,suv,2
+8737,40,Wrangler,SE,suv,1
+8738,40,Wrangler,SE,suv,2
+8739,40,Wrangler,Sahara,suv,1
+8740,40,Wrangler,Sahara,suv,2
+8741,40,Wrangler,Sport,suv,1
+8742,40,Wrangler,Sport,suv,2
+8743,40,Wrangler,Unlimited,suv,1
+8744,40,Wrangler,Unlimited,suv,2
+8745,40,Wrangler,Unlimited 70th Anniversary,suv,1
+8746,40,Wrangler,Unlimited 70th Anniversary,suv,2
+8747,40,Wrangler,Unlimited Freedom Edition,suv,1
+8748,40,Wrangler,Unlimited Freedom Edition,suv,2
+8749,40,Wrangler,Unlimited Rubicon,suv,1
+8750,40,Wrangler,Unlimited Rubicon,suv,2
+8751,40,Wrangler,Unlimited Rubicon Hard Rock,suv,1
+8752,40,Wrangler,Unlimited Rubicon Hard Rock,suv,2
+8753,40,Wrangler,Unlimited Sahara,suv,1
+8754,40,Wrangler,Unlimited Sahara,suv,2
+8755,40,Wrangler,Unlimited Sport,suv,1
+8756,40,Wrangler,Unlimited Sport,suv,2
+8757,40,Wrangler,Unlimited Sport RHD,SUV,1
+8758,40,Wrangler,Unlimited Sport RHD,suv,1
+8759,40,Wrangler,Unlimited X,suv,1
+8760,40,Wrangler,Unlimited X,suv,2
+8761,40,Wrangler,X,suv,1
+8762,40,Wrangler,X,suv,2
+8763,42,Discovery Series II,SE,suv,1
+8764,42,Freelander,S,suv,1
+8765,42,Freelander,SE,suv,1
+8766,42,LR2,Base,suv,1
+8767,42,LR2,HSE,suv,1
+8768,42,LR2,SE,suv,1
+8769,42,LR3,V8,SUV,1
+8770,42,LR3,V8 HSE,suv,1
+8771,42,LR3,V8 SE,suv,1
+8772,42,LR4,Base,suv,1
+8773,42,LR4,HSE,suv,1
+8774,42,LR4,HSE LUX,suv,1
+8775,42,LR4,V8,suv,1
+8776,42,LR4,XXV,suv,1
+8777,42,Range Rover,4.6 HSE,suv,1
+8778,42,Range Rover,Ebony Edition,suv,1
+8779,42,Range Rover,HSE,suv,1
+8780,42,Range Rover,Supercharged,suv,1
+8781,42,Range Rover Evoque,Dynamic Premium,suv,1
+8782,42,Range Rover Evoque,Prestige Premium,suv,1
+8783,42,Range Rover Evoque,Pure,suv,1
+8784,42,Range Rover Evoque,Pure Plus,suv,1
+8785,42,Range Rover Evoque,Pure Premium,suv,1
+8786,42,Range Rover Sport,GT Limited Edition,suv,1
+8787,42,Range Rover Sport,HSE,suv,1
+8788,42,Range Rover Sport,Luxury,suv,1
+8789,42,Range Rover Sport,Supercharged,suv,1
+8790,42,Range Rover Sport,Supercharged Limited Edition,suv,1
+8791,43,Ghibli,Base,sedan,1
+8792,43,Ghibli,S Q4,sedan,1
+8793,43,GranTurismo,Base,coupe,1
+8794,43,GranTurismo,MC,coupe,1
+8795,43,GranTurismo,S,coupe,1
+8796,43,GranTurismo,S Automatic,coupe,1
+8797,43,GranTurismo Convertible,Base,granturismo convertible,1
+8798,43,Quattroporte,Base,sedan,1
+8799,43,Quattroporte,Executive GT DuoSelect,sedan,1
+8800,43,Quattroporte,GTS,sedan,1
+8801,43,Quattroporte,S,sedan,1
+8802,43,Quattroporte,Sport GT S Automatic,sedan,1
+8803,44,Cougar,Base,hatchback,1
+8804,44,Cougar,V6,hatchback,1
+8805,44,Grand Marquis,GS,sedan,1
+8806,44,Grand Marquis,LS,sedan,1
+8807,44,Grand Marquis,LS Premium,sedan,1
+8808,44,Grand Marquis,LS Ultimate,sedan,1
+8809,44,Grand Marquis,LSE,sedan,1
+8810,44,Marauder,Base,sedan,1
+8811,44,Mariner,Base,suv,1
+8812,44,Mariner,Luxury,suv,1
+8813,44,Mariner,Premier,suv,1
+8814,44,Mariner,V6,suv,1
+8815,44,Mariner Hybrid,Base,suv,1
+8816,44,Milan,Base,sedan,1
+8817,44,Milan,Base,sedan,2
+8818,44,Milan,Premier,sedan,1
+8819,44,Montego,Base,sedan,1
+8820,44,Montego,Luxury,sedan,1
+8821,44,Montego,Premier,sedan,1
+8822,44,Monterey,Luxury,minivan,1
+8823,44,Monterey,Premier,minivan,1
+8824,44,Mountaineer,Base,suv,1
+8825,44,Mountaineer,Convenience,suv,1
+8826,44,Mountaineer,Luxury,suv,1
+8827,44,Mountaineer,Premier,suv,1
+8828,44,Mystique,LS,sedan,1
+8829,44,Sable,Base,sedan,1
+8830,44,Sable,GS,sedan,1
+8831,44,Sable,GS Plus,Sedan,1
+8832,44,Sable,LS,sedan,1
+8833,44,Sable,LS,wagon,1
+8834,44,Sable,LS Premium,sedan,1
+8835,44,Sable,LS Premium,wagon,1
+8836,44,Sable,Premier,sedan,1
+8837,44,Villager,Sport,minivan,1
+8838,45,Diamante,LS,sedan,1
+8839,45,Eclipse,GS,hatchback,1
+8840,45,Eclipse,GS,hatchback,2
+8841,45,Eclipse,GT,hatchback,1
+8842,45,Eclipse,GT,hatchback,2
+8843,45,Eclipse,GTS,hatchback,1
+8844,45,Eclipse,GTS,hatchback,2
+8845,45,Eclipse,RS,hatchback,1
+8846,45,Eclipse,RS,hatchback,2
+8847,45,Eclipse,SE,hatchback,1
+8848,45,Eclipse,SE,hatchback,2
+8849,45,Eclipse Spyder,GS,convertible,1
+8850,45,Eclipse Spyder,GS,convertible,2
+8851,45,Eclipse Spyder,GS-Sport,convertible,1
+8852,45,Eclipse Spyder,GT,convertible,1
+8853,45,Eclipse Spyder,GTS,convertible,1
+8854,45,Endeavor,LS,suv,1
+8855,45,Endeavor,Limited,suv,1
+8856,45,Endeavor,XLS,suv,1
+8857,45,Galant,DE,sedan,1
+8858,45,Galant,ES,sedan,1
+8859,45,Galant,ES V6,sedan,1
+8860,45,Galant,GTS V6,sedan,1
+8861,45,Galant,Ralliart V6,sedan,1
+8862,45,Galant,SE,sedan,1
+8863,45,Galant,Sport Edition,sedan,1
+8864,45,Lancer,DE,sedan,1
+8865,45,Lancer,DE,sedan,2
+8866,45,Lancer,ES,sedan,1
+8867,45,Lancer,ES,sedan,2
+8868,45,Lancer,ES-Sport,sedan,1
+8869,45,Lancer,GT,sedan,1
+8870,45,Lancer,GTS,sedan,1
+8871,45,Lancer,GTS,sedan,2
+8872,45,Lancer,O-Z Rally,sedan,2
+8873,45,Lancer,Ralliart,sedan,1
+8874,45,Lancer,SE,sedan,1
+8875,45,Lancer Evolution,GSR,sedan,2
+8876,45,Lancer Evolution,IX,sedan,2
+8877,45,Lancer Sportback,ES,hatchback,1
+8878,45,Lancer Sportback,GTS,hatchback,1
+8879,45,Mirage,DE,coupe,1
+8880,45,Mirage,DE,hatchback,1
+8881,45,Mirage,DE,hatchback,2
+8882,45,Mirage,DE,sedan,1
+8883,45,Mirage,ES,hatchback,1
+8884,45,Mirage,ES,hatchback,2
+8885,45,Montero,Limited,suv,1
+8886,45,Montero,XLS,suv,1
+8887,45,Montero Sport,3.5XS,suv,1
+8888,45,Montero Sport,ES,suv,1
+8889,45,Montero Sport,LS,suv,1
+8890,45,Montero Sport,XLS,suv,1
+8891,45,Outlander,ES,suv,1
+8892,45,Outlander,GT,suv,1
+8893,45,Outlander,LS,suv,1
+8894,45,Outlander,SE,suv,1
+8895,45,Outlander,XLS,suv,1
+8896,45,Outlander Sport,ES,suv,1
+8897,45,Outlander Sport,ES,suv,2
+8898,45,Outlander Sport,LE,SUV,2
+8899,45,Outlander Sport,LE,suv,1
+8900,45,Outlander Sport,SE,suv,1
+8901,45,Raider,LS,double cab,1
+8902,45,Raider,LS,extended cab,1
+8903,45,i-MiEV,ES,hatchback,1
+8904,45,i-MiEV,SE,hatchback,1
+8905,46,Alero,GL1,coupe,1
+8906,46,Alero,GL1,sedan,1
+8907,46,Alero,GL2,coupe,1
+8908,46,Alero,GL2,sedan,1
+8909,46,Alero,GL4,Sedan,1
+8910,46,Alero,GL4,sedan,1
+8911,46,Alero,GLS,sedan,1
+8912,46,Alero,GX,sedan,1
+8913,46,Aurora,Base,sedan,1
+8914,46,Bravada,Base,suv,1
+8915,46,Cutlass,GL,sedan,1
+8916,46,Cutlass,GLS,sedan,1
+8917,46,Cutlass Ciera,S,sedan,1
+8918,46,Cutlass Supreme,SL,sedan,1
+8919,46,Eighty-Eight,Base,Sedan,1
+8920,46,Eighty-Eight,LS,sedan,1
+8921,46,Intrigue,GLS,sedan,1
+8922,46,Intrigue,GX,sedan,1
+8923,46,Silhouette,GLS,minivan,1
+8924,46,Silhouette,Premiere,minivan,1
+8925,47,Prowler,Base,convertible,1
+8926,48,Ghost,Base,sedan,1
+8927,48,Ghost,EWB,sedan,1
+8928,49,9-2X,Aero,wagon,1
+8929,49,9-2X,Linear,wagon,1
+8930,49,9-3,2.0T,convertible,1
+8931,49,9-3,2.0T,sedan,1
+8932,49,9-3,2.0T SportCombi,wagon,1
+8933,49,9-3,Aero,convertible,1
+8934,49,9-3,Aero,convertible,2
+8935,49,9-3,Aero,sedan,1
+8936,49,9-3,Aero SportCombi,wagon,1
+8937,49,9-3,Arc,convertible,1
+8938,49,9-3,Arc,sedan,1
+8939,49,9-3,Base,hatchback,1
+8940,49,9-3,Comfort,sedan,1
+8941,49,9-3,Linear,sedan,1
+8942,49,9-3,Linear,sedan,2
+8943,49,9-3,SE,convertible,1
+8944,49,9-3,SE,convertible,2
+8945,49,9-3,Vector,Sedan,2
+8946,49,9-3,Vector,sedan,1
+8947,49,9-5,2.3t,Sedan,1
+8948,49,9-5,Aero,Sedan,2
+8949,49,9-5,Arc 2.3T,sedan,1
+8950,49,9-5,Arc 2.3T,wagon,1
+8951,49,9-5,Linear 2.3T,sedan,1
+8952,49,9-5,Turbo4 Premium,sedan,1
+8953,49,9-7X,4.2i,suv,1
+8954,49,9-7X,5.3i,suv,1
+8955,50,FR-S,Base,coupe,1
+8956,50,FR-S,Base,coupe,2
+8957,50,iQ,Base,hatchback,1
+8958,50,tC,Base,hatchback,1
+8959,50,tC,Base,hatchback,2
+8960,50,tC,Spec,hatchback,1
+8961,50,xA,Base,hatchback,1
+8962,50,xB,Base,wagon,1
+8963,50,xB,Base,wagon,2
+8964,50,xD,Base,hatchback,1
+8965,50,xD,Base,hatchback,2
+8966,51,Model S,85,sedan,1
+8967,51,Model S,Base,sedan,1
+8968,51,Model S,Performance,sedan,1
+8969,52,fortwo,BRABUS coupe,hatchback,1
+8970,52,fortwo,electric drive coupe,hatchback,1
+8971,52,fortwo,passion,hatchback,1
+8972,52,fortwo,passion cabrio,convertible,1
+8973,52,fortwo,passion cabriolet,convertible,1
+8974,52,fortwo,passion coupe,hatchback,1
+8975,52,fortwo,pure,hatchback,1
+8976,52,fortwo,pure coupe,hatchback,1
+8977,53,Exige,S,Coupe,2
