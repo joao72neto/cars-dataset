@@ -65,6 +65,11 @@ O banco de dados foi projetado para permitir consultas estratégicas rápidas e 
 - Comparação de vendas por estado ou categoria de veículos.
 - Identificação de padrões que poderiam auxiliar na tomada de decisões.
 
+### Dashboard feito por mim para a análise dos vendedores
+
+![image](https://github.com/user-attachments/assets/8cadfbe2-3824-4c9c-8004-6bf8cf3801ef)
+
+
 ---
 
 ## Aprendizados e Desafios
@@ -90,6 +95,35 @@ O banco de dados foi projetado para permitir consultas estratégicas rápidas e 
 
 ---
 
-## Conclusão
+# Colaboradores
 
-Este projeto demonstrou o processo completo de construção de um banco de dados relacional a partir de um dataset bruto, culminando em uma solução robusta e integrada. O resultado final foi um banco otimizado para análise estratégica, capaz de suportar consultas eficientes e oferecer insights valiosos por meio de dashboards dinâmicos.
+Abaixo estão todos as pessoas que participaram para a realização deste projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fabin0casa">
+        <img src="https://avatars.githubusercontent.com/u/152808119?s=100&v=4" width="100px;" alt="Fábio GitHub"/><br>
+        <sub>
+          <b>Fábio Casagrande</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Joao-Vitor-da-Costa-Vieira">
+        <img src="https://avatars.githubusercontent.com/u/153871810?s=100&v=4" width="100px;" alt="João Vitor GitHub"/><br>
+        <sub>
+          <b>João Vitor</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="linkedin.com/in/gabriela-m-5b7859235">
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>Gabriela Moura</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
