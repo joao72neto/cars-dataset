@@ -60,12 +60,21 @@ Implementamos triggers e procedures para automatizar funções como:
 Essas soluções trouxeram maior robustez e confiabilidade ao sistema.
 
 ### 6. **Análise e Integração**
-O banco de dados foi projetado para permitir consultas estratégicas rápidas e precisas. Criamos visualizações por meio do Power BI, que incluíram dashboards para análises detalhadas, como:
+O banco de dados foi projetado para permitir consultas estratégicas rápidas e precisas. Criamos visualizações por meio do Power BI, que incluíram dashboards para análises, como:
 - Tendências de vendas ao longo do tempo.
 - Comparação de vendas por estado ou categoria de veículos.
 - Identificação de padrões que poderiam auxiliar na tomada de decisões.
 
-### Dashboard feito por mim para a análise dos vendedores
+### Dashboard 
+
+Para cada um dos temas abaixo, um dashboard foi feito para a análise dos dados do dataset:
+
+- Carros
+- Modelos
+- Vendedores
+- Vendas
+
+O tema trabalhado por mim foi vendedores:
 
 ![image](https://github.com/user-attachments/assets/8cadfbe2-3824-4c9c-8004-6bf8cf3801ef)
 
