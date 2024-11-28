@@ -37,7 +37,7 @@ Começamos com a seleção de um dataset contendo informações sobre vendas de 
 ### 2. **Polimento dos Dados**
 O dataset passou por uma etapa de limpeza, onde:
 - Removemos duplicatas e valores inconsistentes.
-- Tratamos dados ausentes com técnicas apropriadas, como substituições ou exclusões.
+- Tratamos dados ausentes.
 - Padronizamos os campos, como datas, estados e categorias de veículos.
 
 Esse processo garantiu que os dados estivessem prontos para a normalização e carregamento no banco de dados.
@@ -93,5 +93,3 @@ O banco de dados foi projetado para permitir consultas estratégicas rápidas e 
 ## Conclusão
 
 Este projeto demonstrou o processo completo de construção de um banco de dados relacional a partir de um dataset bruto, culminando em uma solução robusta e integrada. O resultado final foi um banco otimizado para análise estratégica, capaz de suportar consultas eficientes e oferecer insights valiosos por meio de dashboards dinâmicos.
-
-Este projeto demonstra habilidades avançadas em modelagem, manipulação de dados e análise estratégica, representando uma solução completa para o gerenciamento de dados de vendas.
