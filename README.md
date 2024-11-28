@@ -1,4 +1,4 @@
-# Banco de Dados de Carros
+# Banco de Dados de Carros 🚗
 
 Este projeto consiste no desenvolvimento de um banco de dados profissional a partir de um dataset de vendas de carros dos Estados Unidos. O trabalho abrange desde o polimento do dataset até a criação de estruturas avançadas no banco de dados, seguindo o cronograma descrito na imagem abaixo:
 
