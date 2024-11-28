@@ -2,7 +2,10 @@
 
 Este projeto consiste no desenvolvimento de um banco de dados profissional a partir de um dataset de vendas de carros dos Estados Unidos. O trabalho abrange desde o polimento do dataset até a criação de estruturas avançadas no banco de dados, seguindo o cronograma descrito na imagem abaixo:
 
-![image](https://github.com/user-attachments/assets/3ce10d01-3ef5-40ed-bedf-e7a077c1f090)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/3ce10d01-3ef5-40ed-bedf-e7a077c1f090">
+</div>
+
 
 <!--# Cronograma do Projeto
 ficou estranho :(
@@ -76,8 +79,9 @@ Para cada um dos temas abaixo, um dashboard foi feito para a análise dos dados 
 
 O tema trabalhado por mim foi vendedores:
 
-![image](https://github.com/user-attachments/assets/8cadfbe2-3824-4c9c-8004-6bf8cf3801ef)
-
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/8cadfbe2-3824-4c9c-8004-6bf8cf3801ef">
+</div>
 
 ---
 
