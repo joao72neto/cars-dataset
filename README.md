@@ -131,8 +131,8 @@ Abaixo estão todos as pessoas que participaram para a realização deste projet
       </a>
     </td>
     <td align="center">
-      <a href="linkedin.com/in/gabriela-m-5b7859235">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+      <a href="https://github.com/gabrielagoncalvesxxx">
+        <img src="https://avatars.githubusercontent.com/u/148663760?v=4" width="100px;" alt="Gabriela Moura"/><br>
         <sub>
           <b>Gabriela Moura</b>
         </sub>
